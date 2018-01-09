@@ -1,0 +1,21 @@
+<map id="BGCTools.GraphicExtensions.updateColorValue" name="BGCTools.GraphicExtensions.updateColorValue">
+<area shape="rect" id="node2" href="$class_b_g_c_tools_1_1_graphic_extensions.html#af3fdf71c1ce60790a6cf3ac6afc11dc8" title="BGCTools.GraphicExtensions.update\lAlpha" alt="" coords="307,253,547,294"/>
+<area shape="rect" id="node11" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a2de2269e3cd4a55c0f6a73b8ecb8dcf8" title="BGCTools.GraphicExtensions.updateBlue" alt="" coords="293,377,560,404"/>
+<area shape="rect" id="node16" href="$class_b_g_c_tools_1_1_graphic_extensions.html#adb9dd1a40388b967e7cd509c48985bb5" title="BGCTools.GraphicExtensions.update\lGreen" alt="" coords="307,435,547,477"/>
+<area shape="rect" id="node19" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a3740d9173c023e02a05659ff0b46da1f" title="BGCTools.GraphicExtensions.updateRed" alt="" coords="295,573,559,600"/>
+<area shape="rect" id="node3" href="$class_b_g_c_tools_1_1_graphic_extensions.html#ab2f704320b930ed90eb4b6d08e1c2463" title="Set alpha of an image&#39;s color " alt="" coords="608,5,839,32"/>
+<area shape="rect" id="node4" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a6a69ffac7d487feaf99d6cca92b077e4" title="Set blue and alpha of an image&#39;s color " alt="" coords="623,57,824,98"/>
+<area shape="rect" id="node5" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a870da7df66ef8630d2277121392985c6" title="Set green and alpha of an image&#39;s color " alt="" coords="623,187,824,229"/>
+<area shape="rect" id="node6" href="$class_b_g_c_tools_1_1_graphic_extensions.html#af36cd87539100a2f130d569151b15b75" title="Set green, blue, and alpha of an image&#39;s color " alt="" coords="623,122,824,163"/>
+<area shape="rect" id="node7" href="$class_b_g_c_tools_1_1_graphic_extensions.html#abaf4e3c840e738366d3a071773e812db" title="Set red and alpha of an image&#39;s color " alt="" coords="623,566,824,607"/>
+<area shape="rect" id="node8" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a24c2a8e3936dbc4b2455574903fe6cd7" title="Set red, blue, and alpha of an image&#39;s color " alt="" coords="623,253,824,294"/>
+<area shape="rect" id="node9" href="$class_b_g_c_tools_1_1_graphic_extensions.html#ae8718fc621ab3067cb223c8c37766e26" title="Set red, green, and alpha of an image&#39;s color " alt="" coords="623,501,824,542"/>
+<area shape="rect" id="node10" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a2e19c08e1181a5ff6afaf948b212e8d5" title="Set red, green, blue, and alpha of an image&#39;s color " alt="" coords="623,435,824,477"/>
+<area shape="rect" id="node12" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a441509815fcf33f44103902dba221ebc" title="Set blue of an image&#39;s color " alt="" coords="608,319,839,345"/>
+<area shape="rect" id="node13" href="$class_b_g_c_tools_1_1_graphic_extensions.html#ab22029a4121c3cb7f09bb84f3d9a1611" title="Set green and blue of an image&#39;s color " alt="" coords="623,370,824,411"/>
+<area shape="rect" id="node14" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a9cfa8b26265855d3b578573a911808be" title="Set red and blue of an image&#39;s color " alt="" coords="623,749,824,790"/>
+<area shape="rect" id="node15" href="$class_b_g_c_tools_1_1_graphic_extensions.html#afdd4f7885be3a64401479911ee7617c3" title="set red, green, and blue of an image&#39;s color " alt="" coords="623,683,824,725"/>
+<area shape="rect" id="node17" href="$class_b_g_c_tools_1_1_graphic_extensions.html#aafb13c92db29029d31ed4e45d1d8edc6" title="Set green of an image&#39;s color " alt="" coords="608,632,839,659"/>
+<area shape="rect" id="node18" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a4e3583ef49e9a1f8d45054d15964c83b" title="Set red and green of an image&#39;s color " alt="" coords="623,814,824,855"/>
+<area shape="rect" id="node20" href="$class_b_g_c_tools_1_1_graphic_extensions.html#a831de1663b0ba2c83ebbe1b97f7b93d5" title="Set red of an image&#39;s color " alt="" coords="608,880,839,907"/>
+</map>
