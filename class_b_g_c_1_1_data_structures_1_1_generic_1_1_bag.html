@@ -102,6 +102,8 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 Collaboration diagram for BGC.DataStructures.Generic.Bag&lt; T &gt;:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_b_g_c_1_1_data_structures_1_1_generic_1_1_bag__coll__graph.png" border="0" usemap="#_b_g_c_8_data_structures_8_generic_8_bag_3_01_t_01_4_coll__map" alt="Collaboration graph"/></div>
+<map name="_b_g_c_8_data_structures_8_generic_8_bag_3_01_t_01_4_coll__map" id="_b_g_c_8_data_structures_8_generic_8_bag_3_01_t_01_4_coll__map">
+</map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -127,6 +129,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a4e9669d7074b3ae11330283c7feee630"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_data_structures_1_1_generic_1_1_bag.html#a4e9669d7074b3ae11330283c7feee630">IsEmpty</a> ()</td></tr>
 <tr class="memdesc:a4e9669d7074b3ae11330283c7feee630"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns whether or not the bag is empty  <a href="#a4e9669d7074b3ae11330283c7feee630">More...</a><br /></td></tr>
 <tr class="separator:a4e9669d7074b3ae11330283c7feee630"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa13f3e9b86dd9d3f28ef31ae2eec406d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_data_structures_1_1_generic_1_1_bag.html#aa13f3e9b86dd9d3f28ef31ae2eec406d">EmptyBag</a> ()</td></tr>
+<tr class="memdesc:aa13f3e9b86dd9d3f28ef31ae2eec406d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Empty the cleanlist so the bag will be empty.  <a href="#aa13f3e9b86dd9d3f28ef31ae2eec406d">More...</a><br /></td></tr>
+<tr class="separator:aa13f3e9b86dd9d3f28ef31ae2eec406d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -291,6 +296,34 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
+<a class="anchor" id="aa13f3e9b86dd9d3f28ef31ae2eec406d"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="class_b_g_c_1_1_data_structures_1_1_generic_1_1_bag.html">BGC.DataStructures.Generic.Bag</a>&lt; T &gt;.EmptyBag </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Empty the cleanlist so the bag will be empty. </p>
+
+<p>Definition at line <a class="el" href="_bag_8cs_source.html#l00124">124</a> of file <a class="el" href="_bag_8cs_source.html">Bag.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;        {</div><div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;            <a class="code" href="class_b_g_c_1_1_data_structures_1_1_generic_1_1_bag.html#a255f94d53759292192f32e599d8fb109">cleanList</a>.Clear();</div><div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_data_structures_1_1_generic_1_1_bag_html_a255f94d53759292192f32e599d8fb109"><div class="ttname"><a href="class_b_g_c_1_1_data_structures_1_1_generic_1_1_bag.html#a255f94d53759292192f32e599d8fb109">BGC.DataStructures.Generic.Bag.cleanList</a></div><div class="ttdeci">List&lt; T &gt; cleanList</div><div class="ttdef"><b>Definition:</b> <a href="_bag_8cs_source.html#l00021">Bag.cs:21</a></div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <a class="anchor" id="a4e9669d7074b3ae11330283c7feee630"></a>
 <div class="memitem">
 <div class="memproto">
@@ -438,7 +471,7 @@ Private Attributes</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Jan 10 2018 14:37:00 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Tue Jan 16 2018 14:24:42 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>
