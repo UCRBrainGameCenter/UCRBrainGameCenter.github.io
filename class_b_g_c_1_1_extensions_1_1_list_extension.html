@@ -124,6 +124,15 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:ab02f85e985c800b50fe6ed9e78088e01"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_extensions_1_1_list_extension.html#ab02f85e985c800b50fe6ed9e78088e01">GetSequenceHashCode&lt; T &gt;</a> (this IList&lt; T &gt; sequence)</td></tr>
 <tr class="memdesc:ab02f85e985c800b50fe6ed9e78088e01"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a href="https://stackoverflow.com/questions/8094867/good-gethashcode-override-for-list-of-foo-objects-respecting-the-order">https://stackoverflow.com/questions/8094867/good-gethashcode-override-for-list-of-foo-objects-respecting-the-order</a>  <a href="#ab02f85e985c800b50fe6ed9e78088e01">More...</a><br /></td></tr>
 <tr class="separator:ab02f85e985c800b50fe6ed9e78088e01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b870047a36dd6742c759de67669f101"><td class="memItemLeft" align="right" valign="top">static int[]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_extensions_1_1_list_extension.html#a2b870047a36dd6742c759de67669f101">Indexes</a> (this IList list)</td></tr>
+<tr class="memdesc:a2b870047a36dd6742c759de67669f101"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a list of all the valid indexes in the list  <a href="#a2b870047a36dd6742c759de67669f101">More...</a><br /></td></tr>
+<tr class="separator:a2b870047a36dd6742c759de67669f101"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4420d3573fa2aae413eec15e96892cc2"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_extensions_1_1_list_extension.html#a4420d3573fa2aae413eec15e96892cc2">SetAdd&lt; T &gt;</a> (this List&lt; T &gt; list, T item)</td></tr>
+<tr class="memdesc:a4420d3573fa2aae413eec15e96892cc2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add an item to a list if it is not already in the list.  <a href="#a4420d3573fa2aae413eec15e96892cc2">More...</a><br /></td></tr>
+<tr class="separator:a4420d3573fa2aae413eec15e96892cc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59ad819efc3a62c07205f669ab59bdaa"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_extensions_1_1_list_extension.html#a59ad819efc3a62c07205f669ab59bdaa">SetSub&lt; T &gt;</a> (this List&lt; T &gt; list, T item)</td></tr>
+<tr class="memdesc:a59ad819efc3a62c07205f669ab59bdaa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove all occurrences of item in list  <a href="#a59ad819efc3a62c07205f669ab59bdaa">More...</a><br /></td></tr>
+<tr class="separator:a59ad819efc3a62c07205f669ab59bdaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Set of extensions for a list for easier use of ILists </p>
@@ -169,6 +178,41 @@ Static Public Member Functions</h2></td></tr>
 
 <p>Definition at line <a class="el" href="_list_extensions_8cs_source.html#l00127">127</a> of file <a class="el" href="_list_extensions_8cs_source.html">ListExtensions.cs</a>.</p>
 <div class="fragment"><div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;        {</div><div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;            unchecked</div><div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;            {</div><div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;                <span class="keywordtype">int</span> hash = 19;</div><div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;                <span class="keywordflow">foreach</span> (var foo <span class="keywordflow">in</span> sequence)</div><div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;                {</div><div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;                    hash = hash * 31 + foo.GetHashCode();</div><div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;                }</div><div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;</div><div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;                <span class="keywordflow">return</span> hash;</div><div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;            }</div><div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;        }</div></div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a2b870047a36dd6742c759de67669f101"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static int [] BGC.Extensions.ListExtension.Indexes </td>
+          <td>(</td>
+          <td class="paramtype">this IList&#160;</td>
+          <td class="paramname"><em>list</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Get a list of all the valid indexes in the list </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">list</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
+<p>Definition at line <a class="el" href="_list_extensions_8cs_source.html#l00146">146</a> of file <a class="el" href="_list_extensions_8cs_source.html">ListExtensions.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;        {</div><div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;            <span class="keywordtype">int</span>[] indexes = <span class="keyword">new</span> <span class="keywordtype">int</span>[list.Count];</div><div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;</div><div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;            <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; list.Count; ++i)</div><div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;            {</div><div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;                indexes[i] = i;</div><div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;            }</div><div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;</div><div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;            <span class="keywordflow">return</span> indexes;</div><div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;        }</div></div><!-- fragment -->
 </div>
 </div>
 <a class="anchor" id="ab0210878dcb602ed6f0aebcaca02bbd7"></a>
@@ -378,6 +422,110 @@ Static Public Member Functions</h2></td></tr>
 <div class="fragment"><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;        {</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;            <span class="keywordflow">if</span> (list.Count == 0)</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;            {</div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;                Debug.LogError(</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;                    <span class="stringliteral">&quot;Received list of length 0 which doesn&#39;t allow for random value, &quot;</span> +</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;                    <span class="stringliteral">&quot;returning default value&quot;</span>);</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;                <span class="keywordflow">return</span> <span class="keywordflow">default</span>(T);</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;            }</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;            <span class="keywordflow">return</span> (T)list[list.RandomIndex()];</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;        }</div></div><!-- fragment -->
 </div>
 </div>
+<a class="anchor" id="a4420d3573fa2aae413eec15e96892cc2"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool BGC.Extensions.ListExtension.SetAdd&lt; T &gt; </td>
+          <td>(</td>
+          <td class="paramtype">this List&lt; T &gt;&#160;</td>
+          <td class="paramname"><em>list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>item</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Add an item to a list if it is not already in the list. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">list</td><td></td></tr>
+    <tr><td class="paramname">item</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>True if the item was not present and added to the list</dd></dl>
+
+<p>Definition at line <a class="el" href="_list_extensions_8cs_source.html#l00165">165</a> of file <a class="el" href="_list_extensions_8cs_source.html">ListExtensions.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;        {</div><div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;            <span class="keywordtype">bool</span> added = <span class="keyword">false</span>;</div><div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160;</div><div class="line"><a name="l00169"></a><span class="lineno">  169</span>&#160;            <span class="keywordflow">if</span> (list.Contains(item) == <span class="keyword">false</span>)</div><div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;            {</div><div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160;                list.Add(item);</div><div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;                added = <span class="keyword">true</span>;</div><div class="line"><a name="l00173"></a><span class="lineno">  173</span>&#160;            }</div><div class="line"><a name="l00174"></a><span class="lineno">  174</span>&#160;</div><div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;            <span class="keywordflow">return</span> added;</div><div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160;        }</div></div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a59ad819efc3a62c07205f669ab59bdaa"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool BGC.Extensions.ListExtension.SetSub&lt; T &gt; </td>
+          <td>(</td>
+          <td class="paramtype">this List&lt; T &gt;&#160;</td>
+          <td class="paramname"><em>list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>item</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Remove all occurrences of item in list </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">T</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">list</td><td></td></tr>
+    <tr><td class="paramname">item</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>if item was found at all in list and removed</dd></dl>
+
+<p>Definition at line <a class="el" href="_list_extensions_8cs_source.html#l00185">185</a> of file <a class="el" href="_list_extensions_8cs_source.html">ListExtensions.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;        {</div><div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;            <span class="keywordtype">bool</span> removed = <span class="keyword">false</span>;</div><div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;</div><div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;            <span class="keywordflow">while</span> (list.Contains(item))</div><div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;            {</div><div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;                list.Remove(item);</div><div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;                removed = <span class="keyword">true</span>;</div><div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;            }</div><div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;</div><div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;            <span class="keywordflow">return</span> removed;</div><div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;        }</div></div><!-- fragment -->
+</div>
+</div>
 <a class="anchor" id="a5e8be9acfddc6dcdc468e46b4535d51b"></a>
 <div class="memitem">
 <div class="memproto">
@@ -476,7 +624,7 @@ Static Public Member Functions</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Feb 2 2018 14:49:31 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Feb 2 2018 14:50:32 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>
