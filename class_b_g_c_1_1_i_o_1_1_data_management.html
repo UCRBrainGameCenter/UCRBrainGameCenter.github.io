@@ -218,8 +218,21 @@ Static Private Member Functions</h2></td></tr>
 </p>
 
 <p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00044">44</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
+
+<p>Referenced by <a class="el" href="_file_reader_8cs_source.html#l00067">BGC.IO.FileReader.parseException()</a>, and <a class="el" href="_file_writer_8cs_source.html#l00011">BGC.IO.FileWriter.WriteJson()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;        {</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;            <span class="keywordtype">string</span> path = Path.Combine(<a class="code" href="class_b_g_c_1_1_i_o_1_1_data_management.html#aaf4185bfee8f590c81861bd186e61d9c">GetDataRootDir</a>(), dataSubdir);</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;            <span class="keywordflow">if</span> (!Directory.Exists(path))</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;            {</div><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                Directory.CreateDirectory(path);</div><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;            }</div><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;</div><div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;            <span class="keywordflow">return</span> path;</div><div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_i_o_1_1_data_management_html_aaf4185bfee8f590c81861bd186e61d9c"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_data_management.html#aaf4185bfee8f590c81861bd186e61d9c">BGC.IO.DataManagement.GetDataRootDir</a></div><div class="ttdeci">static string GetDataRootDir()</div><div class="ttdoc">Get path for dat directory root </div><div class="ttdef"><b>Definition:</b> <a href="_data_management_8cs_source.html#l00025">DataManagement.cs:25</a></div></div>
 </div><!-- fragment -->
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_data_management_aa4fe5307a7f50d4b36062cfda21b7681_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_data_management_aa4fe5307a7f50d4b36062cfda21b7681_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_data_management_aa4fe5307a7f50d4b36062cfda21b7681_icgraph" id="class_b_g_c_1_1_i_o_1_1_data_management_aa4fe5307a7f50d4b36062cfda21b7681_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_file_reader.html#ad1b51743c016862ec327df8c4cd210b6" title="BGC.IO.FileReader.parseException" alt="" coords="260,5,491,32"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_i_o_1_1_file_writer.html#a5ce0161c85281016fb094aef9a1e5fb4" title="BGC.IO.FileWriter.WriteJson" alt="" coords="279,56,471,83"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
@@ -228,7 +241,7 @@ Static Private Member Functions</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Tue Mar 27 2018 14:18:23 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Wed Apr 4 2018 16:32:00 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

@@ -1,5 +1,4 @@
 <map id="LightJson.JsonArray.Add" name="LightJson.JsonArray.Add">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a783aaab6d156d5c42afdd4b4a1b6feef" title="Converts any list to a Json Array of String Values " alt="" coords="221,5,443,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a74d932d9712c426874a58f410f421b4c" title="Converts an int list to a Json Array of Int Values " alt="" coords="221,71,443,112"/>
-<area shape="rect" id="node4" href="$class_light_json_1_1_serialization_1_1_json_reader.html#ab295d9a5035ee7935bdaaba08270f1bd" title="LightJson.Serialization.\lJsonReader.ReadArray" alt="" coords="253,136,411,177"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#aac2da4d414c032595906976dbbdece01" title="Converts any list to a Json Array of user defined values " alt="" coords="221,5,443,47"/>
+<area shape="rect" id="node3" href="$class_light_json_1_1_serialization_1_1_json_reader.html#ab295d9a5035ee7935bdaaba08270f1bd" title="LightJson.Serialization.\lJsonReader.ReadArray" alt="" coords="253,71,411,112"/>
 </map>

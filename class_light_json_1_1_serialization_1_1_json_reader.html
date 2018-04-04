@@ -240,6 +240,7 @@ Here is the caller graph for this function:</div>
 <area shape="rect" id="node2" href="class_light_json_1_1_serialization_1_1_json_reader.html#aad2988e1ffdc33d25ee8e9cdc6c6f1e5" title="Creates a JsonValue by using the given TextReader. " alt="" coords="223,5,380,47"/>
 <area shape="rect" id="node3" href="struct_light_json_1_1_json_value.html#a393b65df7ad4dc774a6eb5cdea26aecb" title="Returns a JsonValue by parsing the given string. " alt="" coords="211,71,392,98"/>
 <area shape="rect" id="node4" href="class_light_json_1_1_serialization_1_1_json_reader.html#a95a87d70bbe7763caab326c72317cfb5" title="Creates a JsonValue by reading the given file. " alt="" coords="223,123,380,164"/>
+<area shape="rect" id="node5" href="class_b_g_c_1_1_i_o_1_1_file_reader.html#a3eddca1c642983df9b0c0b2c62fd9bff" title="Gives two callbacks for when a file is not found and for when a file has been succesfully parsed into..." alt="" coords="440,130,660,157"/>
 </map>
 </div>
 </p>
@@ -375,6 +376,8 @@ Here is the call graph for this function:</div>
 <p>Definition at line <a class="el" href="_json_reader_8cs_source.html#l00446">446</a> of file <a class="el" href="_json_reader_8cs_source.html">JsonReader.cs</a>.</p>
 
 <p>References <a class="el" href="_json_reader_8cs_source.html#l00405">LightJson.Serialization.JsonReader.Parse()</a>.</p>
+
+<p>Referenced by <a class="el" href="_file_reader_8cs_source.html#l00029">BGC.IO.FileReader.ReadJsonFile()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00447"></a><span class="lineno">  447</span>&#160;        {</div><div class="line"><a name="l00448"></a><span class="lineno">  448</span>&#160;            <span class="keywordflow">if</span> (path == null)</div><div class="line"><a name="l00449"></a><span class="lineno">  449</span>&#160;            {</div><div class="line"><a name="l00450"></a><span class="lineno">  450</span>&#160;                <span class="keywordflow">throw</span> <span class="keyword">new</span> ArgumentNullException(<span class="stringliteral">&quot;path&quot;</span>);</div><div class="line"><a name="l00451"></a><span class="lineno">  451</span>&#160;            }</div><div class="line"><a name="l00452"></a><span class="lineno">  452</span>&#160;</div><div class="line"><a name="l00453"></a><span class="lineno">  453</span>&#160;            <span class="keyword">using</span> (var reader = <span class="keyword">new</span> StreamReader(path))</div><div class="line"><a name="l00454"></a><span class="lineno">  454</span>&#160;            {</div><div class="line"><a name="l00455"></a><span class="lineno">  455</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_serialization_1_1_json_reader.html#a9a6d93d9aee3a3d4bece33e7357ffbcc">JsonReader</a>(reader).Parse();</div><div class="line"><a name="l00456"></a><span class="lineno">  456</span>&#160;            }</div><div class="line"><a name="l00457"></a><span class="lineno">  457</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_serialization_1_1_json_reader_html_a9a6d93d9aee3a3d4bece33e7357ffbcc"><div class="ttname"><a href="class_light_json_1_1_serialization_1_1_json_reader.html#a9a6d93d9aee3a3d4bece33e7357ffbcc">LightJson.Serialization.JsonReader.JsonReader</a></div><div class="ttdeci">JsonReader(TextReader reader)</div><div class="ttdef"><b>Definition:</b> <a href="_json_reader_8cs_source.html#l00017">JsonReader.cs:17</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -384,6 +387,16 @@ Here is the call graph for this function:</div>
 <map name="class_light_json_1_1_serialization_1_1_json_reader_a95a87d70bbe7763caab326c72317cfb5_cgraph" id="class_light_json_1_1_serialization_1_1_json_reader_a95a87d70bbe7763caab326c72317cfb5_cgraph">
 <area shape="rect" id="node2" href="class_light_json_1_1_serialization_1_1_json_reader.html#a4a2f0692bf9dec28417fe83924ac7380" title="LightJson.Serialization.\lJsonReader.Parse" alt="" coords="211,5,368,47"/>
 <area shape="rect" id="node3" href="class_light_json_1_1_serialization_1_1_text_scanner.html#a5cb96d47ba47baf23c2202e0eb5db4b3" title="Advances the scanner to next non&#45;whitespace character. " alt="" coords="416,5,611,47"/>
+</map>
+</div>
+</p>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_light_json_1_1_serialization_1_1_json_reader_a95a87d70bbe7763caab326c72317cfb5_icgraph.png" border="0" usemap="#class_light_json_1_1_serialization_1_1_json_reader_a95a87d70bbe7763caab326c72317cfb5_icgraph" alt=""/></div>
+<map name="class_light_json_1_1_serialization_1_1_json_reader_a95a87d70bbe7763caab326c72317cfb5_icgraph" id="class_light_json_1_1_serialization_1_1_json_reader_a95a87d70bbe7763caab326c72317cfb5_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_file_reader.html#a3eddca1c642983df9b0c0b2c62fd9bff" title="Gives two callbacks for when a file is not found and for when a file has been succesfully parsed into..." alt="" coords="211,13,431,39"/>
 </map>
 </div>
 </p>
@@ -920,7 +933,7 @@ Here is the call graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Tue Mar 27 2018 14:18:23 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Wed Apr 4 2018 16:32:00 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>
