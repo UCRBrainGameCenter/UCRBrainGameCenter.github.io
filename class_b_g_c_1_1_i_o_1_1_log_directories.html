@@ -187,8 +187,21 @@ Static Private Attributes</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd></dd></dl>
 
 <p>Definition at line <a class="el" href="_log_directories_8cs_source.html#l00122">122</a> of file <a class="el" href="_log_directories_8cs_source.html">LogDirectories.cs</a>.</p>
+
+<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00146">BGC.IO.Logging.Logger.CloseFile()</a>, and <a class="el" href="_log_files_to_s3_8cs_source.html#l00032">BGC.Utility.LogFilesTos3.migrateUser()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;        {</div><div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;            <span class="keywordtype">string</span> dir = Path.Combine(<a class="code" href="class_b_g_c_1_1_i_o_1_1_log_directories.html#afa19570c43f137119a3ded85e77146cd">PermanentDirectory</a>, user);</div><div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;            <span class="keywordflow">if</span> (Directory.Exists(dir) == <span class="keyword">false</span>)</div><div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;            {</div><div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;                Directory.CreateDirectory(dir);</div><div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;            }</div><div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;</div><div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;            <span class="keywordflow">return</span> dir;</div><div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_i_o_1_1_log_directories_html_afa19570c43f137119a3ded85e77146cd"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_log_directories.html#afa19570c43f137119a3ded85e77146cd">BGC.IO.LogDirectories.PermanentDirectory</a></div><div class="ttdeci">static string PermanentDirectory</div><div class="ttdoc">Directory for all logs that have been merged into s3 </div><div class="ttdef"><b>Definition:</b> <a href="_log_directories_8cs_source.html#l00062">LogDirectories.cs:62</a></div></div>
 </div><!-- fragment -->
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_log_directories_adeec8252558186fe559feb87fe2b9c26_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_log_directories_adeec8252558186fe559feb87fe2b9c26_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_log_directories_adeec8252558186fe559feb87fe2b9c26_icgraph" id="class_b_g_c_1_1_i_o_1_1_log_directories_adeec8252558186fe559feb87fe2b9c26_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a10c1499e6315338e7e1194a50baf001e" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="256,5,476,32"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_utility_1_1_log_files_tos3.html#ae3a4bfecf89694962efbf727904b8e13" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="243,56,489,83"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <a class="anchor" id="a5080b6182b612af4812d83e51879f47f"></a>
@@ -224,7 +237,7 @@ Static Private Attributes</h2></td></tr>
 
 <p>Definition at line <a class="el" href="_log_directories_8cs_source.html#l00105">105</a> of file <a class="el" href="_log_directories_8cs_source.html">LogDirectories.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00185">BGC.IO.Logging.Logger.PathForLogFile()</a>.</p>
+<p>Referenced by <a class="el" href="_log_files_to_s3_8cs_source.html#l00032">BGC.Utility.LogFilesTos3.migrateUser()</a>, and <a class="el" href="_logger_8cs_source.html#l00200">BGC.IO.Logging.Logger.PathForLogFile()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;        {</div><div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;            <span class="keywordtype">string</span> dir = Path.Combine(<a class="code" href="class_b_g_c_1_1_i_o_1_1_log_directories.html#a52805b1a8d2c95ea312a15f9ab347134">StagingDirectory</a>, user);</div><div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;            <span class="keywordflow">if</span> (Directory.Exists(dir) == <span class="keyword">false</span>)</div><div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;            {</div><div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;                Directory.CreateDirectory(dir);</div><div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;            }</div><div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;</div><div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;            <span class="keywordflow">return</span> dir;</div><div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_i_o_1_1_log_directories_html_a52805b1a8d2c95ea312a15f9ab347134"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_log_directories.html#a52805b1a8d2c95ea312a15f9ab347134">BGC.IO.LogDirectories.StagingDirectory</a></div><div class="ttdeci">static string StagingDirectory</div><div class="ttdoc">Directory for all staged files that are to be moved to s3 and then put into the PermanentDirectory ...</div><div class="ttdef"><b>Definition:</b> <a href="_log_directories_8cs_source.html#l00042">LogDirectories.cs:42</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -232,7 +245,8 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_b_g_c_1_1_i_o_1_1_log_directories_a5080b6182b612af4812d83e51879f47f_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_log_directories_a5080b6182b612af4812d83e51879f47f_icgraph" alt=""/></div>
 <map name="class_b_g_c_1_1_i_o_1_1_log_directories_a5080b6182b612af4812d83e51879f47f_icgraph" id="class_b_g_c_1_1_i_o_1_1_log_directories_a5080b6182b612af4812d83e51879f47f_icgraph">
-<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a8e3d2b4713248800d39bda7b2a782c7e" title="BGC.IO.Logging.Logger.Path\lForLogFile" alt="" coords="243,5,435,47"/>
+<area shape="rect" id="node2" href="class_b_g_c_1_1_utility_1_1_log_files_tos3.html#ae3a4bfecf89694962efbf727904b8e13" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="243,5,489,32"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a8e3d2b4713248800d39bda7b2a782c7e" title="BGC.IO.Logging.Logger.Path\lForLogFile" alt="" coords="270,57,462,98"/>
 </map>
 </div>
 </p>
@@ -407,7 +421,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_log_directories_8cs_source.html#l00083">83</a> of file <a class="el" href="_log_directories_8cs_source.html">LogDirectories.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00177">BGC.IO.Logging.Logger.GetExceptionFileName()</a>.</p>
+<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00192">BGC.IO.Logging.Logger.GetExceptionFileName()</a>.</p>
 
 </div>
 </div>
@@ -457,8 +471,6 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_log_directories_8cs_source.html#l00062">62</a> of file <a class="el" href="_log_directories_8cs_source.html">LogDirectories.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_log_files_to_s3_8cs_source.html#l00031">BGC.Utility.LogFilesTos3.migrateUser()</a>, and <a class="el" href="_reserved_files_8cs_source.html#l00050">BGC.Utility.ReservedFiles.UnReserveFile()</a>.</p>
-
 </div>
 </div>
 <a class="anchor" id="a52805b1a8d2c95ea312a15f9ab347134"></a>
@@ -483,7 +495,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_log_directories_8cs_source.html#l00042">42</a> of file <a class="el" href="_log_directories_8cs_source.html">LogDirectories.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_log_files_to_s3_8cs_source.html#l00015">BGC.Utility.LogFilesTos3.MigrateFiles()</a>, and <a class="el" href="_log_files_to_s3_8cs_source.html#l00031">BGC.Utility.LogFilesTos3.migrateUser()</a>.</p>
+<p>Referenced by <a class="el" href="_log_files_to_s3_8cs_source.html#l00016">BGC.Utility.LogFilesTos3.MigrateFiles()</a>.</p>
 
 </div>
 </div>
@@ -493,7 +505,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon May 21 2018 16:28:12 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Wed May 23 2018 13:18:03 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>
