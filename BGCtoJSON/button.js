@@ -10,7 +10,7 @@ function OnClick()
     if(result != null)
     {
         var dialog = bootbox.dialog({
-            message: '<center><h5>Parsing was a success</h5></center>' +
+            message: '<center><h5 style="color: #77B300">Parsing was a success</h5></center>' +
             '<textarea readonly class="form-control" id="output" rows="8">' + result + '</textarea>',
             buttons: {
                 copyToClipboard: {
@@ -25,14 +25,14 @@ function OnClick()
 
                 }
             }
-
         });
     }
 
     else
     {
         var dialog = bootbox.dialog({
-            message: '<center><h5>Parsing failed</h5></center>',
+            message: '<center><h5 style="color: #CC0000">Parsing failed</h5></center>',
+            className: 'bg-danger',
             backdrop: true,
             onEscape: true
         });
