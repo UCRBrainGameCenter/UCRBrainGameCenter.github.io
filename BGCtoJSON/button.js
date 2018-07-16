@@ -3,7 +3,25 @@ function OnClick()
     var input = document.getElementById("textinput").value;
     var result;
 
-    //lambda call on input
+    var settings = {
+        "async": true,
+        "crossDomain": true,
+        "url": "https://r6irmiu26k.execute-api.us-east-1.amazonaws.com/Production/bgc-to-json",
+        "method": "POST",
+        "headers": {
+          "Content-Type": "application/json",
+          "file": "work!!!",
+          "Cache-Control": "no-cache",
+          "Postman-Token": "42823dfd-c7d5-f035-1f20-6fb37402c7e8"
+        },
+      
+        "processData": false,
+        "data": input
+    }
+
+      $.ajax(settings).done(function (response) {
+        console.log(response);
+      });
 
     result = input;
 
