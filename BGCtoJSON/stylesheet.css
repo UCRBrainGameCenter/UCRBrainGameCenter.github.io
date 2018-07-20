@@ -1,0 +1,30 @@
+#textinput
+{
+    background-color: darkgrey;
+}
+
+h1
+{
+    color: darkgrey;
+}
+
+.form-group
+{
+    padding-top: 7%;
+}
+
+.btn
+{
+    font-size: x-large;
+    margin: auto;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.modal-footer
+{
+    text-align: center;
+}
