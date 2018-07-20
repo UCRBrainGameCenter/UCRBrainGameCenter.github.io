@@ -10,8 +10,6 @@ function OnClick()
     text = text.split("\n").join("\\n");
     text = intro + text + ending;
 
-    console.log(text);
-
     var settings = {
         "async": true,
         "crossDomain": true,
@@ -32,11 +30,12 @@ function OnClick()
         {
             console.debug(xhr);
             console.debug(error);
-            createErrorModal(null, "Could not send to Server, is your CORS plugin enabled?");
+            createErrorModal(null, 
+                "Could not send to Server, is your CORS plugin enabled?" +
+                '\n <a href="https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/">Firefox CORS Addon</a>' +
+                '\n <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en">Chrome CORS Addon</a>')
         }
     }
-    
-    
     
     $.ajax(settings).done(function (response) {
         console.log(response);
@@ -56,7 +55,7 @@ function OnClick()
                 buttons: {
                     copyToClipboard: {
                         label: "Copy to Clipboard",
-                        className: 'btn-info',
+                        className: 'btn-info center',
                         callback: function()
                         {
                             const output = document.getElementById("output");
@@ -65,7 +64,6 @@ function OnClick()
 
                             return false;
                         }
-                        
                     }
                 }
             });

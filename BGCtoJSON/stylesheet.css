@@ -10,10 +10,21 @@ h1
 
 .form-group
 {
-    padding-top: 10%;
+    padding-top: 7%;
 }
 
 .btn
 {
     font-size: x-large;
+    margin: auto;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.modal-footer
+{
+    text-align: center;
 }
