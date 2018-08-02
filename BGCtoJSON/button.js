@@ -13,7 +13,7 @@ function OnClick()
     var settings = {
         "async": true,
         "crossDomain": true,
-        "url": "https://r6irmiu26k.execute-api.us-east-1.amazonaws.com/Production/bgc-to-json",
+        "url": "https://84cje3rj4j.execute-api.us-east-1.amazonaws.com/Production/bgc-to-json",
         "method": "POST",
         "headers": {
           "access-control-allow-origin": "*",
