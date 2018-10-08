@@ -1,0 +1,4 @@
+<map id="BGC.StateMachine.OrConjunction" name="BGC.StateMachine.OrConjunction">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html" title="TransitionCondition" alt="" coords="14,117,149,143"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html" title="BGC.StateMachine.Transition\lCondition" alt="" coords="173,109,369,151"/>
+</map>

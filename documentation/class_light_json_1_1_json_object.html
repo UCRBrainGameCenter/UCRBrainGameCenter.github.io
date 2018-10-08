@@ -253,7 +253,7 @@ Private Attributes</h2></td></tr>
 
 <p>References <a class="el" href="_json_value_8cs_source.html#l00021">LightJson.JsonValue.Null</a>.</p>
 
-<p>Referenced by <a class="el" href="_json_object_8cs_source.html#l00080">LightJson.JsonObject.Add()</a>, <a class="el" href="_logger_8cs_source.html#l00067">BGC.IO.Logging.Logger.ApplyHeaders()</a>, <a class="el" href="_logger_8cs_source.html#l00205">BGC.IO.Logging.Logger.ApplyRequiredFields()</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00075">BGC.Web.AWSServer.PostToAWS()</a>, and <a class="el" href="_json_reader_8cs_source.html#l00294">LightJson.Serialization.JsonReader.ReadObject()</a>.</p>
+<p>Referenced by <a class="el" href="_json_object_8cs_source.html#l00080">LightJson.JsonObject.Add()</a>, <a class="el" href="_logger_8cs_source.html#l00207">BGC.IO.Logging.Logger.ApplyRequiredFields()</a>, <a class="el" href="_bgc_to_json_8cs_source.html#l00052">BGC.Utility.BgcToJson.ConvertBGCToJson()</a>, <a class="el" href="_bgc_to_json_8cs_source.html#l00124">BGC.Utility.BgcToJson.ConvertLine()</a>, <a class="el" href="_json_reader_8cs_source.html#l00294">LightJson.Serialization.JsonReader.ReadObject()</a>, <a class="el" href="_enum_utility_8cs_source.html#l00038">BGC.Utility.EnumUtility.ToJsonObject&lt; T &gt;()</a>, and <a class="el" href="_json_extensions_8cs_source.html#l00038">BGC.Extensions.JsonExtensions.TryGetValue()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;        {</div><div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;            <span class="keywordflow">return</span> <a class="code" href="class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87">Add</a>(key, JsonValue.Null);</div><div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a6e1c73338d5bc119f44b49b15bbedd87"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87">LightJson.JsonObject.Add</a></div><div class="ttdeci">JsonObject Add(string key)</div><div class="ttdoc">Adds a key with a null value to this collection. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00069">JsonObject.cs:69</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -261,11 +261,13 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_light_json_1_1_json_object_a6e1c73338d5bc119f44b49b15bbedd87_icgraph.png" border="0" usemap="#class_light_json_1_1_json_object_a6e1c73338d5bc119f44b49b15bbedd87_icgraph" alt=""/></div>
 <map name="class_light_json_1_1_json_object_a6e1c73338d5bc119f44b49b15bbedd87_icgraph" id="class_light_json_1_1_json_object_a6e1c73338d5bc119f44b49b15bbedd87_icgraph">
-<area shape="rect" id="node2" href="class_light_json_1_1_json_object.html#a2cc644324f2d54d1a6202e7ac76da2d9" title="Adds a value associated with a key to this collection. " alt="" coords="257,5,431,32"/>
-<area shape="rect" id="node3" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#ac3c823ee08460e7df8a839a8e6eddda9" title="BGC.IO.Logging.Logger.Apply\lHeaders" alt="" coords="245,57,443,98"/>
-<area shape="rect" id="node4" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a002e8058d833237a66cb935823b7af73" title="BGC.IO.Logging.Logger.Apply\lRequiredFields" alt="" coords="245,122,443,163"/>
-<area shape="rect" id="node5" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af56597ffa3632958d0b39ec7429c8cd0" title="Post a string to Aws " alt="" coords="228,188,460,215"/>
-<area shape="rect" id="node6" href="class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="261,239,427,281"/>
+<area shape="rect" id="node2" href="class_light_json_1_1_json_object.html#a2cc644324f2d54d1a6202e7ac76da2d9" title="Adds a value associated with a key to this collection. " alt="" coords="257,5,432,32"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a002e8058d833237a66cb935823b7af73" title="BGC.IO.Logging.Logger.Apply\lRequiredFields" alt="" coords="245,57,444,98"/>
+<area shape="rect" id="node4" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#ad46a45b7b69919d65742d0660058228d" title="Convert lines of bgc to complete json " alt="" coords="240,122,449,163"/>
+<area shape="rect" id="node5" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#a2686d1edadcab08cbdc22af3282671d1" title="Convert every line into a json object based on the meta data " alt="" coords="228,188,461,215"/>
+<area shape="rect" id="node6" href="class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="262,239,427,281"/>
+<area shape="rect" id="node7" href="class_b_g_c_1_1_utility_1_1_enum_utility.html#a442a9cd3fd63308b4cf9eada7af0280e" title="Convert json boject to string. " alt="" coords="262,305,427,346"/>
+<area shape="rect" id="node8" href="class_b_g_c_1_1_extensions_1_1_json_extensions.html#aa19b6a4c70d9fff9e3ac9b0cc6b8de52" title="Try and get value, if key is not there it adds the key " alt="" coords="234,370,455,411"/>
 </map>
 </div>
 </p>
@@ -451,7 +453,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_json_object_8cs_source.html#l00136">136</a> of file <a class="el" href="_json_object_8cs_source.html">JsonObject.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_json_reader_8cs_source.html#l00294">LightJson.Serialization.JsonReader.ReadObject()</a>.</p>
+<p>Referenced by <a class="el" href="_bgc_to_json_8cs_source.html#l00124">BGC.Utility.BgcToJson.ConvertLine()</a>, <a class="el" href="_bgc_to_json_8cs_source.html#l00081">BGC.Utility.BgcToJson.MetaDataHasCorrectFields()</a>, <a class="el" href="_json_reader_8cs_source.html#l00294">LightJson.Serialization.JsonReader.ReadObject()</a>, <a class="el" href="_bgc_to_json_8cs_source.html#l00106">BGC.Utility.BgcToJson.RemoveRedundantMetaData()</a>, and <a class="el" href="_json_extensions_8cs_source.html#l00038">BGC.Extensions.JsonExtensions.TryGetValue()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;        {</div><div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;            <span class="keywordflow">return</span> this.<a class="code" href="class_light_json_1_1_json_object.html#a3ba6621711d7f3eec269570712aa7783">properties</a>.ContainsKey(key);</div><div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a3ba6621711d7f3eec269570712aa7783"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a3ba6621711d7f3eec269570712aa7783">LightJson.JsonObject.properties</a></div><div class="ttdeci">IDictionary&lt; string, JsonValue &gt; properties</div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00015">JsonObject.cs:15</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -459,7 +461,11 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_light_json_1_1_json_object_a5d89b8efa4d1c8671cdeccb0008597bd_icgraph.png" border="0" usemap="#class_light_json_1_1_json_object_a5d89b8efa4d1c8671cdeccb0008597bd_icgraph" alt=""/></div>
 <map name="class_light_json_1_1_json_object_a5d89b8efa4d1c8671cdeccb0008597bd_icgraph" id="class_light_json_1_1_json_object_a5d89b8efa4d1c8671cdeccb0008597bd_icgraph">
-<area shape="rect" id="node2" href="class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="280,5,445,47"/>
+<area shape="rect" id="node2" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#a2686d1edadcab08cbdc22af3282671d1" title="Convert every line into a json object based on the meta data " alt="" coords="280,5,513,32"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af98d100fe865023a44096811ad83b939" title="Test to see whether or not the meta data has all the correct fields " alt="" coords="301,57,493,98"/>
+<area shape="rect" id="node4" href="class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="314,122,479,163"/>
+<area shape="rect" id="node5" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af8692bec7fa5bb1eb30ed113b6a084f8" title="Remove any redundant meta data fields from the json object " alt="" coords="291,187,503,229"/>
+<area shape="rect" id="node6" href="class_b_g_c_1_1_extensions_1_1_json_extensions.html#aa19b6a4c70d9fff9e3ac9b0cc6b8de52" title="Try and get value, if key is not there it adds the key " alt="" coords="286,253,507,294"/>
 </map>
 </div>
 </p>
@@ -608,7 +614,7 @@ Here is the call graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_json_object_8cs_source.html#l00093">93</a> of file <a class="el" href="_json_object_8cs_source.html">JsonObject.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_json_object_8cs_source.html#l00118">LightJson.JsonObject.Rename()</a>.</p>
+<p>Referenced by <a class="el" href="_bgc_to_json_8cs_source.html#l00106">BGC.Utility.BgcToJson.RemoveRedundantMetaData()</a>, and <a class="el" href="_json_object_8cs_source.html#l00118">LightJson.JsonObject.Rename()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;        {</div><div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;            <span class="keywordflow">return</span> this.<a class="code" href="class_light_json_1_1_json_object.html#a3ba6621711d7f3eec269570712aa7783">properties</a>.Remove(key);</div><div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a3ba6621711d7f3eec269570712aa7783"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a3ba6621711d7f3eec269570712aa7783">LightJson.JsonObject.properties</a></div><div class="ttdeci">IDictionary&lt; string, JsonValue &gt; properties</div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00015">JsonObject.cs:15</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -616,7 +622,8 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_light_json_1_1_json_object_adc98c25e04ed78ace30c5eaf20f04100_icgraph.png" border="0" usemap="#class_light_json_1_1_json_object_adc98c25e04ed78ace30c5eaf20f04100_icgraph" alt=""/></div>
 <map name="class_light_json_1_1_json_object_adc98c25e04ed78ace30c5eaf20f04100_icgraph" id="class_light_json_1_1_json_object_adc98c25e04ed78ace30c5eaf20f04100_icgraph">
-<area shape="rect" id="node2" href="class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="255,5,456,32"/>
+<area shape="rect" id="node2" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af8692bec7fa5bb1eb30ed113b6a084f8" title="Remove any redundant meta data fields from the json object " alt="" coords="255,5,467,47"/>
+<area shape="rect" id="node3" href="class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="260,71,461,98"/>
 </map>
 </div>
 </p>
@@ -710,7 +717,7 @@ Here is the call graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_json_object_8cs_source.html#l00182">182</a> of file <a class="el" href="_json_object_8cs_source.html">JsonObject.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00067">BGC.IO.Logging.Logger.ApplyHeaders()</a>, and <a class="el" href="_a_w_s_server_8cs_source.html#l00075">BGC.Web.AWSServer.PostToAWS()</a>.</p>
+<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00064">BGC.IO.Logging.Logger.ApplyHeaders()</a>, <a class="el" href="_bgc_to_json_8cs_source.html#l00124">BGC.Utility.BgcToJson.ConvertLine()</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00135">BGC.Web.AWSServer.GetCodeConfig()</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00175">BGC.Web.AWSServer.GetCondition()</a>, and <a class="el" href="_a_w_s_server_8cs_source.html#l00098">BGC.Web.AWSServer.PostToAWS()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00183"></a><span class="lineno">  183</span>&#160;        {</div><div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;            <span class="keywordflow">return</span> <a class="code" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">ToString</a>(<span class="keyword">false</span>);</div><div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a6fb02c496d1126ea498b0061c0ec2ace"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">LightJson.JsonObject.ToString</a></div><div class="ttdeci">override string ToString()</div><div class="ttdoc">Returns a JSON string representing the state of the object. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00182">JsonObject.cs:182</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -718,8 +725,11 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_light_json_1_1_json_object_a6fb02c496d1126ea498b0061c0ec2ace_icgraph.png" border="0" usemap="#class_light_json_1_1_json_object_a6fb02c496d1126ea498b0061c0ec2ace_icgraph" alt=""/></div>
 <map name="class_light_json_1_1_json_object_a6fb02c496d1126ea498b0061c0ec2ace_icgraph" id="class_light_json_1_1_json_object_a6fb02c496d1126ea498b0061c0ec2ace_icgraph">
-<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#ac3c823ee08460e7df8a839a8e6eddda9" title="BGC.IO.Logging.Logger.Apply\lHeaders" alt="" coords="271,5,470,47"/>
-<area shape="rect" id="node3" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af56597ffa3632958d0b39ec7429c8cd0" title="Post a string to Aws " alt="" coords="255,71,487,98"/>
+<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#ac3c823ee08460e7df8a839a8e6eddda9" title="BGC.IO.Logging.Logger.Apply\lHeaders" alt="" coords="273,5,471,47"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#a2686d1edadcab08cbdc22af3282671d1" title="Convert every line into a json object based on the meta data " alt="" coords="255,71,489,98"/>
+<area shape="rect" id="node4" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a7650413bedf91dbfce3f91c6c7985650" title="BGC.Web.AWSServer.GetCode\lConfig" alt="" coords="267,123,477,164"/>
+<area shape="rect" id="node5" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ade1a5a7194d3959d16f48d9867562c41" title="BGC.Web.AWSServer.GetCondition" alt="" coords="255,189,489,215"/>
+<area shape="rect" id="node6" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af4b8a4000df332cd5367a0ce8e454f4d" title="Post to aws " alt="" coords="256,239,488,266"/>
 </map>
 </div>
 </p>
@@ -847,7 +857,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed May 23 2018 13:46:20 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Oct 8 2018 15:42:09 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

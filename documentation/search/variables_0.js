@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bag',['bag',['../class_b_g_c_tools_1_1_bag.html#a9c6a4e3c4e74e93d755eb440111ab6c5',1,'BGCTools::Bag']]]
+  ['_5fglobalrand',['_globalRand',['../class_b_g_c_1_1_utility_1_1_math_1_1_custom_random.html#a1c69bfbd787acc8025413004ddc6fdb0',1,'BGC::Utility::Math::CustomRandom']]]
 ];

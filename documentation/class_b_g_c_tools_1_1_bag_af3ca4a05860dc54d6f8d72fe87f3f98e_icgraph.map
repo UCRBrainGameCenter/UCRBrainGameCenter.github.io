@@ -1,4 +1,0 @@
-<map id="BGCTools.Bag.Reset" name="BGCTools.Bag.Reset">
-<area shape="rect" id="node2" href="$class_b_g_c_tools_1_1_bag.html#a4b901d5e79f4e0583c73dad9a6d618b9" title="Constructor method for bag with a list to build from " alt="" coords="203,5,340,32"/>
-<area shape="rect" id="node3" href="$class_b_g_c_tools_1_1_bag.html#a1740cd92fdd3d4320469a545a385f727" title="Pull from the bag and reset if autoreset is set to true else receive default value. " alt="" coords="203,56,339,83"/>
-</map>

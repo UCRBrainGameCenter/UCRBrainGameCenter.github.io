@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['lastindex',['LastIndex',['../class_b_g_c_tools_1_1_list_extension.html#ac640439d33b2218628cd7ce4cc7e258a',1,'BGCTools::ListExtension']]],
-  ['lastval_3c_20t_20_3e',['LastVal&lt; T &gt;',['../class_b_g_c_tools_1_1_list_extension.html#a5149eae153e0785a6c96cd713392fc35',1,'BGCTools::ListExtension']]],
-  ['listsequivalent_3c_20t_20_3e',['ListsEquivalent&lt; T &gt;',['../class_b_g_c_tools_1_1_list_extension.html#a70815c81f8b77442ec12ee4d3808f53c',1,'BGCTools::ListExtension']]]
+  ['files',['files',['../_l_i_c_e_n_s_e_8txt.html#abdb4f4971cf029244bb81834ee9b393d',1,'LICENSE.txt']]],
+  ['findallinstancesof_3c_20t_20_3e',['FindAllInstancesOf&lt; T &gt;',['../class_b_g_c_1_1_extensions_1_1_list_extension.html#acfa1718b27b72db845f086db1c176ad1',1,'BGC::Extensions::ListExtension']]],
+  ['floatlisttojsonarray',['FloatListToJsonArray',['../class_b_g_c_1_1_extensions_1_1_json_extensions.html#a8dffd42d2e77379254188d716c3d7263',1,'BGC::Extensions::JsonExtensions']]],
+  ['floorclamp',['FloorClamp',['../class_b_g_c_1_1_utility_1_1_math_1_1_byte_math.html#a4c553127f23bffa9e3373725ba08b182',1,'BGC::Utility::Math::ByteMath']]],
+  ['floorrepeat',['FloorRepeat',['../class_b_g_c_1_1_utility_1_1_math_1_1_byte_math.html#adbdae31c3f72a7448b81e4d00ceac325',1,'BGC::Utility::Math::ByteMath']]]
 ];

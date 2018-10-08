@@ -1,0 +1,4 @@
+<map id="BGC.Web.AWSServer.PostBGCToJSonToAWS" name="BGC.Web.AWSServer.PostBGCToJSonToAWS">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#aab02ab9100c828f71835b2499bb36d29" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="284,5,504,32"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_utility_1_1_log_files_tos3.html#aba488a82ba4a0155914436f31ef666b2" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="307,57,481,98"/>
+</map>

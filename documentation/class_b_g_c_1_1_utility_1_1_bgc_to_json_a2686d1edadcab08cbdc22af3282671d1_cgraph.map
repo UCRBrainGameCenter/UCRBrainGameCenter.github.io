@@ -1,0 +1,5 @@
+<map id="BGC.Utility.BgcToJson.ConvertLine" name="BGC.Utility.BgcToJson.ConvertLine">
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87" title="Adds a key with a null value to this collection. " alt="" coords="313,5,487,32"/>
+<area shape="rect" id="node3" href="$class_light_json_1_1_json_object.html#a5d89b8efa4d1c8671cdeccb0008597bd" title="Determines whether this collection contains an item assosiated with the given key. " alt="" coords="287,56,513,83"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="299,107,501,133"/>
+</map>

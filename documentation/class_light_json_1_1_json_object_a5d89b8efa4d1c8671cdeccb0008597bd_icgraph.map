@@ -1,3 +1,7 @@
 <map id="LightJson.JsonObject.ContainsKey" name="LightJson.JsonObject.ContainsKey">
-<area shape="rect" id="node2" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="280,5,445,47"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#a2686d1edadcab08cbdc22af3282671d1" title="Convert every line into a json object based on the meta data " alt="" coords="280,5,513,32"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af98d100fe865023a44096811ad83b939" title="Test to see whether or not the meta data has all the correct fields " alt="" coords="301,57,493,98"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="314,122,479,163"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af8692bec7fa5bb1eb30ed113b6a084f8" title="Remove any redundant meta data fields from the json object " alt="" coords="291,187,503,229"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#aa19b6a4c70d9fff9e3ac9b0cc6b8de52" title="Try and get value, if key is not there it adds the key " alt="" coords="286,253,507,294"/>
 </map>

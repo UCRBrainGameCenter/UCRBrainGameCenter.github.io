@@ -157,7 +157,7 @@ Static Private Attributes</h2></td></tr>
 
 <p>Definition at line <a class="el" href="_reserved_files_8cs_source.html#l00049">49</a> of file <a class="el" href="_reserved_files_8cs_source.html">ReservedFiles.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_log_files_to_s3_8cs_source.html#l00032">BGC.Utility.LogFilesTos3.migrateUser()</a>.</p>
+<p>Referenced by <a class="el" href="_log_files_to_s3_8cs_source.html#l00033">BGC.Utility.LogFilesTos3.MigrateUser()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;        {</div><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;            <span class="keywordflow">return</span> <a class="code" href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">files</a>.Contains(path);</div><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_reserved_files_html_a90ac9cb300bb5936abe62d9948154e49"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">BGC.Utility.ReservedFiles.files</a></div><div class="ttdeci">static HashSet&lt; string &gt; files</div><div class="ttdef"><b>Definition:</b> <a href="_reserved_files_8cs_source.html#l00010">ReservedFiles.cs:10</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -165,7 +165,7 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_b_g_c_1_1_utility_1_1_reserved_files_a73c1cb010f077455eddc137b4beadd1c_icgraph.png" border="0" usemap="#class_b_g_c_1_1_utility_1_1_reserved_files_a73c1cb010f077455eddc137b4beadd1c_icgraph" alt=""/></div>
 <map name="class_b_g_c_1_1_utility_1_1_reserved_files_a73c1cb010f077455eddc137b4beadd1c_icgraph" id="class_b_g_c_1_1_utility_1_1_reserved_files_a73c1cb010f077455eddc137b4beadd1c_icgraph">
-<area shape="rect" id="node2" href="class_b_g_c_1_1_utility_1_1_log_files_tos3.html#ae3a4bfecf89694962efbf727904b8e13" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="235,13,481,39"/>
+<area shape="rect" id="node2" href="class_b_g_c_1_1_utility_1_1_log_files_tos3.html#aba488a82ba4a0155914436f31ef666b2" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="235,5,409,47"/>
 </map>
 </div>
 </p>
@@ -205,7 +205,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_reserved_files_8cs_source.html#l00017">17</a> of file <a class="el" href="_reserved_files_8cs_source.html">ReservedFiles.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00109">BGC.IO.Logging.Logger.OpenFile()</a>.</p>
+<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00105">BGC.IO.Logging.Logger.OpenFile()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        {</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;            <span class="keywordflow">if</span> (<a class="code" href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">files</a>.Contains(path) == <span class="keyword">false</span>)</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;            {</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;                <a class="code" href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">files</a>.Add(path);</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;            }</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_reserved_files_html_a90ac9cb300bb5936abe62d9948154e49"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">BGC.Utility.ReservedFiles.files</a></div><div class="ttdeci">static HashSet&lt; string &gt; files</div><div class="ttdef"><b>Definition:</b> <a href="_reserved_files_8cs_source.html#l00010">ReservedFiles.cs:10</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -253,16 +253,15 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="_reserved_files_8cs_source.html#l00033">33</a> of file <a class="el" href="_reserved_files_8cs_source.html">ReservedFiles.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00136">BGC.IO.Logging.Logger.CloseFile()</a>, and <a class="el" href="_logger_8cs_source.html#l00054">BGC.IO.Logging.Logger.~Logger()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;        {</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;            <span class="keywordflow">if</span>(<a class="code" href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">files</a>.Contains(path))</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;            {</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;                <a class="code" href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">files</a>.Remove(path);</div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;            }</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_reserved_files_html_a90ac9cb300bb5936abe62d9948154e49"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">BGC.Utility.ReservedFiles.files</a></div><div class="ttdeci">static HashSet&lt; string &gt; files</div><div class="ttdef"><b>Definition:</b> <a href="_reserved_files_8cs_source.html#l00010">ReservedFiles.cs:10</a></div></div>
+<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00130">BGC.IO.Logging.Logger.CloseFile()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;        {</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;            <span class="keywordflow">if</span> (<a class="code" href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">files</a>.Contains(path))</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;            {</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;                <a class="code" href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">files</a>.Remove(path);</div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;            }</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_reserved_files_html_a90ac9cb300bb5936abe62d9948154e49"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_reserved_files.html#a90ac9cb300bb5936abe62d9948154e49">BGC.Utility.ReservedFiles.files</a></div><div class="ttdeci">static HashSet&lt; string &gt; files</div><div class="ttdef"><b>Definition:</b> <a href="_reserved_files_8cs_source.html#l00010">ReservedFiles.cs:10</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_b_g_c_1_1_utility_1_1_reserved_files_ab9eb4428a3a153e79b3cebd7642de20a_icgraph.png" border="0" usemap="#class_b_g_c_1_1_utility_1_1_reserved_files_ab9eb4428a3a153e79b3cebd7642de20a_icgraph" alt=""/></div>
 <map name="class_b_g_c_1_1_utility_1_1_reserved_files_ab9eb4428a3a153e79b3cebd7642de20a_icgraph" id="class_b_g_c_1_1_utility_1_1_reserved_files_ab9eb4428a3a153e79b3cebd7642de20a_icgraph">
-<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#ad80e25518f6a0ba4af943695cfed4d95" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="235,5,455,32"/>
-<area shape="rect" id="node3" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#af977acf6252783bcb9bbc3cdb9446cd1" title="BGC.IO.Logging.Logger.\l~Logger" alt="" coords="262,57,427,98"/>
+<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#ad80e25518f6a0ba4af943695cfed4d95" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="235,13,455,39"/>
 </map>
 </div>
 </p>
@@ -298,7 +297,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed May 23 2018 13:46:20 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Oct 8 2018 15:42:09 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

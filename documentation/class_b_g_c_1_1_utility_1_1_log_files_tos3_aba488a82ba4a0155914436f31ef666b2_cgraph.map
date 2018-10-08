@@ -1,0 +1,9 @@
+<map id="BGC.Utility.LogFilesTos3.MigrateUser" name="BGC.Utility.LogFilesTos3.MigrateUser">
+<area shape="rect" id="node2" href="$_l_i_c_e_n_s_e_8txt.html#abdb4f4971cf029244bb81834ee9b393d" title="files" alt="" coords="320,5,367,32"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_utility_1_1_reserved_files.html#a73c1cb010f077455eddc137b4beadd1c" title="Returns if the path is currently reserved " alt="" coords="253,57,434,98"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#abdabef1e2297954b3b3f8be1d71342eb" title="BGC.Web.AWSServer.PostBGCTo\lJSonToAWS" alt="" coords="228,122,459,163"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_i_o_1_1_log_directories.html#a3bc380417439d0f72cc09df1eaa2ed35" title="BGC.IO.LogDirectories.User\lErrorLogDirectory" alt="" coords="249,187,438,229"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_i_o_1_1_log_directories.html#adeec8252558186fe559feb87fe2b9c26" title="Get the path to the user in the permanent directory. This automatically creates a directory if it doe..." alt="" coords="249,253,438,294"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_i_o_1_1_log_directories.html#a5080b6182b612af4812d83e51879f47f" title="Get the path to the user in the stagin directory. This automatically creates a directory if it does n..." alt="" coords="249,318,438,359"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#aa9a8a6817843a232e130deb2584aa4eb" title="Convert complete string of bgc to json " alt="" coords="507,122,716,163"/>
+</map>

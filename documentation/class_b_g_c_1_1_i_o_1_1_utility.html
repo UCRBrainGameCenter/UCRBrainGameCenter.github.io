@@ -155,14 +155,14 @@ Static Public Member Functions</h2></td></tr>
 
 <p>Definition at line <a class="el" href="_utility_8cs_source.html#l00017">17</a> of file <a class="el" href="_utility_8cs_source.html">Utility.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00146">BGC.IO.Logging.Logger.CloseFile()</a>.</p>
+<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00140">BGC.IO.Logging.Logger.CloseFile()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        {</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;            <span class="keywordtype">bool</span> canMoveFile = <span class="keyword">true</span>;</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;            <span class="keywordflow">if</span> (File.Exists(dstPath))</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;            {</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;                <span class="keywordflow">if</span> (deleteOnDuplicate)</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;                {</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;                    File.Delete(dstPath);</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;                }</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;                <span class="keywordflow">else</span></div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;                {</div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;                    canMoveFile = <span class="keyword">false</span>;</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;                }</div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;            }</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;            <span class="keywordflow">if</span>(canMoveFile)</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;            {</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;                File.Move(srcPath, dstPath);</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;            }</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;        }</div></div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_b_g_c_1_1_i_o_1_1_utility_aff369145371dd43d57834c819fbf4407_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_utility_aff369145371dd43d57834c819fbf4407_icgraph" alt=""/></div>
 <map name="class_b_g_c_1_1_i_o_1_1_utility_aff369145371dd43d57834c819fbf4407_icgraph" id="class_b_g_c_1_1_i_o_1_1_utility_aff369145371dd43d57834c819fbf4407_icgraph">
-<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a10c1499e6315338e7e1194a50baf001e" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="224,5,444,32"/>
+<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#aab02ab9100c828f71835b2499bb36d29" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="224,5,444,32"/>
 </map>
 </div>
 </p>
@@ -175,7 +175,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed May 23 2018 13:46:20 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Oct 8 2018 15:42:09 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

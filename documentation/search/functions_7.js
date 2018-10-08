@@ -1,7 +1,12 @@
 var searchData=
 [
-  ['randomindex',['RandomIndex',['../class_b_g_c_tools_1_1_list_extension.html#a31bb6afd3d2f8d18023aadcade0f4c0f',1,'BGCTools::ListExtension']]],
-  ['randomindex_3c_20t_20_3e',['RandomIndex&lt; T &gt;',['../class_b_g_c_tools_1_1_array_extensions.html#a6ba4fca5923a58b417393dbc87568cbe',1,'BGCTools::ArrayExtensions']]],
-  ['randomvalue_3c_20t_20_3e',['RandomValue&lt; T &gt;',['../class_b_g_c_tools_1_1_array_extensions.html#aea7c451d081f49972310e0d9c84d8091',1,'BGCTools.ArrayExtensions.RandomValue&lt; T &gt;()'],['../class_b_g_c_tools_1_1_list_extension.html#a46601d70dc39e6a5b16ee6ac9d8cb84b',1,'BGCTools.ListExtension.RandomValue&lt; T &gt;()']]],
-  ['reset',['Reset',['../class_b_g_c_tools_1_1_bag.html#af3ca4a05860dc54d6f8d72fe87f3f98e',1,'BGCTools::Bag']]]
+  ['handleexception',['HandleException',['../class_b_g_c_1_1_i_o_1_1_file_reader.html#abbb6d343a1f631794a11443b6acff04c',1,'BGC.IO.FileReader.HandleException()'],['../class_b_g_c_1_1_i_o_1_1_file_writer.html#ab97d4227cd2510a4b034ff02c58ea9d0',1,'BGC.IO.FileWriter.HandleException()']]],
+  ['handleexceptionfile',['HandleExceptionFile',['../class_b_g_c_1_1_i_o_1_1_file_writer.html#a0beb40c0d8451c0a1f75e477b6b9e037',1,'BGC::IO::FileWriter']]],
+  ['handleexceptionfiles',['HandleExceptionFiles',['../class_b_g_c_1_1_i_o_1_1_file_reader.html#a21d2fc85350aa7b281a655c29c736eb5',1,'BGC::IO::FileReader']]],
+  ['hasbgcextension',['HasBgcExtension',['../class_b_g_c_1_1_i_o_1_1_file_extensions.html#a0dad4c5bece4e23cd0b1153cf34a2ca3',1,'BGC::IO::FileExtensions']]],
+  ['hascsvextension',['HasCsvExtension',['../class_b_g_c_1_1_i_o_1_1_file_extensions.html#a6b31ce496556fc2b35bb242d4b051734',1,'BGC::IO::FileExtensions']]],
+  ['hasjsonextension',['HasJsonExtension',['../class_b_g_c_1_1_i_o_1_1_file_extensions.html#aab1f5f0217ad8f2827f5b476ff12e6b2',1,'BGC::IO::FileExtensions']]],
+  ['hasxmlextension',['HasXmlExtension',['../class_b_g_c_1_1_i_o_1_1_file_extensions.html#a020ed234d3c3577c562247f84655983c',1,'BGC::IO::FileExtensions']]],
+  ['header',['Header',['../class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff',1,'BGC::Web::AWSServer']]],
+  ['hextocolor',['HexToColor',['../class_b_g_c_1_1_extensions_1_1_color_extensions.html#a6f33892794641c394416c7259aefe786',1,'BGC::Extensions::ColorExtensions']]]
 ];

@@ -1,0 +1,6 @@
+<map id="BGC.StateMachine.TransitionCondition.SetStateMachineFunctions" name="BGC.StateMachine.TransitionCondition.SetStateMachineFunctions">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_transition.html#ac5aea9a3b8b433a4bbd411b8b41d73f6" title="Add state machine data which is required for checking info " alt="" coords="305,37,505,79"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_state_machine_1_1_or_conjunction.html#aa42f250e84439d873e5cb9df2cbec34a" title="BGC.StateMachine.OrConjunction.\lStateMachineFunctionsSet" alt="" coords="292,103,519,144"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a9f43be3a028c05eba4da4ee0e61d6a77" title="Add a transition that can occur on any state " alt="" coords="567,5,789,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a8f682e55fc245cd73cd4608e7500fe56" title="Add a transition to a state " alt="" coords="567,71,789,112"/>
+</map>

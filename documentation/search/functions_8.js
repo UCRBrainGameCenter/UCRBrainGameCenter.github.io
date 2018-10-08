@@ -1,20 +1,16 @@
 var searchData=
 [
-  ['seta',['SetA',['../class_b_g_c_tools_1_1_graphic_extensions.html#ab2f704320b930ed90eb4b6d08e1c2463',1,'BGCTools::GraphicExtensions']]],
-  ['setb',['SetB',['../class_b_g_c_tools_1_1_graphic_extensions.html#a441509815fcf33f44103902dba221ebc',1,'BGCTools::GraphicExtensions']]],
-  ['setba',['SetBA',['../class_b_g_c_tools_1_1_graphic_extensions.html#a6a69ffac7d487feaf99d6cca92b077e4',1,'BGCTools::GraphicExtensions']]],
-  ['setg',['SetG',['../class_b_g_c_tools_1_1_graphic_extensions.html#aafb13c92db29029d31ed4e45d1d8edc6',1,'BGCTools::GraphicExtensions']]],
-  ['setga',['SetGA',['../class_b_g_c_tools_1_1_graphic_extensions.html#a870da7df66ef8630d2277121392985c6',1,'BGCTools::GraphicExtensions']]],
-  ['setgb',['SetGB',['../class_b_g_c_tools_1_1_graphic_extensions.html#ab22029a4121c3cb7f09bb84f3d9a1611',1,'BGCTools::GraphicExtensions']]],
-  ['setgba',['SetGBA',['../class_b_g_c_tools_1_1_graphic_extensions.html#af36cd87539100a2f130d569151b15b75',1,'BGCTools::GraphicExtensions']]],
-  ['setr',['SetR',['../class_b_g_c_tools_1_1_graphic_extensions.html#a831de1663b0ba2c83ebbe1b97f7b93d5',1,'BGCTools::GraphicExtensions']]],
-  ['setra',['SetRA',['../class_b_g_c_tools_1_1_graphic_extensions.html#abaf4e3c840e738366d3a071773e812db',1,'BGCTools::GraphicExtensions']]],
-  ['setrb',['SetRB',['../class_b_g_c_tools_1_1_graphic_extensions.html#a9cfa8b26265855d3b578573a911808be',1,'BGCTools::GraphicExtensions']]],
-  ['setrba',['SetRBA',['../class_b_g_c_tools_1_1_graphic_extensions.html#a24c2a8e3936dbc4b2455574903fe6cd7',1,'BGCTools::GraphicExtensions']]],
-  ['setrg',['SetRG',['../class_b_g_c_tools_1_1_graphic_extensions.html#a4e3583ef49e9a1f8d45054d15964c83b',1,'BGCTools::GraphicExtensions']]],
-  ['setrga',['SetRGA',['../class_b_g_c_tools_1_1_graphic_extensions.html#ae8718fc621ab3067cb223c8c37766e26',1,'BGCTools::GraphicExtensions']]],
-  ['setrgb',['SetRGB',['../class_b_g_c_tools_1_1_graphic_extensions.html#afdd4f7885be3a64401479911ee7617c3',1,'BGCTools::GraphicExtensions']]],
-  ['setrgba',['SetRGBA',['../class_b_g_c_tools_1_1_graphic_extensions.html#a2e19c08e1181a5ff6afaf948b212e8d5',1,'BGCTools::GraphicExtensions']]],
-  ['shuffle',['Shuffle',['../class_b_g_c_tools_1_1_list_extension.html#aeb501d65824e9fb0078f03a68fdc49ee',1,'BGCTools::ListExtension']]],
-  ['swap_3c_20t_20_3e',['Swap&lt; T &gt;',['../class_b_g_c_tools_1_1_list_extension.html#a9f9151c39f01038e5a097ae3ea50f814',1,'BGCTools::ListExtension']]]
+  ['indexes',['Indexes',['../class_b_g_c_1_1_extensions_1_1_list_extension.html#a2b870047a36dd6742c759de67669f101',1,'BGC::Extensions::ListExtension']]],
+  ['indexes_3c_20t_20_3e',['Indexes&lt; T &gt;',['../class_b_g_c_1_1_extensions_1_1_array_extensions.html#abf4998d27da96b05ff38ab0c2bbc20c6',1,'BGC::Extensions::ArrayExtensions']]],
+  ['indexof',['IndexOf',['../class_light_json_1_1_json_array.html#ae249097cc6b9fbbf75820a38fe64f013',1,'LightJson::JsonArray']]],
+  ['initialize',['Initialize',['../class_light_json_1_1_serialization_1_1_json_writer.html#ad5b71f10ee3d9b29a46ba9388327e904',1,'LightJson::Serialization::JsonWriter']]],
+  ['initializeresourceinfo',['InitializeResourceInfo',['../class_b_g_c_1_1_i_o_1_1_resource_info.html#a5ebd27a94c3795c6eb13dd441281f182',1,'BGC::IO::ResourceInfo']]],
+  ['insert',['Insert',['../class_light_json_1_1_json_array.html#a827b534730281f6ca23030f8905816ed',1,'LightJson::JsonArray']]],
+  ['intarraytojsonarray',['IntArrayToJsonArray',['../class_b_g_c_1_1_extensions_1_1_json_extensions.html#a9e96781f4e96204505aa0d18dcefc8d3',1,'BGC::Extensions::JsonExtensions']]],
+  ['intersection_3c_20t_20_3e',['Intersection&lt; T &gt;',['../class_b_g_c_1_1_utility_1_1_math_1_1_set_operations.html#a726c95b822e3ccd6698eee09a5efdfdd',1,'BGC::Utility::Math::SetOperations']]],
+  ['intlistcontainer',['IntListContainer',['../class_b_g_c_1_1_data_structures_1_1_int_list_container.html#adffaf925447068524ab2548aeccc8b29',1,'BGC.DataStructures.IntListContainer.IntListContainer(List&lt; int &gt; list)'],['../class_b_g_c_1_1_data_structures_1_1_int_list_container.html#a3f74dbd12d33310525a87c0d6102a227',1,'BGC.DataStructures.IntListContainer.IntListContainer(JsonArray json)'],['../class_b_g_c_1_1_data_structures_1_1_int_list_container.html#a37c1b64278c8b87b91d6aaec927f5eb3',1,'BGC.DataStructures.IntListContainer.IntListContainer()']]],
+  ['intlistcontainerlisttojsonarray',['IntListContainerListToJsonArray',['../class_b_g_c_1_1_extensions_1_1_int_list_container_extensions.html#a8ebb112453615b5a6ebf31e5d89f6833',1,'BGC::Extensions::IntListContainerExtensions']]],
+  ['intlisttojsonarray',['IntListToJsonArray',['../class_b_g_c_1_1_extensions_1_1_json_extensions.html#a74d932d9712c426874a58f410f421b4c',1,'BGC::Extensions::JsonExtensions']]],
+  ['isfilereserved',['IsFileReserved',['../class_b_g_c_1_1_utility_1_1_reserved_files.html#a73c1cb010f077455eddc137b4beadd1c',1,'BGC::Utility::ReservedFiles']]],
+  ['isvalidnumber',['IsValidNumber',['../class_light_json_1_1_serialization_1_1_json_writer.html#aed41853b66c03a72e8707fa5af6e7f54',1,'LightJson::Serialization::JsonWriter']]]
 ];

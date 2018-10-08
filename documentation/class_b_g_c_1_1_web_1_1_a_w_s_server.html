@@ -115,32 +115,44 @@ Data Structures</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a08d83fdb062a820b3756e67739ba0fba"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a08d83fdb062a820b3756e67739ba0fba">PostFileToAWS</a> (string filePath, string bucket, string serverPath, Action&lt; UnityWebRequest &gt; callBack=null)</td></tr>
-<tr class="separator:a08d83fdb062a820b3756e67739ba0fba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af56597ffa3632958d0b39ec7429c8cd0"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af56597ffa3632958d0b39ec7429c8cd0">PostToAWS</a> (string fileContents, string bucket, string serverPath, Action&lt; UnityWebRequest &gt; callBack=null)</td></tr>
-<tr class="memdesc:af56597ffa3632958d0b39ec7429c8cd0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Post a string to Aws  <a href="#af56597ffa3632958d0b39ec7429c8cd0">More...</a><br /></td></tr>
-<tr class="separator:af56597ffa3632958d0b39ec7429c8cd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39c233c73c78abf913b0f85824e5feff"><td class="memItemLeft" align="right" valign="top">static Dictionary&lt; string, string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff">Header</a> (string apiKey)</td></tr>
+<tr class="separator:a39c233c73c78abf913b0f85824e5feff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdabef1e2297954b3b3f8be1d71342eb"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#abdabef1e2297954b3b3f8be1d71342eb">PostBGCToJSonToAWS</a> (string filePath, string organization, string study, string game, string apiKey, Action&lt; UnityWebRequest, bool &gt; callBack=null)</td></tr>
+<tr class="separator:abdabef1e2297954b3b3f8be1d71342eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4b8a4000df332cd5367a0ce8e454f4d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af4b8a4000df332cd5367a0ce8e454f4d">PostToAWS</a> (string fileName, string organization, string study, string game, <a class="el" href="class_light_json_1_1_json_object.html">JsonObject</a> content, string apiKey, Action&lt; UnityWebRequest, bool &gt; callBack=null)</td></tr>
+<tr class="memdesc:af4b8a4000df332cd5367a0ce8e454f4d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Post to aws  <a href="#af4b8a4000df332cd5367a0ce8e454f4d">More...</a><br /></td></tr>
+<tr class="separator:af4b8a4000df332cd5367a0ce8e454f4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7650413bedf91dbfce3f91c6c7985650"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a7650413bedf91dbfce3f91c6c7985650">GetCodeConfig</a> (string code, string game, string apiKey, <a class="el" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html">StatusPanel</a> statusPanel, Action&lt; string, int &gt; callback=null)</td></tr>
+<tr class="separator:a7650413bedf91dbfce3f91c6c7985650"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade1a5a7194d3959d16f48d9867562c41"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ade1a5a7194d3959d16f48d9867562c41">GetCondition</a> (string path, string apiKey, <a class="el" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html">StatusPanel</a> statusPanel, Action&lt; string, int &gt; callback=null)</td></tr>
+<tr class="separator:ade1a5a7194d3959d16f48d9867562c41"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8363083c67a1171e239868a63cfd6c16"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a8363083c67a1171e239868a63cfd6c16">Combine</a> (string a, string b)</td></tr>
 <tr class="memdesc:a8363083c67a1171e239868a63cfd6c16"><td class="mdescLeft">&#160;</td><td class="mdescRight">Combine two strings to form a path in AWS  <a href="#a8363083c67a1171e239868a63cfd6c16">More...</a><br /></td></tr>
 <tr class="separator:a8363083c67a1171e239868a63cfd6c16"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Data Fields</h2></td></tr>
+<tr class="memitem:a1d000619ed8a61bf32c3b5de0465929b"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a1d000619ed8a61bf32c3b5de0465929b">ConditionURL</a> = &quot;https://84cje3rj4j.execute-api.us-east-1.amazonaws.com/Production/condition-retriever&quot;</td></tr>
+<tr class="separator:a1d000619ed8a61bf32c3b5de0465929b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5822d819bd703a19e92d73954f3e983b"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a5822d819bd703a19e92d73954f3e983b">CodeURL</a> = &quot;https://84cje3rj4j.execute-api.us-east-1.amazonaws.com/Production/code-retriever&quot;</td></tr>
+<tr class="separator:a5822d819bd703a19e92d73954f3e983b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4109c85521401fd354cd079c4e44af7b"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a4109c85521401fd354cd079c4e44af7b">ToS3URL</a> = &quot;https://84cje3rj4j.execute-api.us-east-1.amazonaws.com/Production/to-s3&quot;</td></tr>
+<tr class="separator:a4109c85521401fd354cd079c4e44af7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad4a17af2332eceec20898656847f801f"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ad4a17af2332eceec20898656847f801f">PathSeparator</a> = &quot;/&quot;</td></tr>
 <tr class="separator:ad4a17af2332eceec20898656847f801f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b77ef9487de24fa44aa22c93e2c10a4"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a6b77ef9487de24fa44aa22c93e2c10a4">ApiUrl</a> = &quot;https://kukp0cevff.execute-api.us-east-2.amazonaws.com/prod/post_file_to_s3&quot;</td></tr>
-<tr class="separator:a6b77ef9487de24fa44aa22c93e2c10a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17297c455c5c500ad64eb7db00bfe1d0"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a17297c455c5c500ad64eb7db00bfe1d0">ApiKey</a> = &quot;eQtoU42BkJ697U9t74dQH73fjxdfcy7p70Rvs1Ft&quot;</td></tr>
-<tr class="separator:a17297c455c5c500ad64eb7db00bfe1d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1ddaac83c024fcd3cb7ec74f8b3b7cf0"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a1ddaac83c024fcd3cb7ec74f8b3b7cf0">CacheControl</a> = &quot;no-cache&quot;</td></tr>
 <tr class="separator:a1ddaac83c024fcd3cb7ec74f8b3b7cf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9643e723b971ab6a8a29f93b1cca75d6"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a9643e723b971ab6a8a29f93b1cca75d6">BGCExtension</a> = &quot;.bgc&quot;</td></tr>
 <tr class="separator:a9643e723b971ab6a8a29f93b1cca75d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a374eb7c79157050c5ad712f1b7bb555b"><td class="memItemLeft" align="right" valign="top">const string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a374eb7c79157050c5ad712f1b7bb555b">JSONExtension</a> = &quot;.json&quot;</td></tr>
+<tr class="separator:a374eb7c79157050c5ad712f1b7bb555b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
 Static Private Member Functions</h2></td></tr>
-<tr class="memitem:ab45bbd35d8cca21e16a02ada2eb17931"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ab45bbd35d8cca21e16a02ada2eb17931">containsBGCExtension</a> (string path)</td></tr>
-<tr class="separator:ab45bbd35d8cca21e16a02ada2eb17931"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66dadae38afe162a3b5d403dd3d7251a"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a66dadae38afe162a3b5d403dd3d7251a">ContainsBGCExtension</a> (string path)</td></tr>
+<tr class="separator:a66dadae38afe162a3b5d403dd3d7251a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ccad1e58ff232e7fe2a11a38f95f9d8"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a0ccad1e58ff232e7fe2a11a38f95f9d8">ContainsJSONExtension</a> (string fileName)</td></tr>
+<tr class="separator:a0ccad1e58ff232e7fe2a11a38f95f9d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -149,7 +161,7 @@ Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00011">11</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00012">12</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a class="anchor" id="a8363083c67a1171e239868a63cfd6c16"></a>
 <div class="memitem">
@@ -192,25 +204,11 @@ Private Attributes</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>a + "/" + b</dd></dl>
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00110">110</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
-
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00146">BGC.IO.Logging.Logger.CloseFile()</a>, and <a class="el" href="_log_files_to_s3_8cs_source.html#l00032">BGC.Utility.LogFilesTos3.migrateUser()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;        {</div><div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;            <span class="keywordflow">return</span> a + <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ad4a17af2332eceec20898656847f801f">PathSeparator</a> + b;</div><div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_ad4a17af2332eceec20898656847f801f"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ad4a17af2332eceec20898656847f801f">BGC.Web.AWSServer.PathSeparator</a></div><div class="ttdeci">const string PathSeparator</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00026">AWSServer.cs:26</a></div></div>
-</div><!-- fragment -->
-<p><div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_a8363083c67a1171e239868a63cfd6c16_icgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_a8363083c67a1171e239868a63cfd6c16_icgraph" alt=""/></div>
-<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_a8363083c67a1171e239868a63cfd6c16_icgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_a8363083c67a1171e239868a63cfd6c16_icgraph">
-<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a10c1499e6315338e7e1194a50baf001e" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="277,5,497,32"/>
-<area shape="rect" id="node3" href="class_b_g_c_1_1_utility_1_1_log_files_tos3.html#ae3a4bfecf89694962efbf727904b8e13" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="264,56,511,83"/>
-</map>
-</div>
-</p>
-
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00214">214</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;        {</div><div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;            <span class="keywordflow">return</span> $<span class="stringliteral">&quot;{a}{PathSeparator}{b}&quot;</span>;</div><div class="line"><a name="l00217"></a><span class="lineno">  217</span>&#160;        }</div></div><!-- fragment -->
 </div>
 </div>
-<a class="anchor" id="ab45bbd35d8cca21e16a02ada2eb17931"></a>
+<a class="anchor" id="a66dadae38afe162a3b5d403dd3d7251a"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -218,7 +216,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool BGC.Web.AWSServer.containsBGCExtension </td>
+          <td class="memname">static bool BGC.Web.AWSServer.ContainsBGCExtension </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
           <td class="paramname"><em>path</em></td><td>)</td>
@@ -232,12 +230,12 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00115">115</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
-<div class="fragment"><div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;        {</div><div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;            <span class="keywordflow">return</span> Path.HasExtension(<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a9643e723b971ab6a8a29f93b1cca75d6">BGCExtension</a>);</div><div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a9643e723b971ab6a8a29f93b1cca75d6"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a9643e723b971ab6a8a29f93b1cca75d6">BGC.Web.AWSServer.BGCExtension</a></div><div class="ttdeci">const string BGCExtension</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00030">AWSServer.cs:30</a></div></div>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00219">219</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;        {</div><div class="line"><a name="l00221"></a><span class="lineno">  221</span>&#160;            <span class="keywordflow">return</span> Path.HasExtension(<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a9643e723b971ab6a8a29f93b1cca75d6">BGCExtension</a>);</div><div class="line"><a name="l00222"></a><span class="lineno">  222</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a9643e723b971ab6a8a29f93b1cca75d6"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a9643e723b971ab6a8a29f93b1cca75d6">BGC.Web.AWSServer.BGCExtension</a></div><div class="ttdeci">const string BGCExtension</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00037">AWSServer.cs:37</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a class="anchor" id="a08d83fdb062a820b3756e67739ba0fba"></a>
+<a class="anchor" id="a0ccad1e58ff232e7fe2a11a38f95f9d8"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -245,7 +243,206 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void BGC.Web.AWSServer.PostFileToAWS </td>
+          <td class="memname">static bool BGC.Web.AWSServer.ContainsJSONExtension </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>fileName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00224">224</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;        {</div><div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;            <span class="keywordflow">return</span> Path.HasExtension(<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a374eb7c79157050c5ad712f1b7bb555b">JSONExtension</a>);</div><div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a374eb7c79157050c5ad712f1b7bb555b"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a374eb7c79157050c5ad712f1b7bb555b">BGC.Web.AWSServer.JSONExtension</a></div><div class="ttdeci">const string JSONExtension</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00038">AWSServer.cs:38</a></div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a7650413bedf91dbfce3f91c6c7985650"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void BGC.Web.AWSServer.GetCodeConfig </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>code</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>game</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>apiKey</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html">StatusPanel</a>&#160;</td>
+          <td class="paramname"><em>statusPanel</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; string, int &gt;&#160;</td>
+          <td class="paramname"><em>callback</em> = <code>null</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00135">135</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+
+<p>References <a class="el" href="_a_w_s_server_8cs_source.html#l00028">BGC.Web.AWSServer.BodyKeys.Code</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00027">BGC.Web.AWSServer.BodyKeys.Game</a>, <a class="el" href="_rest_8cs_source.html#l00019">BGC.Web.Utility.Rest.PostRequest()</a>, <a class="el" href="_status_panel_8cs_source.html#l00039">BGC.MonoUtility.StatusPanel.Status</a>, <a class="el" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.String</a>, and <a class="el" href="_json_object_8cs_source.html#l00182">LightJson.JsonObject.ToString()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160;        {</div><div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;            Assert.IsNotNull(statusPanel);</div><div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(code));</div><div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(game));</div><div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(apiKey));</div><div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;</div><div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;            statusPanel.<a class="code" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html#a661f825cd79db7ecbe6dc0d22774d1a2">Status</a> = <span class="stringliteral">&quot;Requesting code configuration...&quot;</span>;</div><div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;</div><div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;            <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a> body = <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a></div><div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;            {</div><div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;                {</div><div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;                    <span class="stringliteral">&quot;body&quot;</span>,</div><div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;                    <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a></div><div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;                    {</div><div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;                        { BodyKeys.Game, game },</div><div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;                        { BodyKeys.Code, code }</div><div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;                    }</div><div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;                }</div><div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;            };</div><div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160;</div><div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;            <a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html">Rest</a>.<a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d">PostRequest</a>(</div><div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a5822d819bd703a19e92d73954f3e983b">CodeURL</a>,</div><div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff">Header</a>(apiKey),</div><div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160;                body.<a class="code" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">ToString</a>(),</div><div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;                (UnityWebRequest uwr, <span class="keywordtype">bool</span> valid) =&gt; {</div><div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;                    <span class="keywordflow">if</span> (callback != null)</div><div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;                    {</div><div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160;                        statusPanel.<a class="code" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html#a661f825cd79db7ecbe6dc0d22774d1a2">Status</a> = <span class="stringliteral">&quot;Downloading server response...&quot;</span>;</div><div class="line"><a name="l00169"></a><span class="lineno">  169</span>&#160;                        DownloadHandler downloader = uwr.downloadHandler;</div><div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;                        callback(downloader.text, (<span class="keywordtype">int</span>) uwr.responseCode);</div><div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160;                    }</div><div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;                });</div><div class="line"><a name="l00173"></a><span class="lineno">  173</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a6fb02c496d1126ea498b0061c0ec2ace"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">LightJson.JsonObject.ToString</a></div><div class="ttdeci">override string ToString()</div><div class="ttdoc">Returns a JSON string representing the state of the object. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00182">JsonObject.cs:182</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_utility_1_1_rest_html"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html">BGC.Web.Utility.Rest</a></div><div class="ttdef"><b>Definition:</b> <a href="_rest_8cs_source.html#l00010">Rest.cs:10</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a5822d819bd703a19e92d73954f3e983b"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a5822d819bd703a19e92d73954f3e983b">BGC.Web.AWSServer.CodeURL</a></div><div class="ttdeci">const string CodeURL</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00032">AWSServer.cs:32</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_utility_1_1_rest_html_adda09790009db7cdecd9eca3d0f3ca1d"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d">BGC.Web.Utility.Rest.PostRequest</a></div><div class="ttdeci">static void PostRequest(string url, Dictionary&lt; string, string &gt; headers, string body, Action&lt; UnityWebRequest, bool &gt; callBack=null)</div><div class="ttdoc">Send a post request </div><div class="ttdef"><b>Definition:</b> <a href="_rest_8cs_source.html#l00019">Rest.cs:19</a></div></div>
+<div class="ttc" id="namespace_light_json_html_a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98"><div class="ttname"><a href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.JsonValueType.String</a></div><div class="ttdoc">A string value. </div></div>
+<div class="ttc" id="class_b_g_c_1_1_mono_utility_1_1_status_panel_html_a661f825cd79db7ecbe6dc0d22774d1a2"><div class="ttname"><a href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html#a661f825cd79db7ecbe6dc0d22774d1a2">BGC.MonoUtility.StatusPanel.Status</a></div><div class="ttdeci">string Status</div><div class="ttdoc">Set and Get Status content in the panel </div><div class="ttdef"><b>Definition:</b> <a href="_status_panel_8cs_source.html#l00039">StatusPanel.cs:39</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a39c233c73c78abf913b0f85824e5feff"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff">BGC.Web.AWSServer.Header</a></div><div class="ttdeci">static Dictionary&lt; string, string &gt; Header(string apiKey)</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00042">AWSServer.cs:42</a></div></div>
+<div class="ttc" id="class_light_json_1_1_json_object_html"><div class="ttname"><a href="class_light_json_1_1_json_object.html">LightJson.JsonObject</a></div><div class="ttdoc">Represents a key-value pair collection of JsonValue objects. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00013">JsonObject.cs:13</a></div></div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_a7650413bedf91dbfce3f91c6c7985650_cgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_a7650413bedf91dbfce3f91c6c7985650_cgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_a7650413bedf91dbfce3f91c6c7985650_cgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_a7650413bedf91dbfce3f91c6c7985650_cgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d" title="Send a post request " alt="" coords="273,5,456,47"/>
+<area shape="rect" id="node3" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="264,71,465,98"/>
+</map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="ade1a5a7194d3959d16f48d9867562c41"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void BGC.Web.AWSServer.GetCondition </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>path</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>apiKey</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html">StatusPanel</a>&#160;</td>
+          <td class="paramname"><em>statusPanel</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; string, int &gt;&#160;</td>
+          <td class="paramname"><em>callback</em> = <code>null</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00175">175</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+
+<p>References <a class="el" href="_a_w_s_server_8cs_source.html#l00023">BGC.Web.AWSServer.BodyKeys.Condition</a>, <a class="el" href="_rest_8cs_source.html#l00019">BGC.Web.Utility.Rest.PostRequest()</a>, <a class="el" href="_status_panel_8cs_source.html#l00039">BGC.MonoUtility.StatusPanel.Status</a>, <a class="el" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.String</a>, and <a class="el" href="_json_object_8cs_source.html#l00182">LightJson.JsonObject.ToString()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160;        {</div><div class="line"><a name="l00177"></a><span class="lineno">  177</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(apiKey));</div><div class="line"><a name="l00178"></a><span class="lineno">  178</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(path));</div><div class="line"><a name="l00179"></a><span class="lineno">  179</span>&#160;            Assert.IsNotNull(statusPanel);</div><div class="line"><a name="l00180"></a><span class="lineno">  180</span>&#160;</div><div class="line"><a name="l00181"></a><span class="lineno">  181</span>&#160;            statusPanel.<a class="code" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html#a661f825cd79db7ecbe6dc0d22774d1a2">Status</a> = <span class="stringliteral">&quot;Requesting condition...&quot;</span>;</div><div class="line"><a name="l00182"></a><span class="lineno">  182</span>&#160;</div><div class="line"><a name="l00183"></a><span class="lineno">  183</span>&#160;            <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a> body = <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a></div><div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;            {</div><div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160;                {</div><div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;                    <span class="stringliteral">&quot;body&quot;</span>,</div><div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;                    <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a></div><div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;                    {</div><div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;                        { BodyKeys.Condition, path }</div><div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;                    }</div><div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;               }</div><div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;            };</div><div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;</div><div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;            <a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html">Rest</a>.<a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d">PostRequest</a>(</div><div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a1d000619ed8a61bf32c3b5de0465929b">ConditionURL</a>,</div><div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff">Header</a>(apiKey),</div><div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;                body.<a class="code" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">ToString</a>(),</div><div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;                (uwr, validJson) =&gt;</div><div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;                {</div><div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;                    <span class="keywordflow">if</span> (callback != null)</div><div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;                    {</div><div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;                        statusPanel.<a class="code" href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html#a661f825cd79db7ecbe6dc0d22774d1a2">Status</a> = <span class="stringliteral">&quot;Downloading server response...&quot;</span>;</div><div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;                        DownloadHandler downloader = uwr.downloadHandler;</div><div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;                        callback(downloader.text, (<span class="keywordtype">int</span>)uwr.responseCode);</div><div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;                    }</div><div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;                });</div><div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a6fb02c496d1126ea498b0061c0ec2ace"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">LightJson.JsonObject.ToString</a></div><div class="ttdeci">override string ToString()</div><div class="ttdoc">Returns a JSON string representing the state of the object. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00182">JsonObject.cs:182</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a1d000619ed8a61bf32c3b5de0465929b"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a1d000619ed8a61bf32c3b5de0465929b">BGC.Web.AWSServer.ConditionURL</a></div><div class="ttdeci">const string ConditionURL</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00031">AWSServer.cs:31</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_utility_1_1_rest_html"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html">BGC.Web.Utility.Rest</a></div><div class="ttdef"><b>Definition:</b> <a href="_rest_8cs_source.html#l00010">Rest.cs:10</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_utility_1_1_rest_html_adda09790009db7cdecd9eca3d0f3ca1d"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d">BGC.Web.Utility.Rest.PostRequest</a></div><div class="ttdeci">static void PostRequest(string url, Dictionary&lt; string, string &gt; headers, string body, Action&lt; UnityWebRequest, bool &gt; callBack=null)</div><div class="ttdoc">Send a post request </div><div class="ttdef"><b>Definition:</b> <a href="_rest_8cs_source.html#l00019">Rest.cs:19</a></div></div>
+<div class="ttc" id="namespace_light_json_html_a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98"><div class="ttname"><a href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.JsonValueType.String</a></div><div class="ttdoc">A string value. </div></div>
+<div class="ttc" id="class_b_g_c_1_1_mono_utility_1_1_status_panel_html_a661f825cd79db7ecbe6dc0d22774d1a2"><div class="ttname"><a href="class_b_g_c_1_1_mono_utility_1_1_status_panel.html#a661f825cd79db7ecbe6dc0d22774d1a2">BGC.MonoUtility.StatusPanel.Status</a></div><div class="ttdeci">string Status</div><div class="ttdoc">Set and Get Status content in the panel </div><div class="ttdef"><b>Definition:</b> <a href="_status_panel_8cs_source.html#l00039">StatusPanel.cs:39</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a39c233c73c78abf913b0f85824e5feff"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff">BGC.Web.AWSServer.Header</a></div><div class="ttdeci">static Dictionary&lt; string, string &gt; Header(string apiKey)</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00042">AWSServer.cs:42</a></div></div>
+<div class="ttc" id="class_light_json_1_1_json_object_html"><div class="ttname"><a href="class_light_json_1_1_json_object.html">LightJson.JsonObject</a></div><div class="ttdoc">Represents a key-value pair collection of JsonValue objects. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00013">JsonObject.cs:13</a></div></div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_ade1a5a7194d3959d16f48d9867562c41_cgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_ade1a5a7194d3959d16f48d9867562c41_cgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_ade1a5a7194d3959d16f48d9867562c41_cgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_ade1a5a7194d3959d16f48d9867562c41_cgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d" title="Send a post request " alt="" coords="297,5,480,47"/>
+<area shape="rect" id="node3" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="288,71,489,98"/>
+</map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a39c233c73c78abf913b0f85824e5feff"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static Dictionary&lt;string, string&gt; BGC.Web.AWSServer.Header </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>apiKey</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00042">42</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+
+<p>References <a class="el" href="_a_w_s_server_8cs_source.html#l00016">BGC.Web.AWSServer.HeaderKeys.ApiKey</a>.</p>
+<div class="fragment"><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        {</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">new</span> Dictionary&lt;string, string&gt;</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;            {</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;                { HeaderKeys.ApiKey, apiKey},</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;                { <span class="stringliteral">&quot;Content-Type&quot;</span>, <span class="stringliteral">&quot;application/x-www-form-urlencoded&quot;</span> }</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;            };</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;        }</div></div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="abdabef1e2297954b3b3f8be1d71342eb"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void BGC.Web.AWSServer.PostBGCToJSonToAWS </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
           <td class="paramname"><em>filePath</em>, </td>
@@ -254,18 +451,30 @@ Here is the caller graph for this function:</div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>bucket</em>, </td>
+          <td class="paramname"><em>organization</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>serverPath</em>, </td>
+          <td class="paramname"><em>study</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Action&lt; UnityWebRequest &gt;&#160;</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>game</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>apiKey</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; UnityWebRequest, bool &gt;&#160;</td>
           <td class="paramname"><em>callBack</em> = <code>null</code>&#160;</td>
         </tr>
         <tr>
@@ -281,26 +490,48 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00034">34</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00051">51</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
 
-<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00146">BGC.IO.Logging.Logger.CloseFile()</a>, and <a class="el" href="_log_files_to_s3_8cs_source.html#l00032">BGC.Utility.LogFilesTos3.migrateUser()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        {</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;            <span class="keywordflow">if</span> (File.Exists(filePath) == <span class="keyword">false</span>)</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;            {</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;                Debug.LogError(filePath + <span class="stringliteral">&quot; is not a file.&quot;</span>);</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;                callBack?.Invoke(null);</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;                <span class="keywordflow">return</span>;</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;            }</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;            <span class="keywordflow">if</span> (<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ab45bbd35d8cca21e16a02ada2eb17931">containsBGCExtension</a>(filePath) == <span class="keyword">false</span>)</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;            {</div><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                Debug.LogError(<span class="stringliteral">&quot;file &quot;</span> + filePath + <span class="stringliteral">&quot; must have the bgc extension.&quot;</span>);</div><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;                callBack?.Invoke(null);</div><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;</div><div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;                <span class="keywordflow">return</span>;</div><div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;            }</div><div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;</div><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;            StreamReader reader = <span class="keyword">new</span> StreamReader(filePath);</div><div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;            <span class="keywordtype">string</span> content = reader.ReadToEnd();</div><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;            reader.Close();</div><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;            <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af56597ffa3632958d0b39ec7429c8cd0">PostToAWS</a>(</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;                content,</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;                bucket,</div><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;                serverPath,</div><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;                callBack);</div><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_ab45bbd35d8cca21e16a02ada2eb17931"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ab45bbd35d8cca21e16a02ada2eb17931">BGC.Web.AWSServer.containsBGCExtension</a></div><div class="ttdeci">static bool containsBGCExtension(string path)</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00115">AWSServer.cs:115</a></div></div>
-<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_af56597ffa3632958d0b39ec7429c8cd0"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af56597ffa3632958d0b39ec7429c8cd0">BGC.Web.AWSServer.PostToAWS</a></div><div class="ttdeci">static void PostToAWS(string fileContents, string bucket, string serverPath, Action&lt; UnityWebRequest &gt; callBack=null)</div><div class="ttdoc">Post a string to Aws </div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00075">AWSServer.cs:75</a></div></div>
+<p>References <a class="el" href="_bgc_to_json_8cs_source.html#l00041">BGC.Utility.BgcToJson.ConvertBgcToJson()</a>, and <a class="el" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.String</a>.</p>
+
+<p>Referenced by <a class="el" href="_logger_8cs_source.html#l00140">BGC.IO.Logging.Logger.CloseFile()</a>, and <a class="el" href="_log_files_to_s3_8cs_source.html#l00033">BGC.Utility.LogFilesTos3.MigrateUser()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;        {</div><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(filePath));</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(organization));</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(study));</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(game));</div><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;            Assert.IsTrue(<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a66dadae38afe162a3b5d403dd3d7251a">ContainsBGCExtension</a>(filePath));</div><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;            Assert.IsTrue(File.Exists(filePath));</div><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;</div><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;            StreamReader reader = <span class="keyword">new</span> StreamReader(filePath);</div><div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;            <span class="keywordtype">string</span> content = reader.ReadToEnd();</div><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;            reader.Close();</div><div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;</div><div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;            <span class="keywordflow">try</span></div><div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;            {</div><div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;</div><div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;                <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a> jsonContent = <a class="code" href="namespace_b_g_c.html">BGC</a>.<a class="code" href="namespace_b_g_c_1_1_utility.html">Utility</a>.<a class="code" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html">BgcToJson</a>.<a class="code" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#aa9a8a6817843a232e130deb2584aa4eb">ConvertBgcToJson</a>(content);</div><div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af4b8a4000df332cd5367a0ce8e454f4d">PostToAWS</a>(</div><div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;                    Path.GetFileName(filePath).Replace(<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a9643e723b971ab6a8a29f93b1cca75d6">BGCExtension</a>, <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a374eb7c79157050c5ad712f1b7bb555b">JSONExtension</a>),</div><div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;                    organization,</div><div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;                    study,</div><div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;                    game,</div><div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;                    jsonContent,</div><div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;                    apiKey,</div><div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;                    callBack);</div><div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;            }</div><div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;            <span class="keywordflow">catch</span> (<a class="code" href="class_exception.html">Exception</a> e)</div><div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;            {</div><div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;                <a class="code" href="namespace_unity_engine.html">UnityEngine</a>.Debug.LogError($<span class="stringliteral">&quot;Error sending file {filePath} with exception {e.Message}.&quot;</span>);</div><div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;                callBack(null, <span class="keyword">false</span>);</div><div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;            }</div><div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;        }</div><div class="ttc" id="class_exception_html"><div class="ttname"><a href="class_exception.html">Exception</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_af4b8a4000df332cd5367a0ce8e454f4d"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#af4b8a4000df332cd5367a0ce8e454f4d">BGC.Web.AWSServer.PostToAWS</a></div><div class="ttdeci">static void PostToAWS(string fileName, string organization, string study, string game, JsonObject content, string apiKey, Action&lt; UnityWebRequest, bool &gt; callBack=null)</div><div class="ttdoc">Post to aws </div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00098">AWSServer.cs:98</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_utility_1_1_bgc_to_json_html"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html">BGC.Utility.BgcToJson</a></div><div class="ttdef"><b>Definition:</b> <a href="_bgc_to_json_8cs_source.html#l00008">BgcToJson.cs:8</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_utility_1_1_bgc_to_json_html_aa9a8a6817843a232e130deb2584aa4eb"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#aa9a8a6817843a232e130deb2584aa4eb">BGC.Utility.BgcToJson.ConvertBgcToJson</a></div><div class="ttdeci">static JsonObject ConvertBgcToJson(string bgc, char separator= '\n', bool verbose=false)</div><div class="ttdoc">Convert complete string of bgc to json </div><div class="ttdef"><b>Definition:</b> <a href="_bgc_to_json_8cs_source.html#l00041">BgcToJson.cs:41</a></div></div>
+<div class="ttc" id="namespace_b_g_c_1_1_utility_html"><div class="ttname"><a href="namespace_b_g_c_1_1_utility.html">BGC.Utility</a></div><div class="ttdef"><b>Definition:</b> <a href="_bgc_to_json_8cs_source.html#l00006">BgcToJson.cs:6</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a374eb7c79157050c5ad712f1b7bb555b"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a374eb7c79157050c5ad712f1b7bb555b">BGC.Web.AWSServer.JSONExtension</a></div><div class="ttdeci">const string JSONExtension</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00038">AWSServer.cs:38</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a9643e723b971ab6a8a29f93b1cca75d6"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a9643e723b971ab6a8a29f93b1cca75d6">BGC.Web.AWSServer.BGCExtension</a></div><div class="ttdeci">const string BGCExtension</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00037">AWSServer.cs:37</a></div></div>
+<div class="ttc" id="namespace_light_json_html_a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98"><div class="ttname"><a href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.JsonValueType.String</a></div><div class="ttdoc">A string value. </div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a66dadae38afe162a3b5d403dd3d7251a"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a66dadae38afe162a3b5d403dd3d7251a">BGC.Web.AWSServer.ContainsBGCExtension</a></div><div class="ttdeci">static bool ContainsBGCExtension(string path)</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00219">AWSServer.cs:219</a></div></div>
+<div class="ttc" id="class_light_json_1_1_json_object_html"><div class="ttname"><a href="class_light_json_1_1_json_object.html">LightJson.JsonObject</a></div><div class="ttdoc">Represents a key-value pair collection of JsonValue objects. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00013">JsonObject.cs:13</a></div></div>
+<div class="ttc" id="namespace_unity_engine_html"><div class="ttname"><a href="namespace_unity_engine.html">UnityEngine</a></div></div>
+<div class="ttc" id="namespace_b_g_c_html"><div class="ttname"><a href="namespace_b_g_c.html">BGC</a></div></div>
 </div><!-- fragment -->
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_cgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_cgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_cgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_cgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_utility_1_1_bgc_to_json.html#aa9a8a6817843a232e130deb2584aa4eb" title="Convert complete string of bgc to json " alt="" coords="284,5,493,47"/>
+</map>
+</div>
+</p>
+
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_a08d83fdb062a820b3756e67739ba0fba_icgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_a08d83fdb062a820b3756e67739ba0fba_icgraph" alt=""/></div>
-<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_a08d83fdb062a820b3756e67739ba0fba_icgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_a08d83fdb062a820b3756e67739ba0fba_icgraph">
-<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a10c1499e6315338e7e1194a50baf001e" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="273,5,493,32"/>
-<area shape="rect" id="node3" href="class_b_g_c_1_1_utility_1_1_log_files_tos3.html#ae3a4bfecf89694962efbf727904b8e13" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="260,56,507,83"/>
+<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_icgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_icgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_abdabef1e2297954b3b3f8be1d71342eb_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#aab02ab9100c828f71835b2499bb36d29" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="284,5,504,32"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_utility_1_1_log_files_tos3.html#aba488a82ba4a0155914436f31ef666b2" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="307,57,481,98"/>
 </map>
 </div>
 </p>
 
 </div>
 </div>
-<a class="anchor" id="af56597ffa3632958d0b39ec7429c8cd0"></a>
+<a class="anchor" id="af4b8a4000df332cd5367a0ce8e454f4d"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -311,24 +542,42 @@ Here is the caller graph for this function:</div>
           <td class="memname">static void BGC.Web.AWSServer.PostToAWS </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>fileContents</em>, </td>
+          <td class="paramname"><em>fileName</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>bucket</em>, </td>
+          <td class="paramname"><em>organization</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>serverPath</em>, </td>
+          <td class="paramname"><em>study</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Action&lt; UnityWebRequest &gt;&#160;</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>game</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_light_json_1_1_json_object.html">JsonObject</a>&#160;</td>
+          <td class="paramname"><em>content</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>apiKey</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; UnityWebRequest, bool &gt;&#160;</td>
           <td class="paramname"><em>callBack</em> = <code>null</code>&#160;</td>
         </tr>
         <tr>
@@ -344,39 +593,37 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Post a string to Aws </p>
+<p>Post to aws </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">url</td><td></td></tr>
-    <tr><td class="paramname">bucket</td><td></td></tr>
-    <tr><td class="paramname">serverPath</td><td></td></tr>
-    <tr><td class="paramname">fileContents</td><td></td></tr>
-    <tr><td class="paramname">callBack</td><td>True means there was an error</td></tr>
+    <tr><td class="paramname">filePath</td><td></td></tr>
+    <tr><td class="paramname">organization</td><td></td></tr>
+    <tr><td class="paramname">study</td><td></td></tr>
+    <tr><td class="paramname">game</td><td></td></tr>
+    <tr><td class="paramname">callBack</td><td></td></tr>
   </table>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00075">75</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00098">98</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
 
-<p>References <a class="el" href="_json_object_8cs_source.html#l00069">LightJson.JsonObject.Add()</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00015">BGC.Web.AWSServer.HeaderKeys.ApiKey</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00021">BGC.Web.AWSServer.BodyKeys.Bucket</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00016">BGC.Web.AWSServer.HeaderKeys.CacheControl</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00023">BGC.Web.AWSServer.BodyKeys.Content</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00022">BGC.Web.AWSServer.BodyKeys.Path</a>, <a class="el" href="_rest_8cs_source.html#l00019">BGC.Web.Utility.Rest.PostRequest()</a>, and <a class="el" href="_json_object_8cs_source.html#l00182">LightJson.JsonObject.ToString()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;        {</div><div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;            <span class="keywordflow">if</span> (<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ab45bbd35d8cca21e16a02ada2eb17931">containsBGCExtension</a>(serverPath) == <span class="keyword">false</span>)</div><div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;            {</div><div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;                Debug.LogError(<span class="stringliteral">&quot;server path &quot;</span> + serverPath + <span class="stringliteral">&quot; must have a bgc extension \&quot;.bgc\&quot;&quot;</span>);</div><div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;                callBack?.Invoke(null);</div><div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;</div><div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;                <span class="keywordflow">return</span>;</div><div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;            }</div><div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;</div><div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;            Dictionary&lt;string, string&gt; headers = <span class="keyword">new</span> Dictionary&lt;string, string&gt;();</div><div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;            headers.Add(HeaderKeys.ApiKey, <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a17297c455c5c500ad64eb7db00bfe1d0">ApiKey</a>);</div><div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;            headers.Add(HeaderKeys.CacheControl, <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a1ddaac83c024fcd3cb7ec74f8b3b7cf0">CacheControl</a>);</div><div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;</div><div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;            <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a> body = <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a>();</div><div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;            body.<a class="code" href="class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87">Add</a>(BodyKeys.Bucket, bucket);</div><div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;            body.<a class="code" href="class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87">Add</a>(BodyKeys.Path, serverPath);</div><div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;            body.<a class="code" href="class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87">Add</a>(BodyKeys.Content, fileContents);</div><div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;</div><div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;            <a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html">Rest</a>.<a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#aec647e4911e112f3ba049a93d4e87002">PostRequest</a>(</div><div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a6b77ef9487de24fa44aa22c93e2c10a4">ApiUrl</a>,</div><div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;                headers,</div><div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;                body.<a class="code" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">ToString</a>(),</div><div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;                callBack);</div><div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a6fb02c496d1126ea498b0061c0ec2ace"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">LightJson.JsonObject.ToString</a></div><div class="ttdeci">override string ToString()</div><div class="ttdoc">Returns a JSON string representing the state of the object. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00182">JsonObject.cs:182</a></div></div>
-<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_ab45bbd35d8cca21e16a02ada2eb17931"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#ab45bbd35d8cca21e16a02ada2eb17931">BGC.Web.AWSServer.containsBGCExtension</a></div><div class="ttdeci">static bool containsBGCExtension(string path)</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00115">AWSServer.cs:115</a></div></div>
+<p>References <a class="el" href="_a_w_s_server_8cs_source.html#l00025">BGC.Web.AWSServer.BodyKeys.Content</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00024">BGC.Web.AWSServer.BodyKeys.FileName</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00027">BGC.Web.AWSServer.BodyKeys.Game</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00022">BGC.Web.AWSServer.BodyKeys.Oganization</a>, <a class="el" href="_rest_8cs_source.html#l00019">BGC.Web.Utility.Rest.PostRequest()</a>, <a class="el" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.String</a>, <a class="el" href="_a_w_s_server_8cs_source.html#l00026">BGC.Web.AWSServer.BodyKeys.Study</a>, and <a class="el" href="_json_object_8cs_source.html#l00182">LightJson.JsonObject.ToString()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;        {</div><div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(fileName));</div><div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(organization));</div><div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(study));</div><div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;            Assert.IsFalse(<a class="code" href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">String</a>.IsNullOrEmpty(game));</div><div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;            Assert.IsTrue(<a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a0ccad1e58ff232e7fe2a11a38f95f9d8">ContainsJSONExtension</a>(fileName));</div><div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;            </div><div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;            <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a> body = <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a></div><div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;            {</div><div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;                {</div><div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;                    <span class="stringliteral">&quot;body&quot;</span>,</div><div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;                    <span class="keyword">new</span> <a class="code" href="class_light_json_1_1_json_object.html">JsonObject</a></div><div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;                    {</div><div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;                        { BodyKeys.Oganization, organization },</div><div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;                        { BodyKeys.Study, study },</div><div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;                        { BodyKeys.Game, game },</div><div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;                        { BodyKeys.FileName, fileName },</div><div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;                        { BodyKeys.Content, content.<a class="code" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">ToString</a>() }</div><div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;                    }</div><div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;                }</div><div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;            };</div><div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;</div><div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;            <a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html">Rest</a>.<a class="code" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d">PostRequest</a>(</div><div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a4109c85521401fd354cd079c4e44af7b">ToS3URL</a>,</div><div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;                <a class="code" href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff">Header</a>(apiKey),</div><div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;                body.<a class="code" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">ToString</a>(),</div><div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;                callBack);</div><div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;        }</div><div class="ttc" id="class_light_json_1_1_json_object_html_a6fb02c496d1126ea498b0061c0ec2ace"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace">LightJson.JsonObject.ToString</a></div><div class="ttdeci">override string ToString()</div><div class="ttdoc">Returns a JSON string representing the state of the object. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00182">JsonObject.cs:182</a></div></div>
 <div class="ttc" id="class_b_g_c_1_1_web_1_1_utility_1_1_rest_html"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html">BGC.Web.Utility.Rest</a></div><div class="ttdef"><b>Definition:</b> <a href="_rest_8cs_source.html#l00010">Rest.cs:10</a></div></div>
-<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a1ddaac83c024fcd3cb7ec74f8b3b7cf0"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a1ddaac83c024fcd3cb7ec74f8b3b7cf0">BGC.Web.AWSServer.CacheControl</a></div><div class="ttdeci">const string CacheControl</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00029">AWSServer.cs:29</a></div></div>
-<div class="ttc" id="class_b_g_c_1_1_web_1_1_utility_1_1_rest_html_aec647e4911e112f3ba049a93d4e87002"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#aec647e4911e112f3ba049a93d4e87002">BGC.Web.Utility.Rest.PostRequest</a></div><div class="ttdeci">static void PostRequest(string url, Dictionary&lt; string, string &gt; headers, string body, Action&lt; UnityWebRequest &gt; callBack=null)</div><div class="ttdoc">Send a post request </div><div class="ttdef"><b>Definition:</b> <a href="_rest_8cs_source.html#l00019">Rest.cs:19</a></div></div>
-<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a17297c455c5c500ad64eb7db00bfe1d0"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a17297c455c5c500ad64eb7db00bfe1d0">BGC.Web.AWSServer.ApiKey</a></div><div class="ttdeci">const string ApiKey</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00028">AWSServer.cs:28</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_utility_1_1_rest_html_adda09790009db7cdecd9eca3d0f3ca1d"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d">BGC.Web.Utility.Rest.PostRequest</a></div><div class="ttdeci">static void PostRequest(string url, Dictionary&lt; string, string &gt; headers, string body, Action&lt; UnityWebRequest, bool &gt; callBack=null)</div><div class="ttdoc">Send a post request </div><div class="ttdef"><b>Definition:</b> <a href="_rest_8cs_source.html#l00019">Rest.cs:19</a></div></div>
+<div class="ttc" id="namespace_light_json_html_a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98"><div class="ttname"><a href="namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27118326006d3829667a400ad23d5d98">LightJson.JsonValueType.String</a></div><div class="ttdoc">A string value. </div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a39c233c73c78abf913b0f85824e5feff"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a39c233c73c78abf913b0f85824e5feff">BGC.Web.AWSServer.Header</a></div><div class="ttdeci">static Dictionary&lt; string, string &gt; Header(string apiKey)</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00042">AWSServer.cs:42</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a4109c85521401fd354cd079c4e44af7b"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a4109c85521401fd354cd079c4e44af7b">BGC.Web.AWSServer.ToS3URL</a></div><div class="ttdeci">const string ToS3URL</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00033">AWSServer.cs:33</a></div></div>
 <div class="ttc" id="class_light_json_1_1_json_object_html"><div class="ttname"><a href="class_light_json_1_1_json_object.html">LightJson.JsonObject</a></div><div class="ttdoc">Represents a key-value pair collection of JsonValue objects. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00013">JsonObject.cs:13</a></div></div>
-<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a6b77ef9487de24fa44aa22c93e2c10a4"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a6b77ef9487de24fa44aa22c93e2c10a4">BGC.Web.AWSServer.ApiUrl</a></div><div class="ttdeci">const string ApiUrl</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00027">AWSServer.cs:27</a></div></div>
-<div class="ttc" id="class_light_json_1_1_json_object_html_a6e1c73338d5bc119f44b49b15bbedd87"><div class="ttname"><a href="class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87">LightJson.JsonObject.Add</a></div><div class="ttdeci">JsonObject Add(string key)</div><div class="ttdoc">Adds a key with a null value to this collection. </div><div class="ttdef"><b>Definition:</b> <a href="_json_object_8cs_source.html#l00069">JsonObject.cs:69</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_web_1_1_a_w_s_server_html_a0ccad1e58ff232e7fe2a11a38f95f9d8"><div class="ttname"><a href="class_b_g_c_1_1_web_1_1_a_w_s_server.html#a0ccad1e58ff232e7fe2a11a38f95f9d8">BGC.Web.AWSServer.ContainsJSONExtension</a></div><div class="ttdeci">static bool ContainsJSONExtension(string fileName)</div><div class="ttdef"><b>Definition:</b> <a href="_a_w_s_server_8cs_source.html#l00224">AWSServer.cs:224</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_af56597ffa3632958d0b39ec7429c8cd0_cgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_af56597ffa3632958d0b39ec7429c8cd0_cgraph" alt=""/></div>
-<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_af56597ffa3632958d0b39ec7429c8cd0_cgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_af56597ffa3632958d0b39ec7429c8cd0_cgraph">
-<area shape="rect" id="node2" href="class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87" title="Adds a key with a null value to this collection. " alt="" coords="299,5,473,32"/>
-<area shape="rect" id="node3" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#aec647e4911e112f3ba049a93d4e87002" title="Send a post request " alt="" coords="295,57,477,98"/>
-<area shape="rect" id="node4" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="285,123,487,149"/>
+<div class="center"><img src="class_b_g_c_1_1_web_1_1_a_w_s_server_af4b8a4000df332cd5367a0ce8e454f4d_cgraph.png" border="0" usemap="#class_b_g_c_1_1_web_1_1_a_w_s_server_af4b8a4000df332cd5367a0ce8e454f4d_cgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_web_1_1_a_w_s_server_af4b8a4000df332cd5367a0ce8e454f4d_cgraph" id="class_b_g_c_1_1_web_1_1_a_w_s_server_af4b8a4000df332cd5367a0ce8e454f4d_cgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d" title="Send a post request " alt="" coords="295,5,477,47"/>
+<area shape="rect" id="node3" href="class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="285,71,487,98"/>
 </map>
 </div>
 </p>
@@ -384,34 +631,6 @@ Here is the call graph for this function:</div>
 </div>
 </div>
 <h2 class="groupheader">Field Documentation</h2>
-<a class="anchor" id="a17297c455c5c500ad64eb7db00bfe1d0"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const string BGC.Web.AWSServer.ApiKey = &quot;eQtoU42BkJ697U9t74dQH73fjxdfcy7p70Rvs1Ft&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00028">28</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
-
-</div>
-</div>
-<a class="anchor" id="a6b77ef9487de24fa44aa22c93e2c10a4"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const string BGC.Web.AWSServer.ApiUrl = &quot;https://kukp0cevff.execute-api.us-east-2.amazonaws.com/prod/post_file_to_s3&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00027">27</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
-
-</div>
-</div>
 <a class="anchor" id="a9643e723b971ab6a8a29f93b1cca75d6"></a>
 <div class="memitem">
 <div class="memproto">
@@ -422,7 +641,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00030">30</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00037">37</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
 
 </div>
 </div>
@@ -436,7 +655,35 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00029">29</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00036">36</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a5822d819bd703a19e92d73954f3e983b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const string BGC.Web.AWSServer.CodeURL = &quot;https://84cje3rj4j.execute-api.us-east-1.amazonaws.com/Production/code-retriever&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00032">32</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a1d000619ed8a61bf32c3b5de0465929b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const string BGC.Web.AWSServer.ConditionURL = &quot;https://84cje3rj4j.execute-api.us-east-1.amazonaws.com/Production/condition-retriever&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00031">31</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
 
 </div>
 </div>
@@ -458,7 +705,21 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00032">32</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00040">40</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a374eb7c79157050c5ad712f1b7bb555b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const string BGC.Web.AWSServer.JSONExtension = &quot;.json&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00038">38</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
 
 </div>
 </div>
@@ -472,7 +733,21 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00026">26</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00035">35</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a4109c85521401fd354cd079c4e44af7b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const string BGC.Web.AWSServer.ToS3URL = &quot;https://84cje3rj4j.execute-api.us-east-1.amazonaws.com/Production/to-s3&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="_a_w_s_server_8cs_source.html#l00033">33</a> of file <a class="el" href="_a_w_s_server_8cs_source.html">AWSServer.cs</a>.</p>
 
 </div>
 </div>
@@ -482,7 +757,7 @@ Here is the call graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed May 23 2018 13:46:20 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Oct 8 2018 15:42:09 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

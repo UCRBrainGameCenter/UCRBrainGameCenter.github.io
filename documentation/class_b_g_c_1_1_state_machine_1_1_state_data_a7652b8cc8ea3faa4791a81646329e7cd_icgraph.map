@@ -1,0 +1,3 @@
+<map id="BGC.StateMachine.StateData.ActivateTrigger" name="BGC.StateMachine.StateData.ActivateTrigger">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a11cd0d584990dd68366efa2b2c81dab5" title="Activate a trigger to move the state machine forward Warning: Should only be called from State! ..." alt="" coords="256,5,479,47"/>
+</map>

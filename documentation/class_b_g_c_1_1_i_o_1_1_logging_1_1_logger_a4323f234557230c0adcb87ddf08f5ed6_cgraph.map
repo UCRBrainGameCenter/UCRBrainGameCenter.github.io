@@ -1,0 +1,4 @@
+<map id="BGC.IO.Logging.Logger.PathForLogFile" name="BGC.IO.Logging.Logger.PathForLogFile">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_log_directories.html#adeec8252558186fe559feb87fe2b9c26" title="Get the path to the user in the permanent directory. This automatically creates a directory if it doe..." alt="" coords="245,5,435,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_log_directories.html#a5080b6182b612af4812d83e51879f47f" title="Get the path to the user in the stagin directory. This automatically creates a directory if it does n..." alt="" coords="245,71,435,112"/>
+</map>
