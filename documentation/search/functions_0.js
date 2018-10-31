@@ -19,7 +19,7 @@ var searchData=
   ['addxmlextension',['AddXmlExtension',['../class_b_g_c_1_1_i_o_1_1_file_extensions.html#a0bd5abdcc6a0f4d34c18e1f14676cd32',1,'BGC::IO::FileExtensions']]],
   ['advancecurrentindexpastdepleted',['AdvanceCurrentIndexPastDepleted',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_depletable_list.html#a6f9d5510519fc7eeb706ea4604a0e4f0',1,'BGC::DataStructures::Generic::DepletableList']]],
   ['allcombinationsgenerator',['AllCombinationsGenerator',['../class_b_g_c_1_1_utility_1_1_math_1_1_combinatorics.html#af6412dc0fd03897aee29902002cc0c79',1,'BGC::Utility::Math::Combinatorics']]],
-  ['anylisttostringjsonarray_3c_20t_20_3e',['AnyListToStringJsonArray&lt; T &gt;',['../class_b_g_c_1_1_extensions_1_1_json_extensions.html#a1434f583d6c73232d3da81a8b22fb41e',1,'BGC::Extensions::JsonExtensions']]],
+  ['anylisttostringjsonarray_3c_20t_20_3e',['AnyListToStringJsonArray&lt; T &gt;',['../class_b_g_c_1_1_extensions_1_1_json_extensions.html#a909e4c51328a466e81144e351ce3a7c4',1,'BGC::Extensions::JsonExtensions']]],
   ['applyheaders',['ApplyHeaders',['../class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#ac3c823ee08460e7df8a839a8e6eddda9',1,'BGC::IO::Logging::Logger']]],
   ['applyrequiredfields',['ApplyRequiredFields',['../class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a002e8058d833237a66cb935823b7af73',1,'BGC::IO::Logging::Logger']]],
   ['assert',['Assert',['../class_light_json_1_1_serialization_1_1_text_scanner.html#a188dbfe6bf38640fe99cf63c70d57bbb',1,'LightJson.Serialization.TextScanner.Assert(char next)'],['../class_light_json_1_1_serialization_1_1_text_scanner.html#a420bd647b3b845546a239af0707069a8',1,'LightJson.Serialization.TextScanner.Assert(string next)']]],

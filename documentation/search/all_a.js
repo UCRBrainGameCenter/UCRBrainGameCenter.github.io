@@ -4,7 +4,7 @@ var searchData=
   ['json',['JSON',['../class_b_g_c_1_1_i_o_1_1_file_extensions.html#ace98f935e29aedccf39b8153441c7264',1,'BGC::IO::FileExtensions']]],
   ['jsonaarraytostringlist',['JsonaArrayToStringList',['../class_b_g_c_1_1_extensions_1_1_json_extensions.html#a9f3f70eee7ad2bd9b4432f3a27daf4d9',1,'BGC::Extensions::JsonExtensions']]],
   ['jsonarray',['JsonArray',['../class_light_json_1_1_json_array.html',1,'LightJson']]],
-  ['jsonarray',['jsonArray',['../class_light_json_1_1_json_array_1_1_json_array_debug_view.html#a1ccdf84e93bf4f66a5b045422336dbf9',1,'LightJson.JsonArray.JsonArrayDebugView.jsonArray()'],['../class_light_json_1_1_json_array.html#ae32cc8acdd9b2c41d329d686e2b19c8b',1,'LightJson.JsonArray.JsonArray()'],['../class_light_json_1_1_json_array.html#ae0f33f8a6a3935079ea82a0279db034d',1,'LightJson.JsonArray.JsonArray(params JsonValue[] values)']]],
+  ['jsonarray',['JsonArray',['../class_light_json_1_1_json_array.html#ae32cc8acdd9b2c41d329d686e2b19c8b',1,'LightJson.JsonArray.JsonArray()'],['../class_light_json_1_1_json_array.html#ae0f33f8a6a3935079ea82a0279db034d',1,'LightJson.JsonArray.JsonArray(params JsonValue[] values)'],['../class_light_json_1_1_json_array_1_1_json_array_debug_view.html#a1ccdf84e93bf4f66a5b045422336dbf9',1,'LightJson.JsonArray.JsonArrayDebugView.jsonArray()']]],
   ['jsonarray_2ecs',['JsonArray.cs',['../_json_array_8cs.html',1,'']]],
   ['jsonarraydebugview',['JsonArrayDebugView',['../class_light_json_1_1_json_array_1_1_json_array_debug_view.html',1,'LightJson::JsonArray']]],
   ['jsonarraydebugview',['JsonArrayDebugView',['../class_light_json_1_1_json_array_1_1_json_array_debug_view.html#ad890eb6fa60f116b0fdac7bf6a194422',1,'LightJson::JsonArray::JsonArrayDebugView']]],

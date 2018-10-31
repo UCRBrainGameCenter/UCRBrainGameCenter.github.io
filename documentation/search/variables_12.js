@@ -4,6 +4,8 @@ var searchData=
   ['s3stagingdirectory',['S3StagingDirectory',['../class_b_g_c_1_1_i_o_1_1_log_directories.html#a307bc1ae66c4861edf087672b05b0bdf',1,'BGC::IO::LogDirectories']]],
   ['samplelist',['sampleList',['../class_b_g_c_1_1_tests_1_1_bag_tests.html#ac370e41a0fb86fe6a41d21f1db48311d',1,'BGC.Tests.BagTests.sampleList()'],['../class_b_g_c_1_1_tests_1_1_random_value_tests.html#afc0ffa45585f6c0e7e47f2ca26eb5753',1,'BGC.Tests.RandomValueTests.sampleList()']]],
   ['scanner',['scanner',['../class_light_json_1_1_serialization_1_1_json_reader.html#a2ecebdc150bb89ab4cec8917bbba8099',1,'LightJson::Serialization::JsonReader']]],
+  ['screenshotindex',['screenShotIndex',['../class_b_g_c_1_1_utility_1_1_unity_1_1_screen_shot_on_button_press.html#a94e84be97073cfdaaae34389ab021209',1,'BGC::Utility::Unity::ScreenShotOnButtonPress']]],
+  ['screenshottitle',['screenShotTitle',['../class_b_g_c_1_1_utility_1_1_unity_1_1_screen_shot_on_button_press.html#af387d0b98d74c68c45325fa91ea45000',1,'BGC::Utility::Unity::ScreenShotOnButtonPress']]],
   ['session',['Session',['../class_b_g_c_1_1_i_o_1_1_logging_1_1_logging_keys.html#ae4c17b5ec70fe61b1bb950d4023e3c69',1,'BGC::IO::Logging::LoggingKeys']]],
   ['sessionnumber',['sessionNumber',['../class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a35ed5d1e14016c65749ed56e79d644fb',1,'BGC::IO::Logging::Logger']]],
   ['setbool',['setBool',['../class_b_g_c_1_1_state_machine_1_1_state.html#a2f8cee7b76a00572f1a830878a0a3641',1,'BGC::StateMachine::State']]],

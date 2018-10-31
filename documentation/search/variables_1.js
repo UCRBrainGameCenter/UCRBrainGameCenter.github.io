@@ -2,6 +2,7 @@ var searchData=
 [
   ['acceptableextensions',['AcceptableExtensions',['../class_b_g_c_1_1_utility_1_1_file_browser_1_1_file_browser.html#a4680e1e992bd4410ad2704cddaac8a56',1,'BGC::Utility::FileBrowser::FileBrowser']]],
   ['activatetrigger',['activateTrigger',['../class_b_g_c_1_1_state_machine_1_1_state.html#aedeea45a4e1bfed93abd3f1aa42698de',1,'BGC::StateMachine::State']]],
+  ['active',['active',['../class_b_g_c_1_1_utility_1_1_unity_1_1_screen_shot_on_button_press.html#a09530064d0af681e97d9e49b1b11e530',1,'BGC::Utility::Unity::ScreenShotOnButtonPress']]],
   ['additionalheaders',['AdditionalHeaders',['../class_b_g_c_1_1_i_o_1_1_logging_1_1_logging_keys.html#a958f8078c50a6a744de1ab60e25fe536',1,'BGC::IO::Logging::LoggingKeys']]],
   ['alpha',['alpha',['../class_b_g_c_1_1_u_i_1_1_color_u_i_extensions.html#a8eb4ace1feae2210048096db8b1b1771',1,'BGC::UI::ColorUIExtensions']]],
   ['anystatetransitions',['anyStateTransitions',['../class_b_g_c_1_1_state_machine_1_1_state_machine.html#a8c78050646fdb737a04a9ea18ff20c5d',1,'BGC::StateMachine::StateMachine']]],

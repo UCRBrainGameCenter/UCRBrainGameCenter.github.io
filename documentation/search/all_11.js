@@ -66,7 +66,7 @@ var searchData=
   ['ringbuffer_2ecs',['RingBuffer.cs',['../_ring_buffer_8cs.html',1,'']]],
   ['ringbufferenum',['RingBufferEnum',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer_enum.html',1,'BGC::DataStructures::Generic']]],
   ['ringbufferenum',['RingBufferEnum',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer_enum.html#ab706f72efd0b06904803b1f207c34e95',1,'BGC::DataStructures::Generic::RingBufferEnum']]],
-  ['rootdirectory',['RootDirectory',['../class_b_g_c_1_1_i_o_1_1_data_management.html#adc8ca00bcd01e1534933cd0db7cee4cc',1,'BGC.IO.DataManagement.RootDirectory()'],['../class_b_g_c_1_1_i_o_1_1_data_management.html#a4a273fddaceee3836cef56dd3df87ab8',1,'BGC.IO.DataManagement.rootDirectory()']]],
+  ['rootdirectory',['rootDirectory',['../class_b_g_c_1_1_i_o_1_1_data_management.html#a4a273fddaceee3836cef56dd3df87ab8',1,'BGC.IO.DataManagement.rootDirectory()'],['../class_b_g_c_1_1_i_o_1_1_data_management.html#adc8ca00bcd01e1534933cd0db7cee4cc',1,'BGC.IO.DataManagement.RootDirectory()']]],
   ['rotate',['Rotate',['../class_b_g_c_1_1_extensions_1_1_vector2_extension.html#a5ed50485316f672be9c8bab2d86e125b',1,'BGC::Extensions::Vector2Extension']]],
   ['roundclamp',['RoundClamp',['../class_b_g_c_1_1_utility_1_1_math_1_1_byte_math.html#a0f32bd0709a10b7ff40e12585599a323',1,'BGC::Utility::Math::ByteMath']]],
   ['roundrepeat',['RoundRepeat',['../class_b_g_c_1_1_utility_1_1_math_1_1_byte_math.html#a29bdde817cd392464008e865999466fb',1,'BGC::Utility::Math::ByteMath']]],
