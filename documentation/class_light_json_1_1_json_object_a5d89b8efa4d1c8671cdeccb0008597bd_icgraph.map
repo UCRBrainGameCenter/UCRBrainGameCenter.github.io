@@ -1,7 +1,25 @@
 <map id="LightJson.JsonObject.ContainsKey" name="LightJson.JsonObject.ContainsKey">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#a2686d1edadcab08cbdc22af3282671d1" title="Convert every line into a json object based on the meta data " alt="" coords="280,5,513,32"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af98d100fe865023a44096811ad83b939" title="Test to see whether or not the meta data has all the correct fields " alt="" coords="301,57,493,98"/>
-<area shape="rect" id="node4" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="314,122,479,163"/>
-<area shape="rect" id="node5" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af8692bec7fa5bb1eb30ed113b6a084f8" title="Remove any redundant meta data fields from the json object " alt="" coords="291,187,503,229"/>
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#aa19b6a4c70d9fff9e3ac9b0cc6b8de52" title="Try and get value, if key is not there it adds the key " alt="" coords="286,253,507,294"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a241c688506fc42eba9d65d3c65bdb524" title="Load user contents from file " alt="" coords="280,71,508,98"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_users_1_1_profile_data.html#ada5e74bf5f52f7ba61876ac746e3d1b0" title="Get value associated with indicated key &#160;" alt="" coords="289,122,499,149"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_users_1_1_profile_data.html#ac2522aa1570bf48eff23d5317c7a4a29" title="Get value associated with indicated key &#160;" alt="" coords="302,173,486,215"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a4d79e4186292831450e866f7168a485f" title="BGC.Study.ProtocolManager.\lGetEnvValue" alt="" coords="297,239,491,280"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_users_1_1_profile_data.html#af1e39c8a0786cd19495ef2b9ef62668d" title="Get value associated with indicated key &#160;" alt="" coords="302,304,486,345"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_users_1_1_profile_data.html#aef25a34e1b243cb96469166970566e4c" title="Get value associated with indicated key &#160;" alt="" coords="295,370,493,397"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_users_1_1_profile_data.html#af222ecfb6e7485ca2b60233b02fbda75" title="Get value associated with indicated key &#160;" alt="" coords="302,421,486,463"/>
+<area shape="rect" id="node12" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a7297771b6839eba58dd2dc22d92f2871" title="Get value associated with indicated key &#160;" alt="" coords="302,487,486,528"/>
+<area shape="rect" id="node13" href="$class_b_g_c_1_1_users_1_1_profile_data.html#ac87aa5e479b999f10e91c6dc74609d32" title="Get value associated with indicated key &#160;" alt="" coords="302,552,486,593"/>
+<area shape="rect" id="node14" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="311,617,477,659"/>
+<area shape="rect" id="node15" href="$class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="293,683,495,710"/>
+<area shape="rect" id="node16" href="$class_b_g_c_1_1_study_1_1_session_element.html#a8d3d7ffb4c3daaec065ebcfd82c9ceb7" title="BGC.Study.SessionElement.\lSessionElement" alt="" coords="298,735,490,776"/>
+<area shape="rect" id="node17" href="$class_b_g_c_1_1_users_1_1_profile_data.html#aaa58e02baf88f053096d759e9ccef3b4" title="Set value &#160;at indicated key &#160;" alt="" coords="289,801,499,827"/>
+<area shape="rect" id="node18" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a65502c4fde3b5ff2fba1a699912b85b6" title="Set value &#160;at indicated key &#160;" alt="" coords="303,852,485,893"/>
+<area shape="rect" id="node19" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a89e53347542b74b4c5bb4c9db797bd7c" title="Set value &#160;at indicated key &#160;" alt="" coords="303,917,485,959"/>
+<area shape="rect" id="node20" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a658bc9254bc8d32fdfd07739149ccf71" title="Set value &#160;at indicated key &#160;" alt="" coords="295,983,493,1010"/>
+<area shape="rect" id="node21" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a2feec0c456d30eb10f5a907f94197060" title="Set value &#160;at indicated key &#160;" alt="" coords="303,1035,485,1076"/>
+<area shape="rect" id="node22" href="$class_b_g_c_1_1_users_1_1_profile_data.html#aba04969d2350b8c53acebd4e86b2664f" title="Set value &#160;at indicated key &#160;" alt="" coords="303,1100,485,1141"/>
+<area shape="rect" id="node23" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a9c2a086240939e2a01667ac293ee31e7" title="Set value &#160;at indicated key &#160;" alt="" coords="303,1165,485,1207"/>
+<area shape="rect" id="node24" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#aa19b6a4c70d9fff9e3ac9b0cc6b8de52" title="Try and get value, if key is not there it adds the key " alt="" coords="283,1231,505,1272"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_users_1_1_player_data.html#aa3bf36b74ec8daea291777ff9efb4201" title="Deserialize, delete, and remove a user " alt="" coords="556,5,757,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_users_1_1_player_data.html#a5f6273ddb5bd493315693d761a184ad4" title="Get the migration preferences of all profiles. " alt="" coords="565,123,749,164"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_users_1_1_player_data.html#a27616abe9d4495a749be831097299489" title="Attempts to log in with userName " alt="" coords="559,71,754,98"/>
 </map>

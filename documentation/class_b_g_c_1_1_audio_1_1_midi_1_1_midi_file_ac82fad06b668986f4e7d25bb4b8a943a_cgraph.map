@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Midi.MidiFile.Serialize" name="BGC.Audio.Midi.MidiFile.Serialize">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a3973ebb8b4a248edebd8e618d75e1051" title="BGC.Audio.Midi.MidiTrack.\lSerialize" alt="" coords="223,5,404,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html#a5738369d4f5f8d6ad9abeb349670fdf2" title="BGC.Audio.Midi.Events.Midi\lEvent.Serialize" alt="" coords="452,5,641,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="BGC.Mathematics.Fourier.Inverse" name="BGC.Mathematics.Fourier.Inverse">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_carlile_shuffler.html#ae4a7e5d878d41f2236fa25fedbf16fdc" title="BGC.Audio.Filters.Carlile\lShuffler._Initialize" alt="" coords="273,5,443,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_noise_audio_clip.html#a52742a58080531343625dd7ddba00bed" title="BGC.Audio.Synthesis.Noise\lAudioClip._Initialize" alt="" coords="264,71,452,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_s_t_m_audio_clip.html#af9834e667b57d302e9a3f4912b17eed0" title="BGC.Audio.Synthesis.STMAudio\lClip._Initialize" alt="" coords="251,136,465,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_noise_stream.html#ad8f8d765d3c966bc51ce430ce818650d" title="Perform any calculations necessary to prepare the Stream " alt="" coords="259,201,457,243"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#af3477832d2976671e2b05faed65fa831" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="251,267,465,308"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#afd96259457e9ebe2b851e5177f6345fd" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="232,333,484,359"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_convolution_filter.html#ac7ed00ad00a31fc8d803da06cd247d75" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="257,384,459,425"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_multi_convolution_filter.html#a421d5f704b762548591537f4e9869e95" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="243,449,473,491"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_tests_1_1_test_overlap_add.html#ab7eeef81564d6ef7d22af3bcdd38e989" title="BGC.Tests.TestOverlapAdd.\lTestNewFFTs" alt="" coords="263,515,453,556"/>
+</map>

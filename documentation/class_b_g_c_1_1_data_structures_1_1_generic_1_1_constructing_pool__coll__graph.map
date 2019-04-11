@@ -1,0 +1,5 @@
+<map id="BGC.DataStructures.Generic.ConstructingPool&lt; T &gt;" name="BGC.DataStructures.Generic.ConstructingPool&lt; T &gt;">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_data_structures_1_1_generic_1_1_i_pool.html" title="An interface for a collection that tracks and retains unique underlying values, allowing values to be..." alt="" coords="224,83,308,109"/>
+<area shape="rect" id="node4" href="$class_i_collection.html" title="ICollection\&lt; T \&gt;" alt="" coords="13,85,129,112"/>
+<area shape="rect" id="node5" href="$interface_b_g_c_1_1_data_structures_1_1_generic_1_1_i_pool_release.html" title="A convenience interface to safely allow other systems the ability to release pooled objects..." alt="" coords="5,136,137,163"/>
+</map>

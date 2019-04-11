@@ -1,4 +1,6 @@
 <map id="BGC.DataStructures.IntListContainer.Remove" name="BGC.DataStructures.IntListContainer.Remove">
 <area shape="rect" id="node2" href="$class_b_g_c_1_1_extensions_1_1_int_list_container_extensions.html#a01da94106be3026f5edbc85ec68f0a28" title="Remove all values in array below certain count " alt="" coords="236,5,487,47"/>
 <area shape="rect" id="node3" href="$class_b_g_c_1_1_extensions_1_1_int_list_container_extensions.html#ac1daa7d354c6327a4b733f3942dcf520" title="Remove all values in array below certain count " alt="" coords="237,71,486,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_tests_1_1_int_list_container_tests.html#a6cc668773d7971bce62ee0c1d6e5c6ee" title="BGC.Tests.IntListContainer\lTests.TestRemoveInt" alt="" coords="269,136,453,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_tests_1_1_int_list_container_tests.html#a7dbc30222cfcc95a507b06c33bad20c4" title="BGC.Tests.IntListContainer\lTests.TestRemoveList" alt="" coords="269,201,453,243"/>
 </map>

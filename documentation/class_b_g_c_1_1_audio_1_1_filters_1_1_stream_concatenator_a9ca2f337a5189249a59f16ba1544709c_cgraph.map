@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Filters.StreamConcatenator.Seek" name="BGC.Audio.Filters.StreamConcatenator.Seek">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html#a76d9fb4ed6efa3d1b03142d656b4c481" title="Sets this internal state of this stream to the initial state " alt="" coords="228,5,435,32"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html#a2bd86a85021f76618927bc676fc49aec" title="Seek to the indicated position in the stream " alt="" coords="231,56,432,83"/>
+</map>

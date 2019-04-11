@@ -1,4 +1,12 @@
 var searchData=
 [
-  ['xml',['XML',['../class_b_g_c_1_1_i_o_1_1_file_extensions.html#a4297a3c71675197f30f54e432175dabb',1,'BGC::IO::FileExtensions']]]
+  ['w_5f1',['W_1',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_converter.html#aceeee0f8ef957a55a5d186c6baffed5d',1,'BGC.Audio.AnalyticStreams.AnalyticStreamConverter.W_1()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_frequency_modulation_filter.html#a9856b90c00847585e80b9e1c06ef449d',1,'BGC.Audio.Filters.FrequencyModulationFilter.W_1()']]],
+  ['w_5f2',['W_2',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_converter.html#acc28d0e1ff5302d8eede9ca24df6557a',1,'BGC.Audio.AnalyticStreams.AnalyticStreamConverter.W_2()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_frequency_modulation_filter.html#a10697f722cec78d297af10f8e69c6237',1,'BGC.Audio.Filters.FrequencyModulationFilter.W_2()']]],
+  ['wild_5fcard',['WILD_CARD',['../struct_b_g_c_1_1_utility_1_1_application_version.html#af75e0fcb19d20f0a5dc8b8fa6a3fed2d',1,'BGC::Utility::ApplicationVersion']]],
+  ['wild_5fcard_5fceil',['WILD_CARD_CEIL',['../struct_b_g_c_1_1_utility_1_1_application_version.html#a5593e0f77a688109be2edf7fe6e34b3e',1,'BGC::Utility::ApplicationVersion']]],
+  ['wild_5fcard_5ffloor',['WILD_CARD_FLOOR',['../struct_b_g_c_1_1_utility_1_1_application_version.html#ad9046cce3ee3b4e820b0fdbd2f46024f',1,'BGC::Utility::ApplicationVersion']]],
+  ['window',['window',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_windower.html#ab40d26a558413b32667dfe7a95826ea7',1,'BGC.Audio.AnalyticStreams.AnalyticStreamWindower.window()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_stream_windower.html#acee7d663cd71812578562d01f3b84611',1,'BGC.Audio.Filters.StreamWindower.window()'],['../class_b_g_c_1_1_audio_1_1_cross_fading_ref_clip.html#af75ff3d7fd812089b5c3d64fcaa759da',1,'BGC.Audio.CrossFadingRefClip.window()'],['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#a1b5f5ccb80d5f997fa1fe632de1735a6',1,'BGC.Audio.Synthesis.FrequencyDomainToneComposer.window()']]],
+  ['windowing_5fsamples',['WINDOWING_SAMPLES',['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#ac0c76ddd1ac65da195a3b591963d3d38',1,'BGC::Audio::Synthesis::FrequencyDomainToneComposer']]],
+  ['windowinput',['windowInput',['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#a35d8b93d26b90fe3f0db981a0e5e220b',1,'BGC::Audio::Filters::PhaseVocoder']]],
+  ['windowoutput',['windowOutput',['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#aa67f695c186a10042906d7e58a792aea',1,'BGC::Audio::Filters::PhaseVocoder']]]
 ];

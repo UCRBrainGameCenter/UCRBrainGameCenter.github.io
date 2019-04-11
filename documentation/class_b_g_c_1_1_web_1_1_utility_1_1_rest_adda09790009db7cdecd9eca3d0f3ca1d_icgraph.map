@@ -1,5 +1,0 @@
-<map id="BGC.Web.Utility.Rest.PostRequest" name="BGC.Web.Utility.Rest.PostRequest">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#a7650413bedf91dbfce3f91c6c7985650" title="BGC.Web.AWSServer.GetCode\lConfig" alt="" coords="248,5,459,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#ade1a5a7194d3959d16f48d9867562c41" title="BGC.Web.AWSServer.GetCondition" alt="" coords="236,71,471,98"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#af4b8a4000df332cd5367a0ce8e454f4d" title="Post to aws " alt="" coords="237,122,469,149"/>
-</map>

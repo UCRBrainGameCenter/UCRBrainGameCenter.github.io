@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Filters.PhaseVocoder.PhaseVocoder" name="BGC.Audio.Filters.PhaseVocoder.PhaseVocoder">
+<area shape="rect" id="node2" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#acc5caba200db4c043a1b00488765d184" title="Trigonometric Cosine of a Complex64 number. " alt="" coords="275,31,503,57"/>
+<area shape="rect" id="node5" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a223138129f6f302d9f0340014b7ab062" title="Creates a complex number from a point&#39;s polar coordinates. " alt="" coords="287,82,491,123"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#a86cbe8397d82b6daf5d885b9604ed97d" title="Hyperbolic Cosine " alt="" coords="551,5,793,32"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#aa01ae89150904e062650a2de51856547" title="Hyperbolic Sine " alt="" coords="553,56,791,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BGC.Mathematics.Complex64.Cos" name="BGC.Mathematics.Complex64.Cos">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#ab9af286c18f30235134cf70649cf18ca" title="BGC.Audio.Filters.PhaseVocoder.\lPhaseVocoder" alt="" coords="281,5,503,47"/>
+<area shape="rect" id="node3" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#aea93b3213b2401cd44da1cbfed723d6c" title="Retuns the Complex64 number, rotated by phase &#160;radians, or exp(i*phase) " alt="" coords="290,71,494,112"/>
+</map>

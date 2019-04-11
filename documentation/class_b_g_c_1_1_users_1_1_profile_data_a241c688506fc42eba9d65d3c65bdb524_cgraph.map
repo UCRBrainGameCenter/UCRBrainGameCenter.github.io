@@ -1,0 +1,6 @@
+<map id="BGC.Users.ProfileData.Deserialize" name="BGC.Users.ProfileData.Deserialize">
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a5d89b8efa4d1c8671cdeccb0008597bd" title="Determines whether this collection contains an item assosiated with the given key. " alt="" coords="281,5,508,32"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_file_reader.html#ab92af1798c24dc57622a6d22faabc095" title="Offers two error callbacks for when a file is not found and for when a file failed to parse correctly..." alt="" coords="285,56,505,83"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a95a87d70bbe7763caab326c72317cfb5" title="Creates a JsonValue by reading the given file. " alt="" coords="556,49,713,90"/>
+<area shape="rect" id="node5" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a4a2f0692bf9dec28417fe83924ac7380" title="LightJson.Serialization.\lJsonReader.Parse" alt="" coords="761,49,919,90"/>
+</map>

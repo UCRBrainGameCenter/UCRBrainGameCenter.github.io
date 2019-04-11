@@ -1,4 +1,6 @@
 <map id="BGC.DataStructures.EnumListContainer&lt; TEnum &gt;" name="BGC.DataStructures.EnumListContainer&lt; TEnum &gt;">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_data_structures_1_1_int_list_container.html" title="A Serializeable List&lt;int&gt; for 2D Lists " alt="" coords="80,221,194,247"/>
-<area shape="rect" id="node5" href="$class_b_g_c_1_1_data_structures_1_1_int_list_container.html" title="A Serializeable List&lt;int&gt; for 2D Lists " alt="" coords="46,109,228,151"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_data_structures_1_1_int_list_container.html" title="A Serializeable List&lt;int&gt; for lists of lists " alt="" coords="509,313,623,339"/>
+<area shape="rect" id="node3" href="$class_light_json_1_1_json_array.html" title="Represents an ordered collection of JsonValues. " alt="" coords="233,96,374,123"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_data_structures_1_1_int_list_container.html" title="A Serializeable List&lt;int&gt; for lists of lists " alt="" coords="337,201,520,243"/>
+<area shape="rect" id="node4" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="5,5,185,32"/>
 </map>

@@ -1,0 +1,10 @@
+<map id="BGC.Audio.AnalyticStreams.AnalyticStreamFork" name="BGC.Audio.AnalyticStreams.AnalyticStreamFork">
+<area shape="rect" id="node14" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_fork_1_1_internal_stream_fork.html" title="BGC.Audio.AnalyticStreams.\lAnalyticStreamFork.InternalStreamFork" alt="" coords="1277,238,1529,279"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_simple_analytic_filter.html" title="SimpleAnalyticFilter" alt="" coords="620,155,759,181"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html" title="Filters represent transformations of the AnalyticStream. " alt="" coords="279,31,378,57"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="589,363,789,389"/>
+<area shape="rect" id="node8" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="BGC.Audio.AnalyticStreams.\lIAnalyticStream" alt="" coords="233,161,425,202"/>
+<area shape="rect" id="node10" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="241,359,416,385"/>
+<area shape="rect" id="node11" href="$class_i_formattable.html" title="IFormattable" alt="" coords="281,409,376,436"/>
+</map>

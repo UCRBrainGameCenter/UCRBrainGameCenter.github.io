@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Synthesis.ADSREnvelope" name="BGC.Audio.Synthesis.ADSREnvelope">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="11,155,131,181"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="31,80,111,107"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="23,5,120,32"/>
+<area shape="rect" id="node5" href="$interface_b_g_c_1_1_audio_1_1_synthesis_1_1_i_a_d_s_r.html" title="IADSR" alt="" coords="155,155,219,181"/>
+</map>

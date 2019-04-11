@@ -1,5 +1,0 @@
-<map id="BGC.Utility.BgcToJson.ConvertBgcToJson" name="BGC.Utility.BgcToJson.ConvertBgcToJson">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#abdabef1e2297954b3b3f8be1d71342eb" title="BGC.Web.AWSServer.PostBGCTo\lJSonToAWS" alt="" coords="263,27,493,69"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#aab02ab9100c828f71835b2499bb36d29" title="BGC.IO.Logging.Logger.CloseFile" alt="" coords="541,5,761,32"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_utility_1_1_log_files_tos3.html#aba488a82ba4a0155914436f31ef666b2" title="Migrate user logs from staging to permanent on succesful upload to s3 " alt="" coords="564,57,739,98"/>
-</map>

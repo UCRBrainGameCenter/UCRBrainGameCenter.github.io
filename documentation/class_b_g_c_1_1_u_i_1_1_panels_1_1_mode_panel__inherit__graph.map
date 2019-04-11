@@ -1,0 +1,4 @@
+<map id="BGC.UI.Panels.ModePanel" name="BGC.UI.Panels.ModePanel">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_copy_panel.html" title="Clones the appearance of a ModelPanel to show it sliding offscreen. " alt="" coords="6,155,187,181"/>
+<area shape="rect" id="node2" href="$class_mono_behaviour.html" title="MonoBehaviour" alt="" coords="41,5,153,32"/>
+</map>

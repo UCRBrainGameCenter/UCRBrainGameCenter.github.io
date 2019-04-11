@@ -1,0 +1,4 @@
+<map id="BGC.DataStructures.Generic.MetaPool.CheckIn" name="BGC.DataStructures.Generic.MetaPool.CheckIn">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_data_structures_1_1_generic_1_1_constructing_pool.html#a5ea5bfff56ccb3e5bf5011b026389f97" title="Does the checked&#45;out pool contain the argument? " alt="" coords="249,5,500,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_data_structures_1_1_generic_1_1_constructing_pool.html#ace0f2f80a3cfa696f4f7f895661fa653" title="Add (or re&#45;add) a value to the available list. " alt="" coords="277,71,473,112"/>
+</map>

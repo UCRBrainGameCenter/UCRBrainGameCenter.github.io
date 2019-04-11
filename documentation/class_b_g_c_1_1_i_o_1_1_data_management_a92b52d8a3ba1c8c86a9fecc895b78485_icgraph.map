@@ -1,0 +1,6 @@
+<map id="BGC.IO.DataManagement.PathForDataDirectory" name="BGC.IO.DataManagement.PathForDataDirectory">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a1898ce3d18d4e73d3cb907b16e59b576" title="BGC.Study.ProtocolManager.\lLoadProtocolSet" alt="" coords="263,5,457,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_spatialization_1_1_impulse_extraction.html#a41794e82cc947127dfbdba82165467cf" title="BGC.Audio.Spatialization.\lImpulseExtraction.PrepareRun" alt="" coords="260,71,460,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a82d059558c8744db380b421c461df5ba" title="BGC.Study.ProtocolManager.\lSerializeAll" alt="" coords="263,136,457,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a58a3a99b387129a51e84a071f114a414" title="BGC.Study.ProtocolManager.\lUpdateDefaults" alt="" coords="263,201,457,243"/>
+</map>

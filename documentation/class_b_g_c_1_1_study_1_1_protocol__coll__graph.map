@@ -1,0 +1,9 @@
+<map id="BGC.Study.Protocol" name="BGC.Study.Protocol">
+<area shape="rect" id="node2" href="$class_i_enumerable.html" title="IEnumerable\&lt; SessionID \&gt;" alt="" coords="999,5,1179,32"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_study_1_1_session.html" title="BGC.Study.Session" alt="" coords="1019,383,1159,409"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_study_1_1_session_element.html" title="BGC.Study.SessionElement" alt="" coords="619,484,807,511"/>
+<area shape="rect" id="node11" href="$class_light_json_1_1_json_object.html" title="Represents a key&#45;value pair collection of JsonValue objects. " alt="" coords="301,536,449,563"/>
+<area shape="rect" id="node8" href="$class_i_enumerable.html" title="IEnumerable\&lt; SessionElementID \&gt;" alt="" coords="599,383,827,409"/>
+<area shape="rect" id="node12" href="$class_i_enumerable_3_01_key_value_pair_3_01string_00_01_json_value_01_4_4.html" title="IEnumerable\&lt; KeyValuePair\l\&lt; string, JsonValue \&gt;\&gt;" alt="" coords="5,470,192,511"/>
+<area shape="rect" id="node13" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="9,536,189,563"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Envelopes.EnvelopeConcatenator.Seek" name="BGC.Audio.Envelopes.EnvelopeConcatenator.Seek">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html#a0ca51c73c8eb8c0daee8184120a8429c" title="Sets this internal state of this stream to the initial state " alt="" coords="264,5,508,47"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html#a7b3017002c3619f127412f959d3fbf48" title="Seek to the indicated position in the stream " alt="" coords="264,71,508,112"/>
+</map>

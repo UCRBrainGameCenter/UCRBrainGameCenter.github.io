@@ -1,4 +1,5 @@
 <map id="LightJson.JsonObject.Remove" name="LightJson.JsonObject.Remove">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#af8692bec7fa5bb1eb30ed113b6a084f8" title="Remove any redundant meta data fields from the json object " alt="" coords="255,5,467,47"/>
-<area shape="rect" id="node3" href="$class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="260,71,461,98"/>
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a4443427d93525920d18d67f3754a495e" title="Adds a value associated with a key to this collection only if the value is not null. " alt="" coords="268,5,443,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_users_1_1_profile_data.html#af222ecfb6e7485ca2b60233b02fbda75" title="Get value associated with indicated key &#160;" alt="" coords="263,71,447,112"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="255,137,456,163"/>
 </map>

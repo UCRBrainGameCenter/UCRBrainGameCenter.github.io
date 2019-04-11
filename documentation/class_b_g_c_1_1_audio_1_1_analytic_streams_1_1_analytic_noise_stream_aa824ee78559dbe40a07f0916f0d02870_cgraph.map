@@ -1,0 +1,4 @@
+<map id="BGC.Audio.AnalyticStreams.AnalyticNoiseStream.CreateSideBands" name="BGC.Audio.AnalyticStreams.AnalyticNoiseStream.CreateSideBands">
+<area shape="rect" id="node2" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a223138129f6f302d9f0340014b7ab062" title="Creates a complex number from a point&#39;s polar coordinates. " alt="" coords="319,5,523,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_mathematics_1_1_custom_random.html#a9cce46f8ce811f7ca4bc330a6b96dc96" title="Translates an evenly distributed random number in the range [0,1) into a Rayleigh&#45;Distributed one..." alt="" coords="304,71,537,112"/>
+</map>

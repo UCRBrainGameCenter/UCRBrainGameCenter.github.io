@@ -1,6 +1,19 @@
 var searchData=
 [
-  ['bgctojson_2ecs',['BgcToJson.cs',['../_bgc_to_json_8cs.html',1,'']]],
+  ['bessel_2ecs',['Bessel.cs',['../_bessel_8cs.html',1,'']]],
+  ['beziercurves_2ecs',['BezierCurves.cs',['../_bezier_curves_8cs.html',1,'']]],
+  ['bgcaudioclip_2ecs',['BGCAudioClip.cs',['../_b_g_c_audio_clip_8cs.html',1,'']]],
+  ['bgcbar_2ecs',['BGCBar.cs',['../_b_g_c_bar_8cs.html',1,'']]],
+  ['bgcclipplayer_2ecs',['BGCClipPlayer.cs',['../_b_g_c_clip_player_8cs.html',1,'']]],
+  ['bgcenvelopefilter_2ecs',['BGCEnvelopeFilter.cs',['../_b_g_c_envelope_filter_8cs.html',1,'']]],
+  ['bgcenvelopestream_2ecs',['BGCEnvelopeStream.cs',['../_b_g_c_envelope_stream_8cs.html',1,'']]],
+  ['bgcfilter_2ecs',['BGCFilter.cs',['../_b_g_c_filter_8cs.html',1,'']]],
+  ['bgcstream_2ecs',['BGCStream.cs',['../_b_g_c_stream_8cs.html',1,'']]],
+  ['bgcstreamconverter_2ecs',['BGCStreamConverter.cs',['../_b_g_c_stream_converter_8cs.html',1,'']]],
+  ['bgcstreamextensions_2ecs',['BGCStreamExtensions.cs',['../_b_g_c_stream_extensions_8cs.html',1,'']]],
+  ['binarysearchtest_2ecs',['BinarySearchTest.cs',['../_binary_search_test_8cs.html',1,'']]],
+  ['biquadfilter_2ecs',['BiQuadFilter.cs',['../_bi_quad_filter_8cs.html',1,'']]],
+  ['biquadfilterextensions_2ecs',['BiQuadFilterExtensions.cs',['../_bi_quad_filter_extensions_8cs.html',1,'']]],
   ['boolcondition_2ecs',['BoolCondition.cs',['../_bool_condition_8cs.html',1,'']]],
   ['bytemath_2ecs',['ByteMath.cs',['../_byte_math_8cs.html',1,'']]]
 ];

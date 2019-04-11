@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Synthesis.STMAudioClip._Initialize" name="BGC.Audio.Synthesis.STMAudioClip._Initialize">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_mathematics_1_1_fourier.html#ae246feca381e5d65d227c13ba935e759" title="BGC.Mathematics.Fourier.\lInverse" alt="" coords="291,5,470,47"/>
+<area shape="rect" id="node3" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#ab046d5c4ad51876d10e2b0dc48125bf0" title="Returns the natural (base e) logarithm of a specified complex number. " alt="" coords="268,71,493,98"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_frequency_domain.html#a0b2c3ac6f555e6b24c458c816d63216e" title="BGC.Audio.FrequencyDomain.\lPopulate" alt="" coords="279,123,482,164"/>
+</map>

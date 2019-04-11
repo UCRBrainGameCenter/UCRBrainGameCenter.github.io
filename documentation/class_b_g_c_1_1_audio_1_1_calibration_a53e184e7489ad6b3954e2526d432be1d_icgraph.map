@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Calibration.GetLevelOffset" name="BGC.Audio.Calibration.GetLevelOffset">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_normalization.html#a3aeddcb216414bf58bc61623c3a15a39" title="BGC.Audio.Normalization.\lCalculateRMSLevel" alt="" coords="232,5,408,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_normalization.html#ab80225a2ee454afe798169bc7f60c773" title="BGC.Audio.Normalization.\lSPLToAdjustmentDB" alt="" coords="232,71,408,112"/>
+</map>

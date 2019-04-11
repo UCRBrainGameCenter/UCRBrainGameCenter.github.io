@@ -1,0 +1,7 @@
+<map id="BGC.Audio.Filters.ContinuousFilter" name="BGC.Audio.Filters.ContinuousFilter">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="573,93,693,120"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="253,31,333,57"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="209,81,376,108"/>
+<area shape="rect" id="node8" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="BGC.Audio.Envelopes.IBGCEnvelope\lStream" alt="" coords="511,233,755,274"/>
+</map>

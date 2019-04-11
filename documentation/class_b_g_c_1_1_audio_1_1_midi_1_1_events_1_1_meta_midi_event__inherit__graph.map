@@ -1,0 +1,13 @@
+<map id="BGC.Audio.Midi.Events.MetaMidiEvent" name="BGC.Audio.Midi.Events.MetaMidiEvent">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_channel_prefix_meta_midi_event.html" title="BGC.Audio.Midi.Events.Channel\lPrefixMetaMidiEvent" alt="" coords="393,5,606,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_end_of_track_meta_midi_event.html" title="BGC.Audio.Midi.Events.End\lOfTrackMetaMidiEvent" alt="" coords="405,71,593,112"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_key_signature_meta_midi_event.html" title="BGC.Audio.Midi.Events.Key\lSignatureMetaMidiEvent" alt="" coords="405,136,593,177"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_sequence_number_meta_midi_event.html" title="BGC.Audio.Midi.Events.Sequence\lNumberMetaMidiEvent" alt="" coords="388,201,611,243"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_sequencer_specific_meta_midi_event.html" title="BGC.Audio.Midi.Events.Sequencer\lSpecificMetaMidiEvent" alt="" coords="386,267,613,308"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_set_tempo_meta_midi_event.html" title="BGC.Audio.Midi.Events.Set\lTempoMetaMidiEvent" alt="" coords="407,332,592,373"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_s_m_t_p_e_offset_meta_midi_event.html" title="BGC.Audio.Midi.Events.SMTPEOffset\lMetaMidiEvent" alt="" coords="376,397,623,439"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_text_meta_midi_event.html" title="BGC.Audio.Midi.Events.Text\lMetaMidiEvent" alt="" coords="404,463,595,504"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_time_signature_meta_midi_event.html" title="BGC.Audio.Midi.Events.Time\lSignatureMetaMidiEvent" alt="" coords="402,528,597,569"/>
+<area shape="rect" id="node12" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_unknown_meta_midi_event.html" title="BGC.Audio.Midi.Events.Unknown\lMetaMidiEvent" alt="" coords="389,593,609,635"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html" title="MidiEvent" alt="" coords="5,307,85,334"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Calibration.Serialize" name="BGC.Audio.Calibration.Serialize">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="261,5,468,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_file_writer.html#af5ac95f7dcfef62ec9d18b818d2ac1c0" title="BGC.IO.FileWriter.WriteJson" alt="" coords="269,71,461,98"/>
+</map>

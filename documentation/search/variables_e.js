@@ -1,7 +1,19 @@
 var searchData=
 [
-  ['name',['name',['../class_b_g_c_1_1_state_machine_1_1_state.html#a34de49019459e335cc8d244e35d2f8a6',1,'BGC::StateMachine::State']]],
+  ['name',['name',['../class_b_g_c_1_1_state_machine_1_1_state.html#a34de49019459e335cc8d244e35d2f8a6',1,'BGC.StateMachine.State.name()'],['../class_b_g_c_1_1_study_1_1_protocol.html#a46f7375ac53a9226858ec5f387df3a3e',1,'BGC.Study.Protocol.name()'],['../class_b_g_c_1_1_state_machine_1_1_state.html#a89566d3fc27d9462bb1301f493a4c82b',1,'BGC.StateMachine.State.Name()'],['../class_b_g_c_1_1_study_1_1_protocol_keys_1_1_protocol.html#a9a2e04b79b115205a0cd864fd606fc37',1,'BGC.Study.ProtocolKeys.Protocol.Name()']]],
+  ['nan',['NaN',['../struct_b_g_c_1_1_mathematics_1_1_complex32.html#a27da3663c3c2011ecf77199bf89fc27c',1,'BGC.Mathematics.Complex32.NaN()'],['../struct_b_g_c_1_1_mathematics_1_1_complex64.html#afe383741f3a9fc1a6cfdf0174acaec88',1,'BGC.Mathematics.Complex64.NaN()']]],
   ['navigationcontent',['navigationContent',['../class_b_g_c_1_1_utility_1_1_file_browser_1_1_file_browser.html#a14008bb43a877e6499b5e03231883fd4',1,'BGC::Utility::FileBrowser::FileBrowser']]],
   ['navigationpanel',['navigationPanel',['../class_b_g_c_1_1_utility_1_1_file_browser_1_1_file_browser.html#ad52b2625541dfa1e943f882b4d4727d2',1,'BGC::Utility::FileBrowser::FileBrowser']]],
-  ['null',['Null',['../struct_light_json_1_1_json_value.html#aa387b52712e12b0686750b34d63bff96',1,'LightJson::JsonValue']]]
+  ['nextelementid',['nextElementID',['../class_b_g_c_1_1_study_1_1_session_element.html#abed4a34640ea08be91c84f0a0b0a9cca',1,'BGC::Study::SessionElement']]],
+  ['nextevent',['NextEvent',['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#af1309f5b61dc5472218f981565358e50',1,'BGC::Audio::Midi::MidiTrack']]],
+  ['nextprotocolid',['nextProtocolID',['../class_b_g_c_1_1_study_1_1_protocol.html#aed25d0f12d94b6ec163cf3f829c53a4f',1,'BGC::Study::Protocol']]],
+  ['nextsessionelementindex',['nextSessionElementIndex',['../class_b_g_c_1_1_study_1_1_protocol_manager.html#af6981ac8c8d9fd15ab80db04512812b7',1,'BGC::Study::ProtocolManager']]],
+  ['nextsessionid',['nextSessionID',['../class_b_g_c_1_1_study_1_1_session.html#a3453654029b0b96de8846ede52b52225',1,'BGC::Study::Session']]],
+  ['note',['note',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_note_midi_event.html#ac895731f09a5307305814f0fd9fbb828',1,'BGC::Audio::Midi::Events::NoteMidiEvent']]],
+  ['noteeventtype',['noteEventType',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_note_midi_event.html#a37b54b751b60ebb07d87d3cb24aed1b5',1,'BGC::Audio::Midi::Events::NoteMidiEvent']]],
+  ['noterate',['NoteRate',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_time_signature_meta_midi_event.html#ab6bd65bfc2b30b09c5ebd22dc6c3d1e1',1,'BGC::Audio::Midi::Events::TimeSignatureMetaMidiEvent']]],
+  ['notestream',['noteStream',['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a2e59bb7c633d71efc224eedb11c6ac24',1,'BGC::Audio::Midi::MidiTrack']]],
+  ['null',['Null',['../struct_light_json_1_1_json_value.html#aa387b52712e12b0686750b34d63bff96',1,'LightJson::JsonValue']]],
+  ['nullversion',['nullVersion',['../struct_b_g_c_1_1_utility_1_1_application_version.html#a1f7c275ef01dae799041aca84110ad34',1,'BGC.Utility.ApplicationVersion.nullVersion()'],['../struct_b_g_c_1_1_utility_1_1_application_version.html#abd4adb1c4027e11e4e3a6d75bb287135',1,'BGC.Utility.ApplicationVersion.NullVersion()']]],
+  ['numerator',['Numerator',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_time_signature_meta_midi_event.html#a45f43b0763fe6a48ec5c47790c101dd2',1,'BGC::Audio::Midi::Events::TimeSignatureMetaMidiEvent']]]
 ];

@@ -1017,7 +1017,21 @@ Private Attributes</h2></td></tr>
 </dl>
 
 <p>Definition at line <a class="el" href="_color_u_i_extensions_8cs_source.html#l00199">199</a> of file <a class="el" href="_color_u_i_extensions_8cs_source.html">ColorUIExtensions.cs</a>.</p>
-<div class="fragment"><div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;        {</div><div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;            <span class="keywordflow">if</span> (color &gt; 1f || color &lt; 0f)</div><div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;            {</div><div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;                Debug.LogWarning($<span class="stringliteral">&quot;{colorType} should be set between 0 and 1&quot;</span>);</div><div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;                Mathf.Clamp(color, 0f, 1f);</div><div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;            }</div><div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;        }</div></div><!-- fragment -->
+
+<p>References <a class="el" href="class_b_g_c_1_1_mathematics_1_1_general_math.html#ade5ee335c29b6c26712fcdce5a089f02">BGC.Mathematics.GeneralMath.Clamp()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;        {</div><div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;            <span class="keywordflow">if</span> (color &gt; 1f || color &lt; 0f)</div><div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;            {</div><div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;                Debug.LogWarning($<span class="stringliteral">&quot;{colorType} should be set between 0 and 1&quot;</span>);</div><div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;                color = <a class="code" href="class_b_g_c_1_1_mathematics_1_1_general_math.html">GeneralMath</a>.<a class="code" href="class_b_g_c_1_1_mathematics_1_1_general_math.html#ade5ee335c29b6c26712fcdce5a089f02">Clamp</a>(color, 0f, 1f);</div><div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;            }</div><div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_mathematics_1_1_general_math_html"><div class="ttname"><a href="class_b_g_c_1_1_mathematics_1_1_general_math.html">BGC.Mathematics.GeneralMath</a></div><div class="ttdef"><b>Definition:</b> <a href="_general_math_8cs_source.html#l00006">GeneralMath.cs:6</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_mathematics_1_1_general_math_html_ade5ee335c29b6c26712fcdce5a089f02"><div class="ttname"><a href="class_b_g_c_1_1_mathematics_1_1_general_math.html#ade5ee335c29b6c26712fcdce5a089f02">BGC.Mathematics.GeneralMath.Clamp</a></div><div class="ttdeci">static decimal Clamp(decimal value, decimal min, decimal max)</div></div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_u_i_1_1_color_u_i_extensions_a24e3211077a3cf2da4a41747a904138d_cgraph.png" border="0" usemap="#class_b_g_c_1_1_u_i_1_1_color_u_i_extensions_a24e3211077a3cf2da4a41747a904138d_cgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_u_i_1_1_color_u_i_extensions_a24e3211077a3cf2da4a41747a904138d_cgraph" id="class_b_g_c_1_1_u_i_1_1_color_u_i_extensions_a24e3211077a3cf2da4a41747a904138d_cgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_mathematics_1_1_general_math.html#ade5ee335c29b6c26712fcdce5a089f02" title="BGC.Mathematics.GeneralMath.\lClamp" alt="" coords="280,5,492,47"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <h2 class="groupheader">Field Documentation</h2>
@@ -1115,7 +1129,7 @@ Private Attributes</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Oct 31 2018 13:46:34 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Thu Apr 11 2019 15:06:04 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

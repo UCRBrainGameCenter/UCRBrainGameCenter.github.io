@@ -1,5 +1,20 @@
 var searchData=
 [
-  ['null',['Null',['../namespace_light_json.html#a4c881ff1639e6c95644e020503380072abbb93ef26e3c101ff11cdd21cab08a94',1,'LightJson']]],
-  ['number',['Number',['../namespace_light_json.html#a4c881ff1639e6c95644e020503380072ab2ee912b91d69b435159c7c3f6df7f5f',1,'LightJson']]]
+  ['f',['F',['../namespace_b_g_c_1_1_audio_1_1_midi_1_1_synth.html#aacbf50ea37fecd7f30bde11cd8be8118a800618943025315f869e4e1f09471012',1,'BGC::Audio::Midi::Synth']]],
+  ['fiddle',['Fiddle',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a91825c15ae76618acb86c1c9ff69def5',1,'BGC::Audio::Midi']]],
+  ['finetuning',['FineTuning',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#a581557d55ab39fca08ee9a1707951581add040432f0c48f1e54e18b0ae9d9e991',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['flute',['Flute',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a14df6ecbe5be68ab6a94fe8910a16e66',1,'BGC::Audio::Midi']]],
+  ['footcontroller_5flsb',['FootController_LSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a05c4edb3da3f83014b7c37bd555a6b6e',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['footcontroller_5fmsb',['FootController_MSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a3aa0bad66924a51f042665f5d05abdd6',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['frenchhorn',['FrenchHorn',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076afcaad1cf4a757e0789d400112bb9d6b2',1,'BGC::Audio::Midi']]],
+  ['fretlessbass',['FretlessBass',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076ae71c850aa945e517eac49fde95e5eb0a',1,'BGC::Audio::Midi']]],
+  ['fsharp',['FSharp',['../namespace_b_g_c_1_1_audio_1_1_midi_1_1_synth.html#aacbf50ea37fecd7f30bde11cd8be8118a859fe8857d49a0fa323d2c456b3833d6',1,'BGC::Audio::Midi::Synth']]],
+  ['fx1_5frain',['FX1_Rain',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a6ea875317301799d9cf96e3f0e35da7e',1,'BGC::Audio::Midi']]],
+  ['fx2_5fsoundtrack',['FX2_Soundtrack',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a390ebd0f20e84c000306f8fc89bb504f',1,'BGC::Audio::Midi']]],
+  ['fx3_5fcrystal',['FX3_Crystal',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a89148a3a061ecd3ebb254e28e8550260',1,'BGC::Audio::Midi']]],
+  ['fx4_5fatmosphere',['FX4_Atmosphere',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a534fd2daf80a1696f4af4853b932760d',1,'BGC::Audio::Midi']]],
+  ['fx5_5fbrightness',['FX5_Brightness',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a5c2494f26096e8eb7743c2feb74cde16',1,'BGC::Audio::Midi']]],
+  ['fx6_5fgoblins',['FX6_Goblins',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a34bf84eed94237f28236c05ffee288d7',1,'BGC::Audio::Midi']]],
+  ['fx7_5fechoes',['FX7_Echoes',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a15ec1308eaf4931994b2d1ca6972f06c',1,'BGC::Audio::Midi']]],
+  ['fx8_5fscifi',['FX8_Scifi',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a8b16f07e68ed4d304656a0ea97c50b68',1,'BGC::Audio::Midi']]]
 ];

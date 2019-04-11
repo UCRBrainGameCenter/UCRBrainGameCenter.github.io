@@ -1,0 +1,6 @@
+<map id="BGC.Tests.ZipTests.TestZip" name="BGC.Tests.ZipTests.TestZip">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_compression_1_1_zip.html#a750ba088eda7c39e36e1f849857a9c21" title="BGC.IO.Compression.Zip.Compress\lDirectory" alt="" coords="261,5,497,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_compression_1_1_zip.html#a1d70bcbb8e90dbc74e9f8c2eddafd8fe" title="BGC.IO.Compression.Zip.DecompressFile" alt="" coords="244,71,515,98"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="276,123,483,164"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#aaed9eeec4d62605f477cde6e49d1ad01" title="Returns the full path to the dataDirectories &#160;directory. " alt="" coords="276,188,483,229"/>
+</map>

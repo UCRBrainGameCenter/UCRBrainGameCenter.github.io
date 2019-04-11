@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Envelopes.GaussianEnvelope" name="BGC.Audio.Envelopes.GaussianEnvelope">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_b_g_c_envelope_stream.html" title="BGCEnvelopeStream" alt="" coords="38,80,185,107"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="IBGCEnvelopeStream" alt="" coords="36,5,187,32"/>
+</map>

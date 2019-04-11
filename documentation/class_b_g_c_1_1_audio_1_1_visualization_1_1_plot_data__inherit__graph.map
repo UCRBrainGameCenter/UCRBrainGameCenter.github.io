@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Visualization.PlotData" name="BGC.Audio.Visualization.PlotData">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_empty_plot_data.html" title="BGC.Audio.Visualization.\lEmptyPlotData" alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_simple_plot_data.html" title="BGC.Audio.Visualization.\lSimplePlotData" alt="" coords="224,71,395,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_spectrogram_data.html" title="BGC.Audio.Visualization.\lSpectrogramData" alt="" coords="224,136,395,177"/>
+</map>

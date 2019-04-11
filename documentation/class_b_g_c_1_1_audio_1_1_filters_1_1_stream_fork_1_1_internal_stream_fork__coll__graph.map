@@ -1,0 +1,7 @@
+<map id="BGC.Audio.Filters.StreamFork.InternalStreamFork" name="BGC.Audio.Filters.StreamFork.InternalStreamFork">
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_fork.html" title="Splits the underlying stream into two identical copies, caching only samples in between their respect..." alt="" coords="234,509,434,536"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="49,184,169,211"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="195,95,275,121"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="139,5,236,32"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="5,95,172,121"/>
+</map>

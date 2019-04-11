@@ -1,9 +1,20 @@
 <map id="LightJson.JsonObject.Add" name="LightJson.JsonObject.Add">
-<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a2cc644324f2d54d1a6202e7ac76da2d9" title="Adds a value associated with a key to this collection. " alt="" coords="257,5,432,32"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#a002e8058d833237a66cb935823b7af73" title="BGC.IO.Logging.Logger.Apply\lRequiredFields" alt="" coords="245,57,444,98"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#ad46a45b7b69919d65742d0660058228d" title="Convert lines of bgc to complete json " alt="" coords="240,122,449,163"/>
-<area shape="rect" id="node5" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#a2686d1edadcab08cbdc22af3282671d1" title="Convert every line into a json object based on the meta data " alt="" coords="228,188,461,215"/>
-<area shape="rect" id="node6" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="262,239,427,281"/>
-<area shape="rect" id="node7" href="$class_b_g_c_1_1_utility_1_1_enum_utility.html#a442a9cd3fd63308b4cf9eada7af0280e" title="Convert json boject to string. " alt="" coords="262,305,427,346"/>
-<area shape="rect" id="node8" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#aa19b6a4c70d9fff9e3ac9b0cc6b8de52" title="Try and get value, if key is not there it adds the key " alt="" coords="234,370,455,411"/>
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a2cc644324f2d54d1a6202e7ac76da2d9" title="Adds a value associated with a key to this collection. " alt="" coords="252,5,427,32"/>
+<area shape="rect" id="node3" href="$class_light_json_1_1_json_object.html#a4443427d93525920d18d67f3754a495e" title="Adds a value associated with a key to this collection only if the value is not null. " alt="" coords="252,57,427,98"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a50e3ceacc8efcbaf985d54e26d3a18bc" title="BGC.Audio.Calibration.Deserialize\lCalibration" alt="" coords="228,122,451,163"/>
+<area shape="rect" id="node5" href="$class_light_json_1_1_json_object.html#a0f4040f98e3c158f4d58169ac20190b8" title="Initializes a new instance of JsonObject. " alt="" coords="249,187,429,229"/>
+<area shape="rect" id="node6" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a78418f68dd5d787d4ba1e473f60a7a8a" title="LightJson.Serialization.\lJsonReader.ReadObject" alt="" coords="257,253,422,294"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_study_1_1_session_element.html#a9b96bcfc5bf3069570a9df010df098c4" title="BGC.Study.SessionElement.\lSerializeElement" alt="" coords="243,318,435,359"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a1cf2252733b7bdbd29caab5012581275" title="BGC.Study.ProtocolManager.\lSerializeProtocols" alt="" coords="242,383,437,425"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#ab42f5fa87bd30d3113d2eb72fa1c171b" title="BGC.Study.ProtocolManager.\lSerializeSessions" alt="" coords="242,449,437,490"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_users_1_1_profile_data.html#aaa58e02baf88f053096d759e9ccef3b4" title="Set value &#160;at indicated key &#160;" alt="" coords="235,515,444,541"/>
+<area shape="rect" id="node12" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a65502c4fde3b5ff2fba1a699912b85b6" title="Set value &#160;at indicated key &#160;" alt="" coords="248,566,431,607"/>
+<area shape="rect" id="node13" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a89e53347542b74b4c5bb4c9db797bd7c" title="Set value &#160;at indicated key &#160;" alt="" coords="248,631,431,673"/>
+<area shape="rect" id="node14" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a658bc9254bc8d32fdfd07739149ccf71" title="Set value &#160;at indicated key &#160;" alt="" coords="240,697,439,724"/>
+<area shape="rect" id="node15" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a2feec0c456d30eb10f5a907f94197060" title="Set value &#160;at indicated key &#160;" alt="" coords="248,749,431,790"/>
+<area shape="rect" id="node16" href="$class_b_g_c_1_1_users_1_1_profile_data.html#aba04969d2350b8c53acebd4e86b2664f" title="Set value &#160;at indicated key &#160;" alt="" coords="248,814,431,855"/>
+<area shape="rect" id="node17" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a9c2a086240939e2a01667ac293ee31e7" title="Set value &#160;at indicated key &#160;" alt="" coords="248,879,431,921"/>
+<area shape="rect" id="node18" href="$class_b_g_c_1_1_utility_1_1_enum_utility.html#a442a9cd3fd63308b4cf9eada7af0280e" title="Convert Enum to JsonObject. " alt="" coords="257,945,422,986"/>
+<area shape="rect" id="node19" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#aa19b6a4c70d9fff9e3ac9b0cc6b8de52" title="Try and get value, if key is not there it adds the key " alt="" coords="229,1010,450,1051"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a474ff0e82c4d817fe3f2a521042a2381" title="BGC.Study.ProtocolManager.\lSerializeSessionElements" alt="" coords="499,318,693,359"/>
 </map>

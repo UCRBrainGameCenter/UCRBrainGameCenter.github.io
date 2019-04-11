@@ -1,0 +1,4 @@
+<map id="BGC.Audio.ComplexCarrierTone.TimeShift" name="BGC.Audio.ComplexCarrierTone.TimeShift">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_stimuli_1_1_click_stimulus.html#a3ce6c3e2ad488966246e16b257bcde9c" title="BGC.Audio.Stimuli.ClickStimulus.\lConstructClick" alt="" coords="236,5,457,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#af3477832d2976671e2b05faed65fa831" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="239,71,454,112"/>
+</map>

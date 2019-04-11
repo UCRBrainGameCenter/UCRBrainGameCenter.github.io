@@ -1,0 +1,6 @@
+<map id="BGC.Tests.WAVEncodingTests.TestSingleChannelWave" name="BGC.Tests.WAVEncodingTests.TestSingleChannelWave">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#ae9fb3acf834305b25ecc7d6907037f39" title="Loads a WAV file from the filepath as a float array, returns success. " alt="" coords="269,13,502,39"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="282,64,489,105"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a9142e528f91bea871265aee6ff071aaf" title="Save the samples passed in as a WAVE file with the specified filepath. Returns success. " alt="" coords="268,130,503,157"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_linear_interpolation.html#a18236684e65433e1d6bec026714e1c9b" title="BGC.Audio.LinearInterpolation.\lResample" alt="" coords="551,5,753,47"/>
+</map>

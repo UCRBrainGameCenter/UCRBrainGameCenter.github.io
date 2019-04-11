@@ -1,0 +1,6 @@
+<map id="BGC.Tests.TestOverlapAdd.TestPhaseVocoding" name="BGC.Tests.TestOverlapAdd.TestPhaseVocoding">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a8aecb5d57ff0f2825798d799f9a08d32" title="Loads a WAV file from the filepath as a SimpleAudioClip, returns success. " alt="" coords="255,5,467,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="258,71,465,112"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a9142e528f91bea871265aee6ff071aaf" title="Save the samples passed in as a WAVE file with the specified filepath. Returns success. " alt="" coords="244,137,479,163"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_linear_interpolation.html#a18236684e65433e1d6bec026714e1c9b" title="BGC.Audio.LinearInterpolation.\lResample" alt="" coords="527,5,729,47"/>
+</map>

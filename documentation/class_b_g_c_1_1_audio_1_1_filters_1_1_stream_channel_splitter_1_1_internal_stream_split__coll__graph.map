@@ -1,0 +1,7 @@
+<map id="BGC.Audio.Filters.StreamChannelSplitter.InternalStreamSplit" name="BGC.Audio.Filters.StreamChannelSplitter.InternalStreamSplit">
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_channel_splitter.html" title="Splits a 2 channel stream into separate streams for each channel " alt="" coords="334,483,509,524"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="319,184,439,211"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="465,95,545,121"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="409,5,506,32"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="275,95,442,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Midi.MidiFileStream.Read" name="BGC.Audio.Midi.MidiFileStream.Read">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a4e61df99acf49b9a5af62961bd2956e1" title="BGC.Audio.Midi.MidiTrack.Read" alt="" coords="296,13,508,39"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a9d7dcb861ae0795d42829b126bdb820b" title="BGC.Audio.Midi.MidiTrack.\lReset" alt="" coords="311,64,493,105"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#abb889e515fadf56cfb3a874d59de73ac" title="BGC.Audio.Midi.MidiTrack.Seek" alt="" coords="297,130,507,157"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html#aba2c48064e4f6b95fb47be5cc02aec2f" title="BGC.Audio.Midi.Events.Midi\lEvent.ExecuteEvent" alt="" coords="556,5,745,47"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['transitiontype',['TransitionType',['../class_b_g_c_1_1_state_machine_1_1_state_machine.html#a3b867dc8a86a843d24a2bf826fff6316',1,'BGC::StateMachine::StateMachine']]]
+  ['direction',['Direction',['../namespace_b_g_c_1_1_u_i_1_1_panels.html#a8a913d4019e7165a17da4c4f12e55b11',1,'BGC::UI::Panels']]]
 ];

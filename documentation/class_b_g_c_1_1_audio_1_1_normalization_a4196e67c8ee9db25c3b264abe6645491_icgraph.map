@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Normalization.GetRMSScalingFactors" name="BGC.Audio.Normalization.GetRMSScalingFactors">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_mono_filter.html#a3af90ca42ad4316bcca0e0b8caff17a5" title="BGC.Audio.Filters.Normalizer\lMonoFilter._Initialize" alt="" coords="229,5,424,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_filter.html#af1c076fff7d9ede4c2fddd41c14a3487" title="BGC.Audio.Filters.Normalizer\lFilter._Initialize" alt="" coords="229,71,424,112"/>
+</map>

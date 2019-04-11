@@ -1,0 +1,5 @@
+<map id="BGC.UI.Panels.ModePanel.ImmediateStateSet" name="BGC.UI.Panels.ModePanel.ImmediateStateSet">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_manager.html#a767191802b0647d7801f8ecee707a073" title="BGC.UI.Panels.ModePanelManager.\lImmediatePanelSet" alt="" coords="240,5,476,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_manager.html#a45d3c8d189b96d9c274bc69c19ef2358" title="BGC.UI.Panels.ModePanelManager.\lSpecialSetPanelActive" alt="" coords="240,71,476,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_manager.html#af57c2593c92347b51d4a7b75c20cac75" title="BGC.UI.Panels.ModePanelManager.\lStart" alt="" coords="240,136,476,177"/>
+</map>

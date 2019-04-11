@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html" title="BGC.StateMachine.Transition\lCondition" alt="" coords="5,49,201,90"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_bool_condition.html" title="BGC.StateMachine.BoolCondition" alt="" coords="251,5,471,32"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_or_conjunction.html" title="BGC.StateMachine.OrConjunction" alt="" coords="249,56,472,83"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_trigger_condition.html" title="BGC.StateMachine.Trigger\lCondition" alt="" coords="271,107,450,149"/>
+</map>

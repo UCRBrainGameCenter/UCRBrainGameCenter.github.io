@@ -1,5 +1,9 @@
 var searchData=
 [
-  ['any',['Any',['../class_b_g_c_1_1_state_machine_1_1_state_machine.html#a3b867dc8a86a843d24a2bf826fff6316aed36a1ef76a59ee3f15180e0441188ad',1,'BGC::StateMachine::StateMachine']]],
-  ['array',['Array',['../namespace_light_json.html#a4c881ff1639e6c95644e020503380072a4410ec34d9e6c1a68100ca0ce033fb17',1,'LightJson']]]
+  ['_5f1000hz',['_1000Hz',['../class_b_g_c_1_1_audio_1_1_calibration.html#abeda2e98fa51c17b2b69c6dc3c83e774ac6cfe5d7261afd35b13fdca941590ada',1,'BGC::Audio::Calibration']]],
+  ['_5f2000hz',['_2000Hz',['../class_b_g_c_1_1_audio_1_1_calibration.html#abeda2e98fa51c17b2b69c6dc3c83e774ac470f1612c4540452f45346b982ebcd3',1,'BGC::Audio::Calibration']]],
+  ['_5f250hz',['_250Hz',['../class_b_g_c_1_1_audio_1_1_calibration.html#abeda2e98fa51c17b2b69c6dc3c83e774ac44df6f1eb49bb320f29e23ccf916caf',1,'BGC::Audio::Calibration']]],
+  ['_5f4000hz',['_4000Hz',['../class_b_g_c_1_1_audio_1_1_calibration.html#abeda2e98fa51c17b2b69c6dc3c83e774a48471be2c5cc65839d24965b9c386d53',1,'BGC::Audio::Calibration']]],
+  ['_5f500hz',['_500Hz',['../class_b_g_c_1_1_audio_1_1_calibration.html#abeda2e98fa51c17b2b69c6dc3c83e774a2f2a818bbd5cb06a1c94a17fcdaa4317',1,'BGC::Audio::Calibration']]],
+  ['_5f8000hz',['_8000Hz',['../class_b_g_c_1_1_audio_1_1_calibration.html#abeda2e98fa51c17b2b69c6dc3c83e774a2c20d0ec53f3ded6fe1d4c075e480c88',1,'BGC::Audio::Calibration']]]
 ];

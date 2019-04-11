@@ -1,0 +1,7 @@
+<map id="BGC.Mathematics.GeneralMath.Lerp" name="BGC.Mathematics.GeneralMath.Lerp">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_mono_utility_1_1_interpolation_1_1_fade_image_alpha.html#a04b96fa109769b33dce149bbe1846db4" title="BGC.MonoUtility.Interpolation.\lFadeImageAlpha.CallAction" alt="" coords="291,5,491,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a53e184e7489ad6b3954e2526d432be1d" title="BGC.Audio.Calibration.Get\lLevelOffset" alt="" coords="301,71,480,112"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_spectral_decomp.html#af657835d39de29dd6a1ef1d9f786293b" title="BGC.Audio.Visualization.\lSpectralDecomp.Linterp" alt="" coords="305,136,476,177"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_normalization.html#a3aeddcb216414bf58bc61623c3a15a39" title="BGC.Audio.Normalization.\lCalculateRMSLevel" alt="" coords="539,39,715,80"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_normalization.html#ab80225a2ee454afe798169bc7f60c773" title="BGC.Audio.Normalization.\lSPLToAdjustmentDB" alt="" coords="539,104,715,145"/>
+</map>

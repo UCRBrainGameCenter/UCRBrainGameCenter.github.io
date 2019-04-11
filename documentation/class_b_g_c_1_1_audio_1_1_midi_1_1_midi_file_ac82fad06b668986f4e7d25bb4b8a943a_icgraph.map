@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Midi.MidiFile.Serialize" name="BGC.Audio.Midi.MidiFile.Serialize">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_encoding.html#ac07f399c97087d1e2ec1add188f43fde" title="BGC.Audio.Midi.MidiEncoding.\lSaveFile" alt="" coords="223,39,425,80"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aea1217f08213ee346b72a8b1d6a25afc" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiBare" alt="" coords="473,5,680,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ad306247ac46729f4f347afbb992fd897" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiFull" alt="" coords="473,71,680,112"/>
+</map>

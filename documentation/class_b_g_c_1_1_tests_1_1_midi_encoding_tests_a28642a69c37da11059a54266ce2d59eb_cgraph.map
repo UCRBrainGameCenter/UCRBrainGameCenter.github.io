@@ -1,0 +1,5 @@
+<map id="BGC.Tests.MidiEncodingTests.TestHiHat" name="BGC.Tests.MidiEncodingTests.TestHiHat">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_synth_1_1_instrument_lookup.html#a4ddcc5eb6d82a4af16112a1dba9f1311" title="BGC.Audio.Midi.Synth.Instrument\lLookup.GetPercussion" alt="" coords="260,5,480,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="267,71,473,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a1fbd7ac7b551b3902fdae10ed3af48e6" title="Save the samples passed in as a WAVE file with the specified filepath. Returns success. " alt="" coords="263,136,477,177"/>
+</map>

@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['taikodrum',['TaikoDrum',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a45cb0723ec738aa4f6f1c172a3d3881e',1,'BGC::Audio::Midi']]],
+  ['tambourine',['Tambourine',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6aa9896b73ba7142a9c850f5cca22c8f1f',1,'BGC::Audio::Midi']]],
+  ['tangoaccordion',['TangoAccordion',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076adfa07ec5ee965558078c0c73326411d9',1,'BGC::Audio::Midi']]],
+  ['telephonering',['TelephoneRing',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a19d84383797daadf5f980024a9475a5c',1,'BGC::Audio::Midi']]],
+  ['tempomapped',['TempoMapped',['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_encoding.html#a13433c5664daf16e83049ef9eda9a496aa46bf2bfeb85d7bcfae9f0b7274b8f33',1,'BGC::Audio::Midi::MidiEncoding']]],
+  ['tenorsax',['TenorSax',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a26c33766a042eb3c43d0dd2e2249b55b',1,'BGC::Audio::Midi']]],
+  ['text',['Text',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_meta_midi_event.html#af6f8db10c8bc564952932c5fffc4c3a6a9dffbf69ffba8bc38bc4e01abf4b1675',1,'BGC::Audio::Midi::Events::MetaMidiEvent']]],
+  ['timecodemessage',['TimeCodeMessage',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_system_common_midi_event.html#a31352cddec1ce3e15e528d752d035a4da4d7b20f757e30e1a5f0cef9e5239ff67',1,'BGC::Audio::Midi::Events::SystemCommonMidiEvent']]],
+  ['timesignature',['TimeSignature',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_meta_midi_event.html#af6f8db10c8bc564952932c5fffc4c3a6ab257862f6113a65ca9c23ad50d8676a6',1,'BGC::Audio::Midi::Events::MetaMidiEvent']]],
+  ['timingclock',['TimingClock',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_system_real_time_midi_event.html#ad8eba42a792063de4c941d96df7e9333a1ddcb3ed2c3d2c2db2300553751a0271',1,'BGC::Audio::Midi::Events::SystemRealTimeMidiEvent']]],
+  ['timpani',['Timpani',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a6f69f7f070f9709edbf3dfdba638baaa',1,'BGC::Audio::Midi']]],
+  ['tinklebell',['TinkleBell',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a515943c0ab9f7424df35c12c018cf6ba',1,'BGC::Audio::Midi']]],
+  ['tremolostrings',['TremoloStrings',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076ade7ea115e2823bb41102b25c9b785872',1,'BGC::Audio::Midi']]],
+  ['trombone',['Trombone',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a06ee321811c5d09fc783a4f0cb3fb952',1,'BGC::Audio::Midi']]],
+  ['trumpet',['Trumpet',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a142e3acd3610d6c670ac3f74b36347c6',1,'BGC::Audio::Midi']]],
+  ['tuba',['Tuba',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a67c48112a7febbc62357a4342108a28d',1,'BGC::Audio::Midi']]],
+  ['tubularbells',['TubularBells',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a4a45fa22cd23129b3f4d8657c6544d66',1,'BGC::Audio::Midi']]],
+  ['tunerequest',['TuneRequest',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_system_common_midi_event.html#a31352cddec1ce3e15e528d752d035a4da694b3e5990809a603be5b0ab28209d95',1,'BGC::Audio::Midi::Events::SystemCommonMidiEvent']]],
+  ['tuningbankselect',['TuningBankSelect',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#a581557d55ab39fca08ee9a1707951581aa84540f12bb13d67642470c24a367909',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['tuningprogramselect',['TuningProgramSelect',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#a581557d55ab39fca08ee9a1707951581a172e57ba02ea36e0c679c1d24aa16c1c',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]]
+];

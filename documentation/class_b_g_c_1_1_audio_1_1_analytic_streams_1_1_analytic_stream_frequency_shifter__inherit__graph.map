@@ -1,0 +1,5 @@
+<map id="BGC.Audio.AnalyticStreams.AnalyticStreamFrequencyShifter" name="BGC.Audio.AnalyticStreams.AnalyticStreamFrequencyShifter">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_simple_analytic_filter.html" title="SimpleAnalyticFilter" alt="" coords="41,155,180,181"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html" title="Filters represent transformations of the AnalyticStream. " alt="" coords="61,80,160,107"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="53,5,168,32"/>
+</map>

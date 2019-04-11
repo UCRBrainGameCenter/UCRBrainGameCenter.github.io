@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Synthesis.ActiveNoteStream" name="BGC.Audio.Synthesis.ActiveNoteStream">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="61,80,141,107"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="52,5,149,32"/>
+</map>

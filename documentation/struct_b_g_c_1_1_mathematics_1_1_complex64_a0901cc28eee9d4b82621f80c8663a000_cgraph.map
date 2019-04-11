@@ -1,0 +1,12 @@
+<map id="BGC.Mathematics.Complex64.Cosh" name="BGC.Mathematics.Complex64.Cosh">
+<area shape="rect" id="node2" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a67f676393d2bc1f77bd6457c082666d2" title="Common Logarithm of this Complex64 (Base 10). " alt="" coords="307,5,511,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#a86cbe8397d82b6daf5d885b9604ed97d" title="Hyperbolic Cosine " alt="" coords="288,71,531,98"/>
+<area shape="rect" id="node5" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#ae7b13ea8b5c45ec382b64ae14f7e04d8" title="Exponential of this Complex64 (exp(x), E^x). " alt="" coords="307,123,511,164"/>
+<area shape="rect" id="node7" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#ad76b85394e29619cbb10cb05a3790deb" title="Logarithm of this Complex64 with custom base. " alt="" coords="307,188,511,229"/>
+<area shape="rect" id="node8" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#aaf146220f07f506bed6d002b461a6a53" title="Natural Logarithm of this Complex64 (Base E). " alt="" coords="307,253,511,295"/>
+<area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#aea6a0c0700033632b2c441766a799b39" title="Raise this Complex64 to the given value. " alt="" coords="307,319,511,360"/>
+<area shape="rect" id="node10" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a384fe27d81ebfd140f8ace8d987f6608" title="Returns the multiplicative inverse of a complex number. " alt="" coords="307,384,511,425"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#aa01ae89150904e062650a2de51856547" title="Hyperbolic Sine " alt="" coords="290,450,529,477"/>
+<area shape="rect" id="node3" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#ab046d5c4ad51876d10e2b0dc48125bf0" title="Returns the natural (base e) logarithm of a specified complex number. " alt="" coords="579,13,805,39"/>
+<area shape="rect" id="node6" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#ad5400b449fc374f05630d308bf5d5b6c" title="Returns e raised to the power specified by a complex number. " alt="" coords="579,130,805,157"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Midi.Synth.InstrumentLookup.GetNote" name="BGC.Audio.Midi.Synth.InstrumentLookup.GetNote">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a388fb452a8d74b7b30950609c2387721" title="BGC.Audio.Midi.MidiTrack.\lExecuteRunningEvent" alt="" coords="286,5,467,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ab52b2d8da332278f3f2e3295b89dc19b" title="BGC.Tests.MidiEncodingTests.\lTestFlute" alt="" coords="273,71,480,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a30475137c28aa041cb22070835c99716" title="BGC.Tests.MidiEncodingTests.\lTestGuitar" alt="" coords="273,136,480,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a9ed6e6d8011d4f5b19c09d5ca43faf7d" title="BGC.Tests.MidiEncodingTests.\lTestOrgan" alt="" coords="273,201,480,243"/>
+</map>

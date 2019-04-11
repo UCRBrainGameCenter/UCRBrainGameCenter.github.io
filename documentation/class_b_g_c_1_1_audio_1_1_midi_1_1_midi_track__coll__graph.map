@@ -1,0 +1,9 @@
+<map id="BGC.Audio.Midi.MidiTrack" name="BGC.Audio.Midi.MidiTrack">
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file.html" title="BGC.Audio.Midi.MidiFile" alt="" coords="420,253,585,280"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file_stream.html" title="Renders an underlying MidiFile " alt="" coords="811,372,1017,399"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_synth_stream.html" title="SynthStream" alt="" coords="453,535,552,561"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="46,639,143,665"/>
+<area shape="rect" id="node20" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="463,1005,543,1032"/>
+<area shape="rect" id="node19" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_active_note_stream.html" title="Stores and renders a set of active notes. Generally meant to interact with Active ADSR Envelopes..." alt="" coords="819,903,1009,945"/>
+<area shape="rect" id="node15" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html" title="BGC.Audio.Midi.Events.Midi\lEvent" alt="" coords="819,590,1009,631"/>
+</map>

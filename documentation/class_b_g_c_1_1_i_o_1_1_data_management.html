@@ -107,19 +107,23 @@ Collaboration diagram for BGC.IO.DataManagement:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:afe584416520dc9a709bf34ec3c945bd2"><td class="memItemLeft" align="right" valign="top">static List&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#afe584416520dc9a709bf34ec3c945bd2">GetDataFiles</a> (string dataSubDir)</td></tr>
-<tr class="memdesc:afe584416520dc9a709bf34ec3c945bd2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a list of all data files in sub directory of os data directory  <a href="#afe584416520dc9a709bf34ec3c945bd2">More...</a><br /></td></tr>
-<tr class="separator:afe584416520dc9a709bf34ec3c945bd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa4fe5307a7f50d4b36062cfda21b7681"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#aa4fe5307a7f50d4b36062cfda21b7681">PathForDataDirectory</a> (string dataSubdir)</td></tr>
-<tr class="memdesc:aa4fe5307a7f50d4b36062cfda21b7681"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the full path to the <em>dataSubdir</em>  directory. </p><dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">dataSubdir</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
- <a href="#aa4fe5307a7f50d4b36062cfda21b7681">More...</a><br /></td></tr>
-<tr class="separator:aa4fe5307a7f50d4b36062cfda21b7681"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f562c60317edb91bfec59c1c0f0493b"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_i_enumerable.html">IEnumerable</a>&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#a1f562c60317edb91bfec59c1c0f0493b">GetDataFiles</a> (string dataDirectory)</td></tr>
+<tr class="memdesc:a1f562c60317edb91bfec59c1c0f0493b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a list of all data files in sub directory of os data directory  <a href="#a1f562c60317edb91bfec59c1c0f0493b">More...</a><br /></td></tr>
+<tr class="separator:a1f562c60317edb91bfec59c1c0f0493b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae73b7be57491497f96351b0637d7e374"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374">PathForDataFile</a> (string dataDirectory, string fileName)</td></tr>
+<tr class="memdesc:ae73b7be57491497f96351b0637d7e374"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the full path for specified datafile in a data directory  <a href="#ae73b7be57491497f96351b0637d7e374">More...</a><br /></td></tr>
+<tr class="separator:ae73b7be57491497f96351b0637d7e374"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92b52d8a3ba1c8c86a9fecc895b78485"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#a92b52d8a3ba1c8c86a9fecc895b78485">PathForDataDirectory</a> (string dataDirectory)</td></tr>
+<tr class="memdesc:a92b52d8a3ba1c8c86a9fecc895b78485"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the full path to the <em>dataDirectory</em>  directory.  <a href="#a92b52d8a3ba1c8c86a9fecc895b78485">More...</a><br /></td></tr>
+<tr class="separator:a92b52d8a3ba1c8c86a9fecc895b78485"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a308fcd503cb91c8dfa8896afeabdd240"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#a308fcd503cb91c8dfa8896afeabdd240">DataDirectoryExists</a> (string dataDirectory)</td></tr>
+<tr class="separator:a308fcd503cb91c8dfa8896afeabdd240"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaed9eeec4d62605f477cde6e49d1ad01"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#aaed9eeec4d62605f477cde6e49d1ad01">PathForDataSubDirectory</a> (params string[] dataDirectories)</td></tr>
+<tr class="memdesc:aaed9eeec4d62605f477cde6e49d1ad01"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the full path to the <em>dataDirectories</em>  directory.  <a href="#aaed9eeec4d62605f477cde6e49d1ad01">More...</a><br /></td></tr>
+<tr class="separator:aaed9eeec4d62605f477cde6e49d1ad01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad32d11b7d6a83d686296b6d7dab51d36"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#ad32d11b7d6a83d686296b6d7dab51d36">NextAvailableFilePath</a> (string filepath)</td></tr>
+<tr class="memdesc:ad32d11b7d6a83d686296b6d7dab51d36"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns an available filepath. Appends " (#)" to the filename, incrementing # until it is available, starting with any modifier present in the filepath.  <a href="#ad32d11b7d6a83d686296b6d7dab51d36">More...</a><br /></td></tr>
+<tr class="separator:ad32d11b7d6a83d686296b6d7dab51d36"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="properties"></a>
 Properties</h2></td></tr>
@@ -129,9 +133,9 @@ Properties</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
 Static Private Member Functions</h2></td></tr>
-<tr class="memitem:aaf4185bfee8f590c81861bd186e61d9c"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#aaf4185bfee8f590c81861bd186e61d9c">GetDataRootDir</a> ()</td></tr>
-<tr class="memdesc:aaf4185bfee8f590c81861bd186e61d9c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get path for dat directory root  <a href="#aaf4185bfee8f590c81861bd186e61d9c">More...</a><br /></td></tr>
-<tr class="separator:aaf4185bfee8f590c81861bd186e61d9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a808a975f8e3a3d4b820bbebbaa6dc6da"><td class="memItemLeft" align="right" valign="top">static string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_i_o_1_1_data_management.html#a808a975f8e3a3d4b820bbebbaa6dc6da">GetCleanFileName</a> (string fileName, out int modifierValue)</td></tr>
+<tr class="memdesc:a808a975f8e3a3d4b820bbebbaa6dc6da"><td class="mdescLeft">&#160;</td><td class="mdescRight">Identifies any filename matching the pattern "NameStuffHere (3)" and strips off and spits out the modifier  <a href="#a808a975f8e3a3d4b820bbebbaa6dc6da">More...</a><br /></td></tr>
+<tr class="separator:a808a975f8e3a3d4b820bbebbaa6dc6da"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
 Static Private Attributes</h2></td></tr>
@@ -142,7 +146,7 @@ Static Private Attributes</h2></td></tr>
 <div class="textblock">
 <p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00007">7</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="afe584416520dc9a709bf34ec3c945bd2"></a>
+<a class="anchor" id="a308fcd503cb91c8dfa8896afeabdd240"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -150,10 +154,122 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static List&lt;string&gt; BGC.IO.DataManagement.GetDataFiles </td>
+          <td class="memname">static bool BGC.IO.DataManagement.DataDirectoryExists </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>dataSubDir</em></td><td>)</td>
+          <td class="paramname"><em>dataDirectory</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Referenced by <a class="el" href="_impulse_extraction_8cs_source.html#l00027">BGC.Audio.Spatialization.ImpulseExtraction.PrepareRun()</a>.</p>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_data_management_a308fcd503cb91c8dfa8896afeabdd240_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_data_management_a308fcd503cb91c8dfa8896afeabdd240_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_data_management_a308fcd503cb91c8dfa8896afeabdd240_icgraph" id="class_b_g_c_1_1_i_o_1_1_data_management_a308fcd503cb91c8dfa8896afeabdd240_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_audio_1_1_spatialization_1_1_impulse_extraction.html#a41794e82cc947127dfbdba82165467cf" title="BGC.Audio.Spatialization.\lImpulseExtraction.PrepareRun" alt="" coords="261,5,461,47"/>
+</map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a808a975f8e3a3d4b820bbebbaa6dc6da"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static string BGC.IO.DataManagement.GetCleanFileName </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>fileName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out int&#160;</td>
+          <td class="paramname"><em>modifierValue</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Identifies any filename matching the pattern "NameStuffHere (3)" and strips off and spits out the modifier </p>
+
+<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00082">82</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;        {</div><div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;            <span class="comment">//If FileName doesn&#39;t end with &quot; (##)&quot;, it&#39;s not a modifier</span></div><div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;            <span class="keywordflow">if</span> (fileName.EndsWith(<span class="stringliteral">&quot;)&quot;</span>) &amp;&amp; fileName.Contains(<span class="stringliteral">&quot; (&quot;</span>))</div><div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;            {</div><div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;                <span class="comment">//FileName ends with (##)</span></div><div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;                <span class="comment">//It may have a modifier</span></div><div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;</div><div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;                <span class="keywordtype">int</span> indexOfOpen = fileName.LastIndexOf(<span class="stringliteral">&quot; (&quot;</span>);</div><div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;                <span class="keywordtype">int</span> indexOfClose = fileName.LastIndexOf(<span class="stringliteral">&quot;)&quot;</span>);</div><div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;</div><div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;                <span class="keywordtype">int</span> indexInside = indexOfOpen + 2;</div><div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;                <span class="keywordtype">int</span> length = indexOfClose - indexInside;</div><div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;</div><div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;                <span class="comment">//Make sure there are contents</span></div><div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;                <span class="comment">//This would reject &quot;TestFile ()&quot;</span></div><div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;                <span class="keywordflow">if</span> (length &gt; 0)</div><div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;                {</div><div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;                    <span class="keywordtype">string</span> valueString = fileName.Substring(indexInside, length);</div><div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;</div><div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;                    <span class="comment">//Make sure value string can be parsed entirely, otherwise its not a modifier</span></div><div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;                    <span class="comment">//This would reject &quot;TestFile (words)&quot;</span></div><div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;                    <span class="keywordflow">if</span> (<span class="keywordtype">int</span>.TryParse(valueString, out modifierValue))</div><div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;                    {</div><div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;                        <span class="comment">//Reject negative numbers because that&#39;s now how we create modifiers</span></div><div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;                        <span class="comment">//This would reject &quot;Test File (-1)&quot;</span></div><div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;                        <span class="keywordflow">if</span> (modifierValue &gt; 0)</div><div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;                        {</div><div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;                            modifierValue++;</div><div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;                            <span class="keywordflow">return</span> fileName.Substring(0, indexOfOpen);</div><div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;                        }</div><div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;                    }</div><div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;                }</div><div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;            }</div><div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;</div><div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;            modifierValue = 2;</div><div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;            <span class="keywordflow">return</span> fileName;</div><div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;        }</div></div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a1f562c60317edb91bfec59c1c0f0493b"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="class_i_enumerable.html">IEnumerable</a>&lt;string&gt; BGC.IO.DataManagement.GetDataFiles </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>dataDirectory</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Get a list of all data files in sub directory of os data directory </p>
+
+<p>Referenced by <a class="el" href="_player_data_8cs_source.html#l00098">BGC.Users.PlayerData.DeserializeUsers()</a>.</p>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_data_management_a1f562c60317edb91bfec59c1c0f0493b_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_data_management_a1f562c60317edb91bfec59c1c0f0493b_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_data_management_a1f562c60317edb91bfec59c1c0f0493b_icgraph" id="class_b_g_c_1_1_i_o_1_1_data_management_a1f562c60317edb91bfec59c1c0f0493b_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_users_1_1_player_data.html#a4874ac60ab80479c6701b1b47c423e6c" title="Load all usernames " alt="" coords="255,5,483,47"/>
+</map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="ad32d11b7d6a83d686296b6d7dab51d36"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static string BGC.IO.DataManagement.NextAvailableFilePath </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filepath</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -164,49 +280,29 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Get a list of all data files in sub directory of os data directory </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">dataSubDir</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+<p>Returns an available filepath. Appends " (#)" to the filename, incrementing # until it is available, starting with any modifier present in the filepath. </p>
+<dl class="section return"><dt>Returns</dt><dd>An available filepath</dd></dl>
 
-<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00039">39</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
-<div class="fragment"><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        {</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;            <span class="keywordtype">string</span> path = <a class="code" href="class_b_g_c_1_1_i_o_1_1_data_management.html#aa4fe5307a7f50d4b36062cfda21b7681">PathForDataDirectory</a>(dataSubDir);</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">new</span> List&lt;string&gt;(Directory.GetFiles(path));</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_i_o_1_1_data_management_html_aa4fe5307a7f50d4b36062cfda21b7681"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_data_management.html#aa4fe5307a7f50d4b36062cfda21b7681">BGC.IO.DataManagement.PathForDataDirectory</a></div><div class="ttdeci">static string PathForDataDirectory(string dataSubdir)</div><div class="ttdoc">Returns the full path to the dataSubdir  directory. </div><div class="ttdef"><b>Definition:</b> <a href="_data_management_8cs_source.html#l00069">DataManagement.cs:69</a></div></div>
+<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00127">127</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
+
+<p>Referenced by <a class="el" href="_m_i_d_i_encoding_8cs_source.html#l00155">BGC.Audio.Midi.MidiEncoding.SaveFile()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;        {</div><div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;            <span class="keywordflow">if</span> (!File.Exists(filepath))</div><div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;            {</div><div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;                <span class="keywordflow">return</span> filepath;</div><div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;            }</div><div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;</div><div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;            <span class="keywordtype">string</span> directory = Path.GetDirectoryName(filepath);</div><div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;            <span class="keywordtype">string</span> fileExtension = Path.GetExtension(filepath);</div><div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;            <span class="keywordtype">string</span> fileName = <a class="code" href="class_b_g_c_1_1_i_o_1_1_data_management.html#a808a975f8e3a3d4b820bbebbaa6dc6da">GetCleanFileName</a>(</div><div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;                fileName: Path.GetFileNameWithoutExtension(filepath),</div><div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;                modifierValue: out <span class="keywordtype">int</span> initialModifierValue);</div><div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;</div><div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;            <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = initialModifierValue; ; i++)</div><div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160;            {</div><div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;                <span class="keywordflow">if</span> (!File.Exists(filepath))</div><div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160;                {</div><div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;                    <span class="keywordflow">return</span> filepath;</div><div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;                }</div><div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;</div><div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;                filepath = Path.Combine(directory, $<span class="stringliteral">&quot;{fileName} ({i}){fileExtension}&quot;</span>);</div><div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;            }</div><div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_i_o_1_1_data_management_html_a808a975f8e3a3d4b820bbebbaa6dc6da"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_data_management.html#a808a975f8e3a3d4b820bbebbaa6dc6da">BGC.IO.DataManagement.GetCleanFileName</a></div><div class="ttdeci">static string GetCleanFileName(string fileName, out int modifierValue)</div><div class="ttdoc">Identifies any filename matching the pattern &quot;NameStuffHere (3)&quot; and strips off and spits out the mod...</div><div class="ttdef"><b>Definition:</b> <a href="_data_management_8cs_source.html#l00082">DataManagement.cs:82</a></div></div>
 </div><!-- fragment -->
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_data_management_ad32d11b7d6a83d686296b6d7dab51d36_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_data_management_ad32d11b7d6a83d686296b6d7dab51d36_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_data_management_ad32d11b7d6a83d686296b6d7dab51d36_icgraph" id="class_b_g_c_1_1_i_o_1_1_data_management_ad32d11b7d6a83d686296b6d7dab51d36_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_audio_1_1_midi_1_1_midi_encoding.html#ac07f399c97087d1e2ec1add188f43fde" title="BGC.Audio.Midi.MidiEncoding.\lSaveFile" alt="" coords="261,39,464,80"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aea1217f08213ee346b72a8b1d6a25afc" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiBare" alt="" coords="512,5,719,47"/>
+<area shape="rect" id="node4" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ad306247ac46729f4f347afbb992fd897" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiFull" alt="" coords="512,71,719,112"/>
+</map>
 </div>
-</div>
-<a class="anchor" id="aaf4185bfee8f590c81861bd186e61d9c"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static string BGC.IO.DataManagement.GetDataRootDir </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+</p>
 
-<p>Get path for dat directory root </p>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
-
-<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00050">50</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
-<div class="fragment"><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;        {</div><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;            <span class="keywordtype">string</span> path = Application.persistentDataPath;</div><div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;</div><div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;            <span class="keywordflow">if</span> (Application.platform != RuntimePlatform.IPhonePlayer &amp;&amp;</div><div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;                Application.platform != RuntimePlatform.Android)</div><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;            {</div><div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;                <span class="comment">// Use the DataPath on Development machines</span></div><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;                path = Application.dataPath;</div><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;                path = path.Substring(0, path.LastIndexOf(<span class="charliteral">&#39;/&#39;</span>));</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;            }</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;            <span class="keywordflow">return</span> path;</div><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;        }</div></div><!-- fragment -->
 </div>
 </div>
-<a class="anchor" id="aa4fe5307a7f50d4b36062cfda21b7681"></a>
+<a class="anchor" id="a92b52d8a3ba1c8c86a9fecc895b78485"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -217,7 +313,7 @@ Static Private Attributes</h2></td></tr>
           <td class="memname">static string BGC.IO.DataManagement.PathForDataDirectory </td>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>dataSubdir</em></td><td>)</td>
+          <td class="paramname"><em>dataDirectory</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -228,18 +324,160 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Returns the full path to the <em>dataSubdir</em>  directory. </p><dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">dataSubdir</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+<p>Returns the full path to the <em>dataDirectory</em>  directory. </p>
+
+<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00041">41</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
+
+<p>Referenced by <a class="el" href="_protocol_manager_8cs_source.html#l00317">BGC.Study.ProtocolManager.LoadProtocolSet()</a>, <a class="el" href="_impulse_extraction_8cs_source.html#l00027">BGC.Audio.Spatialization.ImpulseExtraction.PrepareRun()</a>, <a class="el" href="_protocol_manager_8cs_source.html#l00297">BGC.Study.ProtocolManager.SerializeAll()</a>, and <a class="el" href="_protocol_manager_8cs_source.html#l00510">BGC.Study.ProtocolManager.UpdateDefaults()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        {</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;            <span class="keywordtype">string</span> path = Path.Combine(<a class="code" href="class_b_g_c_1_1_i_o_1_1_data_management.html#adc8ca00bcd01e1534933cd0db7cee4cc">RootDirectory</a>, dataDirectory);</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;            <span class="keywordflow">if</span> (Directory.Exists(path) == <span class="keyword">false</span>)</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;            {</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;                Directory.CreateDirectory(path);</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;            }</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;</div><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;            <span class="keywordflow">return</span> path;</div><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_i_o_1_1_data_management_html_adc8ca00bcd01e1534933cd0db7cee4cc"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_data_management.html#adc8ca00bcd01e1534933cd0db7cee4cc">BGC.IO.DataManagement.RootDirectory</a></div><div class="ttdeci">static string RootDirectory</div><div class="ttdoc">Root directory for all users data </div><div class="ttdef"><b>Definition:</b> <a href="_data_management_8cs_source.html#l00013">DataManagement.cs:13</a></div></div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_data_management_a92b52d8a3ba1c8c86a9fecc895b78485_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_data_management_a92b52d8a3ba1c8c86a9fecc895b78485_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_data_management_a92b52d8a3ba1c8c86a9fecc895b78485_icgraph" id="class_b_g_c_1_1_i_o_1_1_data_management_a92b52d8a3ba1c8c86a9fecc895b78485_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_study_1_1_protocol_manager.html#a1898ce3d18d4e73d3cb907b16e59b576" title="BGC.Study.ProtocolManager.\lLoadProtocolSet" alt="" coords="263,5,457,47"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_audio_1_1_spatialization_1_1_impulse_extraction.html#a41794e82cc947127dfbdba82165467cf" title="BGC.Audio.Spatialization.\lImpulseExtraction.PrepareRun" alt="" coords="260,71,460,112"/>
+<area shape="rect" id="node4" href="class_b_g_c_1_1_study_1_1_protocol_manager.html#a82d059558c8744db380b421c461df5ba" title="BGC.Study.ProtocolManager.\lSerializeAll" alt="" coords="263,136,457,177"/>
+<area shape="rect" id="node5" href="class_b_g_c_1_1_study_1_1_protocol_manager.html#a58a3a99b387129a51e84a071f114a414" title="BGC.Study.ProtocolManager.\lUpdateDefaults" alt="" coords="263,201,457,243"/>
+</map>
+</div>
 </p>
 
-<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00069">69</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
-<div class="fragment"><div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;        {</div><div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;            <span class="keywordtype">string</span> path = Path.Combine(<a class="code" href="class_b_g_c_1_1_i_o_1_1_data_management.html#aaf4185bfee8f590c81861bd186e61d9c">GetDataRootDir</a>(), dataSubdir);</div><div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;</div><div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;            <span class="keywordflow">if</span> (!Directory.Exists(path))</div><div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;            {</div><div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;                Directory.CreateDirectory(path);</div><div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;            }</div><div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;</div><div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;            <span class="keywordflow">return</span> path;</div><div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_i_o_1_1_data_management_html_aaf4185bfee8f590c81861bd186e61d9c"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_data_management.html#aaf4185bfee8f590c81861bd186e61d9c">BGC.IO.DataManagement.GetDataRootDir</a></div><div class="ttdeci">static string GetDataRootDir()</div><div class="ttdoc">Get path for dat directory root </div><div class="ttdef"><b>Definition:</b> <a href="_data_management_8cs_source.html#l00050">DataManagement.cs:50</a></div></div>
+</div>
+</div>
+<a class="anchor" id="ae73b7be57491497f96351b0637d7e374"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static string BGC.IO.DataManagement.PathForDataFile </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>dataDirectory</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>fileName</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns the full path for specified datafile in a data directory </p>
+
+<p>Referenced by <a class="el" href="_synthesis_tests_8cs_source.html#l00672">BGC.Tests.SynthesisTests.FMTestBell()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00704">BGC.Tests.SynthesisTests.FMTestBrass()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00688">BGC.Tests.SynthesisTests.FMTestDrum()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00858">BGC.Tests.SynthesisTests.FMTestOvertones()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00720">BGC.Tests.SynthesisTests.FMTestPiano()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00744">BGC.Tests.SynthesisTests.FMTestTrianglePiano()</a>, <a class="el" href="_spatial_8cs_source.html#l00045">BGC.Audio.Spatial.GetFilterFilename()</a>, <a class="el" href="_calibration_8cs_source.html#l00054">BGC.Audio.Calibration.Initialize()</a>, <a class="el" href="_calibration_8cs_source.html#l00088">BGC.Audio.Calibration.Serialize()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00636">BGC.Tests.SynthesisTests.SmallAnalyticFMTest()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00573">BGC.Tests.SynthesisTests.SmallSineFMTest()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00829">BGC.Tests.SynthesisTests.SynthTestSnare()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00481">BGC.Tests.SynthesisTests.TestAllPassFilterSpeech()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00097">BGC.Tests.SynthesisTests.TestBiQuadFilters()</a>, <a class="el" href="_test_overlap_add_8cs_source.html#l00072">BGC.Tests.TestOverlapAdd.TestCarlileShuffler()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00197">BGC.Tests.SynthesisTests.TestCarrierModifiedFakeVoices()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00178">BGC.Tests.MidiEncodingTests.TestContinuousFilter()</a>, <a class="el" href="_wave_encoding_tests_8cs_source.html#l00048">BGC.Tests.WAVEncodingTests.TestDualChannelWave()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00362">BGC.Tests.SynthesisTests.TestFakeVoice()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00156">BGC.Tests.MidiEncodingTests.TestFlute()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00911">BGC.Tests.SynthesisTests.TestFMFilterVoice()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00764">BGC.Tests.SynthesisTests.TestFrequencyShifter()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00250">BGC.Tests.SynthesisTests.TestFunFakeVoice()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00113">BGC.Tests.MidiEncodingTests.TestGuitar()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00299">BGC.Tests.MidiEncodingTests.TestHiHat()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00263">BGC.Tests.MidiEncodingTests.TestLoadSaveMidiBare()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00022">BGC.Tests.MidiEncodingTests.TestLoadSaveMidiFull()</a>, <a class="el" href="_test_overlap_add_8cs_source.html#l00096">BGC.Tests.TestOverlapAdd.TestNewConvolution()</a>, <a class="el" href="_test_overlap_add_8cs_source.html#l00163">BGC.Tests.TestOverlapAdd.TestNewSpatialization()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00134">BGC.Tests.MidiEncodingTests.TestOrgan()</a>, <a class="el" href="_test_overlap_add_8cs_source.html#l00015">BGC.Tests.TestOverlapAdd.TestPhaseVocoding()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00094">BGC.Tests.MidiEncodingTests.TestPulses()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00050">BGC.Tests.MidiEncodingTests.TestRenderMidi()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00072">BGC.Tests.MidiEncodingTests.TestRenderToccataMidi()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00061">BGC.Tests.SynthesisTests.TestSawtoothWave()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00025">BGC.Tests.SynthesisTests.TestSineWave()</a>, <a class="el" href="_wave_encoding_tests_8cs_source.html#l00016">BGC.Tests.WAVEncodingTests.TestSingleChannelWave()</a>, <a class="el" href="_midi_encoding_tests_8cs_source.html#l00284">BGC.Tests.MidiEncodingTests.TestSnare()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00043">BGC.Tests.SynthesisTests.TestSquareWave()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00079">BGC.Tests.SynthesisTests.TestTriangleWave()</a>, <a class="el" href="_zip_tests_8cs_source.html#l00016">BGC.Tests.ZipTests.TestZip()</a>, <a class="el" href="_synthesis_tests_8cs_source.html#l00558">BGC.Tests.SynthesisTests.TryAllPassFilter()</a>, and <a class="el" href="_synthesis_tests_8cs_source.html#l00973">BGC.Tests.SynthesisTests.TryFMFilter()</a>.</p>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_data_management_ae73b7be57491497f96351b0637d7e374_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_data_management_ae73b7be57491497f96351b0637d7e374_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_data_management_ae73b7be57491497f96351b0637d7e374_icgraph" id="class_b_g_c_1_1_i_o_1_1_data_management_ae73b7be57491497f96351b0637d7e374_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ae1be97fbb309772846e11f4c5fea3f54" title="BGC.Tests.SynthesisTests.\lFMTestBell" alt="" coords="533,5,719,47"/>
+<area shape="rect" id="node3" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#aea4ade037e2d091e150b0d80023a07de" title="BGC.Tests.SynthesisTests.\lFMTestBrass" alt="" coords="533,71,719,112"/>
+<area shape="rect" id="node4" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a828a2fc74a95fdb91ac4126b18537270" title="BGC.Tests.SynthesisTests.\lFMTestDrum" alt="" coords="533,136,719,177"/>
+<area shape="rect" id="node5" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a41068c85209946146e05fed80ad8a284" title="BGC.Tests.SynthesisTests.\lFMTestOvertones" alt="" coords="533,201,719,243"/>
+<area shape="rect" id="node6" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a72afb7d67e6f30efefd44f7e0bbf4a80" title="BGC.Tests.SynthesisTests.\lFMTestPiano" alt="" coords="533,267,719,308"/>
+<area shape="rect" id="node7" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ac0f80f9ccb3be2a96c4652b3a98f87e7" title="BGC.Tests.SynthesisTests.\lFMTestTrianglePiano" alt="" coords="533,332,719,373"/>
+<area shape="rect" id="node8" href="class_b_g_c_1_1_audio_1_1_spatial.html#ae650a4e160ad64dff818ecc74a274b56" title="BGC.Audio.Spatial.GetFilter\lFilename" alt="" coords="274,1644,461,1685"/>
+<area shape="rect" id="node9" href="class_b_g_c_1_1_audio_1_1_calibration.html#a9168ece461f39346cb82e1d0360761b7" title="BGC.Audio.Calibration.Initialize" alt="" coords="264,883,471,910"/>
+<area shape="rect" id="node10" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a541d182f0a9402cca6bb44f50599f3f4" title="BGC.Tests.SynthesisTests.\lSmallAnalyticFMTest" alt="" coords="533,397,719,439"/>
+<area shape="rect" id="node11" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#acf7746e5e4a61662deaa4aecb95d9ebf" title="BGC.Tests.SynthesisTests.\lSmallSineFMTest" alt="" coords="533,463,719,504"/>
+<area shape="rect" id="node12" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a04ba4701623ed506bd6dee8e2ba7a258" title="BGC.Tests.SynthesisTests.\lTestAllPassFilterSpeech" alt="" coords="533,528,719,569"/>
+<area shape="rect" id="node14" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a36c06607e733880a517e14a72ef9bcd5" title="BGC.Tests.SynthesisTests.\lTestBiQuadFilters" alt="" coords="533,593,719,635"/>
+<area shape="rect" id="node15" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ad1a5b2c9e2c1684e8fb51f626abd3b5b" title="BGC.Tests.SynthesisTests.\lTestCarrierModifiedFakeVoices" alt="" coords="523,659,729,700"/>
+<area shape="rect" id="node16" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a59f83fecef4776d009ae93b99b560400" title="BGC.Tests.MidiEncodingTests.\lTestContinuousFilter" alt="" coords="523,724,729,765"/>
+<area shape="rect" id="node17" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a846bfb5192f3b39f23541633d8c9aa6c" title="BGC.Tests.SynthesisTests.\lTestFakeVoice" alt="" coords="533,920,719,961"/>
+<area shape="rect" id="node18" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ab52b2d8da332278f3f2e3295b89dc19b" title="BGC.Tests.MidiEncodingTests.\lTestFlute" alt="" coords="523,985,729,1027"/>
+<area shape="rect" id="node20" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a3eec3d7f075a9690dd93294a0f541a10" title="BGC.Tests.SynthesisTests.\lTestFMFilterVoice" alt="" coords="533,1051,719,1092"/>
+<area shape="rect" id="node21" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a80bae7887e4ecf9b3579b5077e9484ad" title="BGC.Tests.SynthesisTests.\lTestFrequencyShifter" alt="" coords="533,1116,719,1157"/>
+<area shape="rect" id="node22" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#af983e4b1ccdbaba1ce5f58002c3ad35f" title="BGC.Tests.SynthesisTests.\lTestFunFakeVoice" alt="" coords="533,1181,719,1223"/>
+<area shape="rect" id="node23" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a30475137c28aa041cb22070835c99716" title="BGC.Tests.MidiEncodingTests.\lTestGuitar" alt="" coords="523,1247,729,1288"/>
+<area shape="rect" id="node24" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a9ed6e6d8011d4f5b19c09d5ca43faf7d" title="BGC.Tests.MidiEncodingTests.\lTestOrgan" alt="" coords="523,1312,729,1353"/>
+<area shape="rect" id="node25" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a465333b5ca632fe596f8473217f73779" title="BGC.Tests.MidiEncodingTests.\lTestPulses" alt="" coords="523,1377,729,1419"/>
+<area shape="rect" id="node26" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aac6b9d27b63c8e50447c9d36ff25ec06" title="BGC.Tests.MidiEncodingTests.\lTestRenderMidi" alt="" coords="523,1443,729,1484"/>
+<area shape="rect" id="node27" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aa208a3737c189a9e7b2d4c2971ee0bc3" title="BGC.Tests.MidiEncodingTests.\lTestRenderToccataMidi" alt="" coords="523,1508,729,1549"/>
+<area shape="rect" id="node28" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a3f937ad7b59d7fd2f5c6e78149d9ee3f" title="BGC.Tests.SynthesisTests.\lTestSawtoothWave" alt="" coords="533,1573,719,1615"/>
+<area shape="rect" id="node29" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ad959616ceeda6cf53fa9fec48179309f" title="BGC.Tests.SynthesisTests.\lTestSineWave" alt="" coords="533,1639,719,1680"/>
+<area shape="rect" id="node30" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a8a4e4776055e81e441d3b800801e4ff8" title="BGC.Tests.SynthesisTests.\lTestSquareWave" alt="" coords="533,1704,719,1745"/>
+<area shape="rect" id="node31" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a1786ef03c0b3dd4e62a259754149e02b" title="BGC.Tests.SynthesisTests.\lTestTriangleWave" alt="" coords="533,1769,719,1811"/>
+<area shape="rect" id="node32" href="class_b_g_c_1_1_audio_1_1_calibration.html#a0e34f258751b359b5a16c16e89fd26be" title="BGC.Audio.Calibration.Serialize" alt="" coords="263,1710,471,1737"/>
+<area shape="rect" id="node33" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a9ae11a81f26ca750800f3f7305d87b9e" title="BGC.Tests.SynthesisTests.\lSynthTestSnare" alt="" coords="274,1761,461,1803"/>
+<area shape="rect" id="node34" href="class_b_g_c_1_1_tests_1_1_test_overlap_add.html#a670f9f191f898f0949645b0b81085311" title="BGC.Tests.TestOverlapAdd.\lTestCarlileShuffler" alt="" coords="272,1827,463,1868"/>
+<area shape="rect" id="node35" href="class_b_g_c_1_1_tests_1_1_w_a_v_encoding_tests.html#a9ee3955aec49414dbf76e660756a6906" title="BGC.Tests.WAVEncodingTests.\lTestDualChannelWave" alt="" coords="260,1892,475,1933"/>
+<area shape="rect" id="node36" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a28642a69c37da11059a54266ce2d59eb" title="BGC.Tests.MidiEncodingTests.\lTestHiHat" alt="" coords="264,1957,471,1999"/>
+<area shape="rect" id="node37" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aea1217f08213ee346b72a8b1d6a25afc" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiBare" alt="" coords="264,2023,471,2064"/>
+<area shape="rect" id="node38" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ad306247ac46729f4f347afbb992fd897" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiFull" alt="" coords="264,2088,471,2129"/>
+<area shape="rect" id="node39" href="class_b_g_c_1_1_tests_1_1_test_overlap_add.html#ad380d204a8519d03fa6fabdb3ec080b7" title="BGC.Tests.TestOverlapAdd.\lTestNewConvolution" alt="" coords="272,2153,463,2195"/>
+<area shape="rect" id="node40" href="class_b_g_c_1_1_tests_1_1_test_overlap_add.html#a83c1c4f6eb18ba819f67a07e35e7554c" title="BGC.Tests.TestOverlapAdd.\lTestNewSpatialization" alt="" coords="272,2219,463,2260"/>
+<area shape="rect" id="node41" href="class_b_g_c_1_1_tests_1_1_test_overlap_add.html#acabb20ad7770e43d6a287a630f701e3d" title="BGC.Tests.TestOverlapAdd.\lTestPhaseVocoding" alt="" coords="272,2284,463,2325"/>
+<area shape="rect" id="node42" href="class_b_g_c_1_1_tests_1_1_w_a_v_encoding_tests.html#ada5156099b11c6107df8f53f83a617c2" title="BGC.Tests.WAVEncodingTests.\lTestSingleChannelWave" alt="" coords="260,2349,475,2391"/>
+<area shape="rect" id="node43" href="class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a7a8f1836d221146a804132d00eaad918" title="BGC.Tests.MidiEncodingTests.\lTestSnare" alt="" coords="264,2415,471,2456"/>
+<area shape="rect" id="node44" href="class_b_g_c_1_1_tests_1_1_zip_tests.html#a266b4233c29184da1629c65c5de1cafd" title="BGC.Tests.ZipTests.TestZip" alt="" coords="272,2481,463,2507"/>
+<area shape="rect" id="node45" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a45b537f394f31d77f3ad2eb1ac8f8247" title="BGC.Tests.SynthesisTests.\lTryAllPassFilter" alt="" coords="274,2532,461,2573"/>
+<area shape="rect" id="node46" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ac02ee03d8c7a4844a95d2703ca0737c0" title="BGC.Tests.SynthesisTests.\lTryFMFilter" alt="" coords="274,2597,461,2639"/>
+<area shape="rect" id="node13" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ab4f3beea2799aca5eaa4fa4d4730e2f1" title="BGC.Tests.SynthesisTests.\lTestAllPassFilterSynth" alt="" coords="533,789,719,831"/>
+<area shape="rect" id="node19" href="class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a821df2f60b45bcacfc9842b8ecd21e12" title="BGC.Tests.SynthesisTests.\lTestFMFilterSynth" alt="" coords="533,855,719,896"/>
+</map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="aaed9eeec4d62605f477cde6e49d1ad01"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static string BGC.IO.DataManagement.PathForDataSubDirectory </td>
+          <td>(</td>
+          <td class="paramtype">params string[]&#160;</td>
+          <td class="paramname"><em>dataDirectories</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns the full path to the <em>dataDirectories</em>  directory. </p>
+
+<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00057">57</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
+
+<p>Referenced by <a class="el" href="_zip_tests_8cs_source.html#l00016">BGC.Tests.ZipTests.TestZip()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;        {</div><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;            <span class="keywordtype">string</span>[] paths = <span class="keyword">new</span> <span class="keywordtype">string</span>[dataDirectories.Length + 1];</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;            paths[0] = <a class="code" href="class_b_g_c_1_1_i_o_1_1_data_management.html#adc8ca00bcd01e1534933cd0db7cee4cc">RootDirectory</a>;</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;            <a class="code" href="namespace_system.html">System</a>.Array.Copy(</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;                sourceArray: dataDirectories,</div><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;                sourceIndex: 0,</div><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;                destinationArray: paths,</div><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;                destinationIndex: 1,</div><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;                length: dataDirectories.Length);</div><div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;</div><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;            <span class="keywordtype">string</span> path = Path.Combine(paths);</div><div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;</div><div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;            <span class="keywordflow">if</span> (Directory.Exists(path) == <span class="keyword">false</span>)</div><div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;            {</div><div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;                Directory.CreateDirectory(path);</div><div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;            }</div><div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;</div><div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;            <span class="keywordflow">return</span> path;</div><div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;        }</div><div class="ttc" id="namespace_system_html"><div class="ttname"><a href="namespace_system.html">System</a></div></div>
+<div class="ttc" id="class_b_g_c_1_1_i_o_1_1_data_management_html_adc8ca00bcd01e1534933cd0db7cee4cc"><div class="ttname"><a href="class_b_g_c_1_1_i_o_1_1_data_management.html#adc8ca00bcd01e1534933cd0db7cee4cc">BGC.IO.DataManagement.RootDirectory</a></div><div class="ttdeci">static string RootDirectory</div><div class="ttdoc">Root directory for all users data </div><div class="ttdef"><b>Definition:</b> <a href="_data_management_8cs_source.html#l00013">DataManagement.cs:13</a></div></div>
 </div><!-- fragment -->
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_b_g_c_1_1_i_o_1_1_data_management_aaed9eeec4d62605f477cde6e49d1ad01_icgraph.png" border="0" usemap="#class_b_g_c_1_1_i_o_1_1_data_management_aaed9eeec4d62605f477cde6e49d1ad01_icgraph" alt=""/></div>
+<map name="class_b_g_c_1_1_i_o_1_1_data_management_aaed9eeec4d62605f477cde6e49d1ad01_icgraph" id="class_b_g_c_1_1_i_o_1_1_data_management_aaed9eeec4d62605f477cde6e49d1ad01_icgraph">
+<area shape="rect" id="node2" href="class_b_g_c_1_1_tests_1_1_zip_tests.html#a266b4233c29184da1629c65c5de1cafd" title="BGC.Tests.ZipTests.TestZip" alt="" coords="260,13,451,39"/>
+</map>
+</div>
+</p>
+
 </div>
 </div>
 <h2 class="groupheader">Field Documentation</h2>
@@ -286,7 +524,7 @@ Static Private Attributes</h2></td></tr>
 
 <p>Root directory for all users data </p>
 
-<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00015">15</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
+<p>Definition at line <a class="el" href="_data_management_8cs_source.html#l00013">13</a> of file <a class="el" href="_data_management_8cs_source.html">DataManagement.cs</a>.</p>
 
 </div>
 </div>
@@ -296,7 +534,7 @@ Static Private Attributes</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Oct 31 2018 13:46:34 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Thu Apr 11 2019 15:06:03 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

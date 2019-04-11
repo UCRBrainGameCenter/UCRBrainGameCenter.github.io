@@ -1,0 +1,5 @@
+<map id="BGC.Audio.IBGCStream.Initialize" name="BGC.Audio.IBGCStream.Initialize">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_envelope_converter.html#aa2b52cb68e8e44e66190d6294325fb56" title="BGC.Audio.AnalyticStreams.\lAnalyticStreamEnvelopeConverter.\lAnalyticStreamEnvelopeConverter" alt="" coords="300,5,527,61"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_b_g_c_stream_converter.html#aba371067ac04231562b7a3a421827ee2" title="BGC.Audio.AnalyticStreams.\lBGCStreamConverter.BGCStreamConverter" alt="" coords="272,85,555,126"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html#af129827f0a91998fdbc32cf158e0815b" title="Perform any calculations necessary to prepare the Stream " alt="" coords="316,150,511,191"/>
+</map>

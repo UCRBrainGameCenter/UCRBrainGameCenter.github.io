@@ -1,0 +1,6 @@
+<map id="BGC.Audio.IBGCStream.Seek" name="BGC.Audio.IBGCStream.Seek">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_parallel_initializer.html#ac5744222a51377d275962a7db6b7f83d" title="BGC.Audio.Filters.Parallel\lInitializer.ParallelInitializer" alt="" coords="263,5,437,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_concatenator.html#a9ca2f337a5189249a59f16ba1544709c" title="Seek to the indicated position in the stream " alt="" coords="263,71,437,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_active_note_stream.html#a110ecff318af32436750d707339c7cd4" title="Seek to the indicated position in the stream " alt="" coords="255,136,445,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html#af619268afbd8385c94ea01b28bc3fba4" title="BGC.Audio.Filters.Simple\lBGCFilter.SimpleBGCFilter" alt="" coords="259,201,441,243"/>
+</map>

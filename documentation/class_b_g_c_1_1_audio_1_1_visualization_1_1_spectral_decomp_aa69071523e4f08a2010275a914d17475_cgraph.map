@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Visualization.SpectralDecomp.SpectralDecomp" name="BGC.Audio.Visualization.SpectralDecomp.SpectralDecomp">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_frequency_domain.html#a6b0bf73b1a11f669322c531a51376267" title="BGC.Audio.FrequencyDomain.\lGetComplexFrequencyBin" alt="" coords="273,5,476,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_frequency_domain.html#a2a58ec6155175c44166b6de3089901fd" title="BGC.Audio.FrequencyDomain.\lGetComplexSampleFrequency" alt="" coords="273,71,476,112"/>
+</map>

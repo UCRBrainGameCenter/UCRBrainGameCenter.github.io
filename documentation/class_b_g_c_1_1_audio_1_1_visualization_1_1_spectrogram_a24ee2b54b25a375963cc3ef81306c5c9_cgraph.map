@@ -1,0 +1,8 @@
+<map id="BGC.Audio.Visualization.Spectrogram.Decompose" name="BGC.Audio.Visualization.Spectrogram.Decompose">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_spectral_decomp.html#ae483ec297866a62402a2d5ac27649db9" title="BGC.Audio.Visualization.\lSpectralDecomp.Add" alt="" coords="261,5,431,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_mathematics_1_1_fourier.html#a6000f88ea852c11ba0bc662d800bc66a" title="BGC.Mathematics.Fourier.\lForward" alt="" coords="257,71,435,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_frequency_domain.html#a2a58ec6155175c44166b6de3089901fd" title="BGC.Audio.FrequencyDomain.\lGetComplexSampleFrequency" alt="" coords="245,136,447,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_cosine_envelope.html#ae567c35e575ebf65fe2e79a107b55950" title="BGC.Audio.Envelopes.Cosine\lEnvelope.HammingWindow" alt="" coords="247,201,445,243"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html#afadd8e25bfda6c1eb47f1799cee30d51" title="Returns the next sample in the BGCEnvelopeStream " alt="" coords="224,267,468,308"/>
+<area shape="rect" id="node7" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html#a0ca51c73c8eb8c0daee8184120a8429c" title="Sets this internal state of this stream to the initial state " alt="" coords="224,332,468,373"/>
+</map>

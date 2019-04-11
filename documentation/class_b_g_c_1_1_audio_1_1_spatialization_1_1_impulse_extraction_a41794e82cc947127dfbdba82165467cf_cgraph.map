@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Spatialization.ImpulseExtraction.PrepareRun" name="BGC.Audio.Spatialization.ImpulseExtraction.PrepareRun">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#a308fcd503cb91c8dfa8896afeabdd240" title="BGC.IO.DataManagement.Data\lDirectoryExists" alt="" coords="253,5,461,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#a92b52d8a3ba1c8c86a9fecc895b78485" title="Returns the full path to the dataDirectory &#160;directory. " alt="" coords="254,71,461,112"/>
+</map>

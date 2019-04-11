@@ -1,0 +1,9 @@
+<map id="BGC.Tests.MidiEncodingTests.TestLoadSaveMidiFull" name="BGC.Tests.MidiEncodingTests.TestLoadSaveMidiFull">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_encoding.html#a88b12c951dc9a7760f20c7ebe0deb5e8" title="Method to load a MIDI file an parse the data " alt="" coords="262,5,465,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="260,71,467,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_encoding.html#ac07f399c97087d1e2ec1add188f43fde" title="BGC.Audio.Midi.MidiEncoding.\lSaveFile" alt="" coords="262,136,465,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ad32d11b7d6a83d686296b6d7dab51d36" title="Returns an available filepath. Appends &quot; (#)&quot; to the filename, incrementing # until it is available..." alt="" coords="515,103,723,144"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file.html#ac82fad06b668986f4e7d25bb4b8a943a" title="BGC.Audio.Midi.MidiFile.\lSerialize" alt="" coords="534,168,703,209"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a3973ebb8b4a248edebd8e618d75e1051" title="BGC.Audio.Midi.MidiTrack.\lSerialize" alt="" coords="771,168,952,209"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html#a5738369d4f5f8d6ad9abeb349670fdf2" title="BGC.Audio.Midi.Events.Midi\lEvent.Serialize" alt="" coords="1000,168,1189,209"/>
+</map>

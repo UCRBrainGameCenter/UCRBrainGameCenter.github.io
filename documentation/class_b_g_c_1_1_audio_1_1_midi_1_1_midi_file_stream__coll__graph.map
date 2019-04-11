@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Midi.MidiFileStream" name="BGC.Audio.Midi.MidiFileStream">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_synth_stream.html" title="SynthStream" alt="" coords="429,84,528,111"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="46,69,143,96"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file.html" title="BGC.Audio.Midi.MidiFile" alt="" coords="396,172,561,199"/>
+</map>

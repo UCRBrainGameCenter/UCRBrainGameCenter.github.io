@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Envelopes.IBGCEnvelopeStream.Reset" name="BGC.Audio.Envelopes.IBGCEnvelopeStream.Reset">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_spectrogram.html#a24ee2b54b25a375963cc3ef81306c5c9" title="BGC.Audio.Visualization.\lSpectrogram.Decompose" alt="" coords="317,5,488,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_envelope_concatenator.html#a5ebf35d5eb685c32b7c2eec01b963105" title="Returns the next sample in the BGCEnvelopeStream " alt="" coords="297,71,508,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_envelope_concatenator.html#adffca025718efa5602aa551b41bcc2d8" title="Seek to the indicated position in the stream " alt="" coords="297,136,508,177"/>
+</map>

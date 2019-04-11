@@ -1,0 +1,4 @@
+<map id="BGC.Audio.BGCClipPlayer" name="BGC.Audio.BGCClipPlayer">
+<area shape="rect" id="node2" href="$class_mono_behaviour.html" title="MonoBehaviour" alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="141,5,307,32"/>
+</map>

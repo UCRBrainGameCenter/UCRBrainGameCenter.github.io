@@ -1,0 +1,15 @@
+<map id="BGC.Mathematics.GeneralMath.Cosh" name="BGC.Mathematics.GeneralMath.Cosh">
+<area shape="rect" id="node2" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#acc5caba200db4c043a1b00488765d184" title="Trigonometric Cosine of a Complex64 number. " alt="" coords="299,27,527,54"/>
+<area shape="rect" id="node5" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a526a9ea20620d97f8901d094420e1634" title="Trigonometric Cosine of a Complex32 number. " alt="" coords="299,281,527,307"/>
+<area shape="rect" id="node7" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a0901cc28eee9d4b82621f80c8663a000" title="Hyperbolic Cosine of a Complex64 number. " alt="" coords="296,129,531,155"/>
+<area shape="rect" id="node8" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#ac14a67a69fc813be44d2101518f9311e" title="Hyperbolic Cosine of a Complex32 number. " alt="" coords="296,179,531,206"/>
+<area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a9ceb2d9f8b5f98a3cc67171c1af61aee" title="Trigonometric Sine of a Complex64 number. " alt="" coords="302,78,525,105"/>
+<area shape="rect" id="node10" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#afc5033af68f9651264dfce691d6cdfa8" title="Trigonometric Sine of a Complex32 number. " alt="" coords="302,230,525,257"/>
+<area shape="rect" id="node11" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a8d379315f62d26eab04d9a0d0e3c5384" title="Hyperbolic Sine of a Complex64 number. " alt="" coords="298,331,529,358"/>
+<area shape="rect" id="node12" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#af03d3eeafe6ee9c5c86550cf9994cb6b" title="Hyperbolic Sine of a Complex32 number. " alt="" coords="298,382,529,409"/>
+<area shape="rect" id="node13" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a78a2c9f3a113cdda311c160f08d821eb" title="Hyperbolic Tangent of a Complex64 number. " alt="" coords="297,433,530,459"/>
+<area shape="rect" id="node14" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#abe81e6ca20b66d9bb49072e18a7e1a1e" title="Hyperbolic Tangent of a Complex32 number. " alt="" coords="297,483,530,510"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#ab9af286c18f30235134cf70649cf18ca" title="BGC.Audio.Filters.PhaseVocoder.\lPhaseVocoder" alt="" coords="579,5,800,47"/>
+<area shape="rect" id="node4" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#aea93b3213b2401cd44da1cbfed723d6c" title="Retuns the Complex64 number, rotated by phase &#160;radians, or exp(i*phase) " alt="" coords="587,71,791,112"/>
+<area shape="rect" id="node6" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#aad7fbbf946bf5b9dcb0c54cfd5aaa532" title="Retuns the Complex32 number, rotated by phase &#160;radians, or exp(i*phase) " alt="" coords="587,248,791,289"/>
+</map>

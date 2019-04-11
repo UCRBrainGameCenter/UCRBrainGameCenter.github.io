@@ -1,0 +1,6 @@
+<map id="BGC.Audio.AnalyticStreams.AnalyticStreamCenterer" name="BGC.Audio.AnalyticStreams.AnalyticStreamCenterer">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_simple_analytic_filter.html" title="SimpleAnalyticFilter" alt="" coords="576,129,715,156"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html" title="Filters represent transformations of the AnalyticStream. " alt="" coords="279,31,378,57"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node8" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="BGC.Audio.AnalyticStreams.\lIAnalyticStream" alt="" coords="233,213,425,254"/>
+</map>

@@ -1,3 +1,7 @@
 <map id="LightJson.JsonObject.JsonObjectDebugView.KeyValuePair" name="LightJson.JsonObject.JsonObjectDebugView.KeyValuePair">
-<area shape="rect" id="node3" href="$struct_light_json_1_1_json_value.html" title="A wrapper object that contains a valid JSON value. " alt="" coords="127,95,269,121"/>
+<area shape="rect" id="node3" href="$struct_light_json_1_1_json_value.html" title="A wrapper object that contains a valid JSON value. " alt="" coords="603,225,745,252"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_json_array.html" title="Represents an ordered collection of JsonValues. " alt="" coords="315,163,456,189"/>
+<area shape="rect" id="node5" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="9,339,189,365"/>
+<area shape="rect" id="node12" href="$class_light_json_1_1_json_object.html" title="Represents a key&#45;value pair collection of JsonValue objects. " alt="" coords="311,431,459,457"/>
+<area shape="rect" id="node13" href="$class_i_enumerable_3_01_key_value_pair_3_01string_00_01_json_value_01_4_4.html" title="IEnumerable\&lt; KeyValuePair\l\&lt; string, JsonValue \&gt;\&gt;" alt="" coords="6,421,193,462"/>
 </map>

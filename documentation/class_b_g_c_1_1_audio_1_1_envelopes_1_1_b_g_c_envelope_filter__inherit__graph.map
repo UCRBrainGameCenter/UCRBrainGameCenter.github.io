@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Envelopes.BGCEnvelopeFilter" name="BGC.Audio.Envelopes.BGCEnvelopeFilter">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_envelope_concatenator.html" title="BGC.Audio.Envelopes.Envelope\lConcatenator" alt="" coords="20,169,231,211"/>
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="IBGCEnvelopeStream" alt="" coords="50,5,201,32"/>
+</map>

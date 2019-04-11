@@ -1,0 +1,10 @@
+<map id="BGC.Mathematics.Fourier.Forward" name="BGC.Mathematics.Fourier.Forward">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_carlile_shuffler.html#ae4a7e5d878d41f2236fa25fedbf16fdc" title="BGC.Audio.Filters.Carlile\lShuffler._Initialize" alt="" coords="273,5,443,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_convolution_filter.html#a3de170612d2313130d35e91b66081953" title="BGC.Audio.Filters.Convolution\lFilter._Initialize" alt="" coords="257,71,459,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_multi_convolution_filter.html#af1a3a866b313f21488902b1515df58f0" title="BGC.Audio.Filters.MultiConvolution\lFilter._Initialize" alt="" coords="243,136,473,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_spectrogram.html#a24ee2b54b25a375963cc3ef81306c5c9" title="BGC.Audio.Visualization.\lSpectrogram.Decompose" alt="" coords="273,201,443,243"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#afd96259457e9ebe2b851e5177f6345fd" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="232,267,484,294"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_convolution_filter.html#ac7ed00ad00a31fc8d803da06cd247d75" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="257,319,459,360"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_multi_convolution_filter.html#a421d5f704b762548591537f4e9869e95" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="243,384,473,425"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_tests_1_1_test_overlap_add.html#ab7eeef81564d6ef7d22af3bcdd38e989" title="BGC.Tests.TestOverlapAdd.\lTestNewFFTs" alt="" coords="263,449,453,491"/>
+</map>

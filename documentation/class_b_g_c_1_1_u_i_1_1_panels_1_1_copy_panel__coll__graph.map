@@ -1,0 +1,6 @@
+<map id="BGC.UI.Panels.CopyPanel" name="BGC.UI.Panels.CopyPanel">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html" title="ModePanel" alt="" coords="209,244,295,271"/>
+<area shape="rect" id="node3" href="$class_mono_behaviour.html" title="MonoBehaviour" alt="" coords="5,103,117,130"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_lerped_action_channel.html" title="BGC.UI.Panels.ModePanelLerped\lActionChannel" alt="" coords="141,96,363,137"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_mono_utility_1_1_interpolation_1_1_lerped_component_action_channel.html" title="LerpedComponentActionChannel\l\&lt; ModePanel \&gt;" alt="" coords="145,5,359,47"/>
+</map>

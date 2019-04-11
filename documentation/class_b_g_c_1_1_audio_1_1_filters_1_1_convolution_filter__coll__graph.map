@@ -1,0 +1,9 @@
+<map id="BGC.Audio.Filters.ConvolutionFilter" name="BGC.Audio.Filters.ConvolutionFilter">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="203,259,323,285"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="53,95,133,121"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="89,5,187,32"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="156,95,323,121"/>
+<area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="734,259,934,285"/>
+<area shape="rect" id="node10" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="955,95,1129,121"/>
+<area shape="rect" id="node11" href="$class_i_formattable.html" title="IFormattable" alt="" coords="615,95,709,121"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="BGC.Audio.AnalyticStreams.AnalyticFilter" name="BGC.Audio.AnalyticStreams.AnalyticFilter">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_adder.html" title="BGC.Audio.AnalyticStreams.\lAnalyticStreamAdder" alt="" coords="408,136,600,177"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_simple_analytic_filter.html" title="BGC.Audio.AnalyticStreams.\lSimpleAnalyticFilter" alt="" coords="408,201,600,243"/>
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="5,177,120,203"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_a_d_s_r_envelope.html" title="BGC.Audio.AnalyticStreams.\lAnalyticADSREnvelope" alt="" coords="678,5,870,47"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_frequency_modulation_filter.html" title="Applies FrequencyModulation to the underlying stream, in the frequency domain. Utilizes the FFT Shift..." alt="" coords="663,71,885,112"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_centerer.html" title="A Decorator class for AnalyticStreams that centers the stream, temporally, in a window. " alt="" coords="678,136,870,177"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_fork.html" title="BGC.Audio.AnalyticStreams.\lAnalyticStreamFork" alt="" coords="678,201,870,243"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_fork_1_1_internal_stream_fork.html" title="BGC.Audio.AnalyticStreams.\lAnalyticStreamFork.InternalStreamFork" alt="" coords="648,267,900,308"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_frequency_shifter.html" title="Applies FrequencyShift to the underlying stream. Utilizes the FFT Shift Theorem " alt="" coords="669,332,879,373"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_windower.html" title="A Decorator class for BGCAudioClips that windows and truncates underlying clip " alt="" coords="678,397,870,439"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BGC.Mathematics.GeneralMath.Tanh" name="BGC.Mathematics.GeneralMath.Tanh">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_sigmoid_envelope.html#ae8a53ead32d48d16261154acc9b8b427" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="309,5,513,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_sigmoid_envelope.html#ace0a6810011da0c7afed13dc3b65c0f5" title="Returns the next sample in the BGCEnvelopeStream " alt="" coords="309,71,513,112"/>
+<area shape="rect" id="node4" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a78a2c9f3a113cdda311c160f08d821eb" title="Hyperbolic Tangent of a Complex64 number. " alt="" coords="295,137,528,163"/>
+<area shape="rect" id="node5" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#abe81e6ca20b66d9bb49072e18a7e1a1e" title="Hyperbolic Tangent of a Complex32 number. " alt="" coords="295,187,528,214"/>
+</map>

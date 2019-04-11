@@ -1,0 +1,7 @@
+<map id="BGC.Audio.Midi.MidiTrack.ExecuteRunningEvent" name="BGC.Audio.Midi.MidiTrack.ExecuteRunningEvent">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_channel_pressure_midi_event.html#aaa3673fc06fbb5e56bbd45697c44fc4b" title="BGC.Audio.Midi.Events.Channel\lPressureMidiEvent.Serialize" alt="" coords="239,5,452,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_pitch_bend_midi_event.html#ae9310c364d941bc9faa6257ecf5e0026" title="BGC.Audio.Midi.Events.Pitch\lBendMidiEvent.Serialize" alt="" coords="248,71,443,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_program_midi_event.html#a3f2c3dce1ee1b6f5ea11c623a15c1ec4" title="BGC.Audio.Midi.Events.Program\lMidiEvent.Serialize" alt="" coords="238,136,453,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_note_midi_event.html#ab1060b6f26cb234695f3028fc4d2a1fa" title="BGC.Audio.Midi.Events.Note\lMidiEvent.Serialize" alt="" coords="249,201,442,243"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#a8d113ae0887cb2513c57e94317fe4cbb" title="BGC.Audio.Midi.Events.Controller\lMidiEvent.Serialize" alt="" coords="235,267,456,308"/>
+</map>

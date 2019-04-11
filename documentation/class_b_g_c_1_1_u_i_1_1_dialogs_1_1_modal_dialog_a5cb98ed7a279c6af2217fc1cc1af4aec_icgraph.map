@@ -1,0 +1,5 @@
+<map id="BGC.UI.Dialogs.ModalDialog.SetBodyText" name="BGC.UI.Dialogs.ModalDialog.SetBodyText">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#ad10c23a52239eb4f0fe85f90f1142802" title="Show the modal dialog in the indicated mode, and call the callback when it receives a response ..." alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#a6aa8730793d038c22f2488cffb7c4365" title="Show the modal dialog in the indicated mode, and call the callback when it receives a response ..." alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#a7a8f97b34051198ec5724f12c2d6be25" title="Show the modal dialog in the indicated mode, and call the callback when it receives a response ..." alt="" coords="251,136,448,177"/>
+</map>

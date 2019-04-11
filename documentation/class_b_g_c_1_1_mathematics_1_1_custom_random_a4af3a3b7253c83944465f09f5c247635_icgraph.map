@@ -1,0 +1,10 @@
+<map id="BGC.Mathematics.CustomRandom.Next" name="BGC.Mathematics.CustomRandom.Next">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_noise_stream.html#a7da7d2b9f734931ae80f72e134ad2bda" title="BGC.Audio.AnalyticStreams.\lAnalyticNoiseStream.AnalyticNoise\lStream" alt="" coords="315,5,545,61"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_carlile_shuffler.html#afc579adfbec102c7b871d76a795dacdf" title="BGC.Audio.Filters.Carlile\lShuffler.CarlileShuffler" alt="" coords="345,85,515,126"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_cross_fading_ref_clip.html#a47b749cf32a07ca42f7c554b4c262943" title="BGC.Audio.CrossFadingRef\lClip.CrossFadingRefClip" alt="" coords="337,150,523,191"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_noise_audio_clip.html#aea7528e10e21081e0836f654a810b7dd" title="BGC.Audio.Synthesis.Noise\lAudioClip.NoiseAudioClip" alt="" coords="336,215,524,257"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_cross_fading_ref_clip.html#a8eb1729105fd1b127dc27096c255d53f" title="Sets this internal state of this stream to the initial state " alt="" coords="337,281,523,322"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_s_t_m_audio_clip.html#a7c3b1f4cec76cd0831da16d6a587e63b" title="BGC.Audio.Synthesis.STMAudio\lClip.STMAudioClip" alt="" coords="323,346,537,387"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_sweep_audio_clip.html#a50c3b72401fee018e4eceedd0ecd44c7" title="BGC.Audio.Synthesis.Sweep\lAudioClip.SweepAudioClip" alt="" coords="333,411,527,453"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_white_noise_stream.html#a07ca623de6a2c6bfeb0ab8b9f11a09cb" title="BGC.Audio.Synthesis.White\lNoiseStream.WhiteNoiseStream" alt="" coords="324,477,536,518"/>
+</map>

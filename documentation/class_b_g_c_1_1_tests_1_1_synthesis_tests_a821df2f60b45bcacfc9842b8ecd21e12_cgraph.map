@@ -1,0 +1,7 @@
+<map id="BGC.Tests.SynthesisTests.TestFMFilterSynth" name="BGC.Tests.SynthesisTests.TestFMFilterSynth">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a9168ece461f39346cb82e1d0360761b7" title="BGC.Audio.Calibration.Initialize" alt="" coords="240,42,447,69"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="501,5,708,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_i_o_1_1_file_reader.html#ab92af1798c24dc57622a6d22faabc095" title="Offers two error callbacks for when a file is not found and for when a file failed to parse correctly..." alt="" coords="495,71,715,98"/>
+<area shape="rect" id="node5" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a95a87d70bbe7763caab326c72317cfb5" title="Creates a JsonValue by reading the given file. " alt="" coords="763,64,920,105"/>
+<area shape="rect" id="node6" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a4a2f0692bf9dec28417fe83924ac7380" title="LightJson.Serialization.\lJsonReader.Parse" alt="" coords="968,64,1125,105"/>
+</map>

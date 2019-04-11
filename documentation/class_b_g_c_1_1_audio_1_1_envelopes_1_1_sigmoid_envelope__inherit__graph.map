@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Envelopes.SigmoidEnvelope" name="BGC.Audio.Envelopes.SigmoidEnvelope">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_b_g_c_envelope_stream.html" title="BGCEnvelopeStream" alt="" coords="34,80,181,107"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="IBGCEnvelopeStream" alt="" coords="32,5,183,32"/>
+</map>

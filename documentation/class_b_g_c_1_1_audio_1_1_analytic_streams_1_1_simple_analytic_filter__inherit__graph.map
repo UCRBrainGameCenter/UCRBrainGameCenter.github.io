@@ -1,0 +1,11 @@
+<map id="BGC.Audio.AnalyticStreams.SimpleAnalyticFilter" name="BGC.Audio.AnalyticStreams.SimpleAnalyticFilter">
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_a_d_s_r_envelope.html" title="BGC.Audio.AnalyticStreams.\lAnalyticADSREnvelope" alt="" coords="585,5,777,47"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_frequency_modulation_filter.html" title="Applies FrequencyModulation to the underlying stream, in the frequency domain. Utilizes the FFT Shift..." alt="" coords="569,71,792,112"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_centerer.html" title="A Decorator class for AnalyticStreams that centers the stream, temporally, in a window. " alt="" coords="585,136,777,177"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_fork.html" title="BGC.Audio.AnalyticStreams.\lAnalyticStreamFork" alt="" coords="585,201,777,243"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_fork_1_1_internal_stream_fork.html" title="BGC.Audio.AnalyticStreams.\lAnalyticStreamFork.InternalStreamFork" alt="" coords="555,267,807,308"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_frequency_shifter.html" title="Applies FrequencyShift to the underlying stream. Utilizes the FFT Shift Theorem " alt="" coords="575,332,786,373"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_windower.html" title="A Decorator class for BGCAudioClips that windows and truncates underlying clip " alt="" coords="585,397,777,439"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html" title="Filters represent transformations of the AnalyticStream. " alt="" coords="168,209,267,235"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="5,209,120,235"/>
+</map>

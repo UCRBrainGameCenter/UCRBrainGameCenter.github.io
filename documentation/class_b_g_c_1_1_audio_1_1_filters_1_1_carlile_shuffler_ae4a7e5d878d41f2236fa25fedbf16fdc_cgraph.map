@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Filters.CarlileShuffler._Initialize" name="BGC.Audio.Filters.CarlileShuffler._Initialize">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_mathematics_1_1_fourier.html#a6000f88ea852c11ba0bc662d800bc66a" title="BGC.Mathematics.Fourier.\lForward" alt="" coords="235,5,414,47"/>
+<area shape="rect" id="node3" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html#a223138129f6f302d9f0340014b7ab062" title="Creates a complex number from a point&#39;s polar coordinates. " alt="" coords="223,71,427,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_frequency_domain.html#a6b0bf73b1a11f669322c531a51376267" title="BGC.Audio.FrequencyDomain.\lGetComplexFrequencyBin" alt="" coords="223,136,426,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_mathematics_1_1_fourier.html#ae246feca381e5d65d227c13ba935e759" title="BGC.Mathematics.Fourier.\lInverse" alt="" coords="235,201,414,243"/>
+</map>

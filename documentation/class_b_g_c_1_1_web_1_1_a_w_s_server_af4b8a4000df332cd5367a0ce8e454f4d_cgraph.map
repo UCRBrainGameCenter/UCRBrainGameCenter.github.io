@@ -1,4 +1,0 @@
-<map id="BGC.Web.AWSServer.PostToAWS" name="BGC.Web.AWSServer.PostToAWS">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_web_1_1_utility_1_1_rest.html#adda09790009db7cdecd9eca3d0f3ca1d" title="Send a post request " alt="" coords="295,5,477,47"/>
-<area shape="rect" id="node3" href="$class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="285,71,487,98"/>
-</map>

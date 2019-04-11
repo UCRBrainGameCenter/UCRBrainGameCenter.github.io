@@ -1,0 +1,4 @@
+<map id="BGC.UI.Panels.ModePanelManager.SetPanelActive" name="BGC.UI.Panels.ModePanelManager.SetPanelActive">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html#a0bfda2cdc21d811f7dada0594dbbca2b" title="BGC.UI.Panels.ModePanel.\lFocusAcquired" alt="" coords="289,5,476,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html#af18b495144bea79a0a816ce44fbad808" title="BGC.UI.Panels.ModePanel.\lFocusLost" alt="" coords="289,71,476,112"/>
+</map>

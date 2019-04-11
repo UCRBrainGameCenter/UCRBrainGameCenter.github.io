@@ -1,0 +1,12 @@
+<map id="BGC.Mathematics.Complex32.Cosh" name="BGC.Mathematics.Complex32.Cosh">
+<area shape="rect" id="node2" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a6362593623d5ad3c081774b3d319b7a6" title="Common Logarithm of this Complex32 (Base 10). " alt="" coords="307,5,511,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#a86cbe8397d82b6daf5d885b9604ed97d" title="Hyperbolic Cosine " alt="" coords="288,71,531,98"/>
+<area shape="rect" id="node5" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a6fbf5412ba16cadbc89b2bc43e5b967e" title="Returns e raised to the power specified by a complex number. " alt="" coords="579,151,805,178"/>
+<area shape="rect" id="node6" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a7f266ee93ab964d178b0c8755e4c460a" title="Exponential of this Complex32 (exp(x), E^x). " alt="" coords="307,173,511,215"/>
+<area shape="rect" id="node7" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a1b2905e5929050908cafd78a252b1e6c" title="Logarithm of this Complex32 with custom base. " alt="" coords="307,239,511,280"/>
+<area shape="rect" id="node8" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a219b5886e62e1b769e0c715db59ec510" title="Natural Logarithm of this Complex32 (Base E). " alt="" coords="307,304,511,345"/>
+<area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a5f434913f23c1a8cf0937db24c36a1df" title="Raise this Complex32 to the given value. " alt="" coords="307,369,511,411"/>
+<area shape="rect" id="node10" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a06d97852f769d695078fa5367789b906" title="Returns the multiplicative inverse of a complex number. " alt="" coords="307,435,511,476"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#aa01ae89150904e062650a2de51856547" title="Hyperbolic Sine " alt="" coords="290,501,529,527"/>
+<area shape="rect" id="node3" href="$struct_b_g_c_1_1_mathematics_1_1_complex32.html#a0988746487e40c853c121c7ceafa2eb0" title="Returns the natural (base e) logarithm of a specified complex number. " alt="" coords="579,13,805,39"/>
+</map>

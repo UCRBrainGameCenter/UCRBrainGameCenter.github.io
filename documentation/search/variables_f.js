@@ -1,5 +1,20 @@
 var searchData=
 [
-  ['oganization',['Oganization',['../class_b_g_c_1_1_web_1_1_a_w_s_server_1_1_body_keys.html#a63f6dc7347b0b4a17490f01396f61c86',1,'BGC::Web::AWSServer::BodyKeys']]],
-  ['otherwise',['OTHERWISE',['../_l_i_c_e_n_s_e_8txt.html#ae4c7c54aef6c135b4520f2237dbcf7c6',1,'LICENSE.txt']]]
+  ['objectview',['ObjectView',['../class_light_json_1_1_json_value_1_1_json_value_debug_view.html#a0c237f99bc87e56cbac905a2723573ee',1,'LightJson::JsonValue::JsonValueDebugView']]],
+  ['oncheckin',['onCheckIn',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_constructing_pool.html#a7e04939f4d06150569092e50e6b09cd0',1,'BGC::DataStructures::Generic::ConstructingPool']]],
+  ['oncheckout',['onCheckOut',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_constructing_pool.html#a8fb478cc81835ae5e93daea97b52ec62',1,'BGC::DataStructures::Generic::ConstructingPool']]],
+  ['oncreate',['onCreate',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_constructing_pool.html#aba4bae7ca80fc5b178f244e11efe370a',1,'BGC::DataStructures::Generic::ConstructingPool']]],
+  ['one',['One',['../struct_b_g_c_1_1_mathematics_1_1_complex32.html#a97821f350f0a07aad8ba50ae9384921f',1,'BGC.Mathematics.Complex32.One()'],['../struct_b_g_c_1_1_mathematics_1_1_complex64.html#a2165c98dc8af3bbcafdde642ac499379',1,'BGC.Mathematics.Complex64.One()']]],
+  ['onpoolcreate',['onPoolCreate',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_meta_pool.html#ade186481f81c98801475910ae72f0316',1,'BGC::DataStructures::Generic::MetaPool']]],
+  ['orderedlistofpanels',['orderedListOfPanels',['../class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_manager.html#a20c1c04b87859a210ec678d88fc56a1f',1,'BGC::UI::Panels::ModePanelManager']]],
+  ['organization',['organization',['../struct_b_g_c_1_1_utility_1_1_migration_data.html#a39b9b2a3f1e9faafa80e9f4c09ec843f',1,'BGC::Utility::MigrationData']]],
+  ['outputaccumulation',['outputAccumulation',['../class_b_g_c_1_1_audio_1_1_filters_1_1_convolution_filter.html#a0cc4e2dd39611fafc00b86626694d5ae',1,'BGC.Audio.Filters.ConvolutionFilter.outputAccumulation()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_multi_convolution_filter.html#a41943ab875fcbe45873e6226c3e3b477',1,'BGC.Audio.Filters.MultiConvolutionFilter.outputAccumulation()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#aef266742b69b35f44616040842b44464',1,'BGC.Audio.Filters.PhaseVocoder.outputAccumulation()'],['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#a139114e70b5217d7e28ead6c9e6b74c7',1,'BGC.Audio.Synthesis.FrequencyDomainToneComposer.outputAccumulation()']]],
+  ['outputbuffer',['outputBuffer',['../class_b_g_c_1_1_audio_1_1_filters_1_1_all_pass_filter.html#a58d6d559d756200fe713414afe386f96',1,'BGC::Audio::Filters::AllPassFilter']]],
+  ['outputpath',['outputPath',['../class_b_g_c_1_1_audio_1_1_spatialization_1_1_impulse_extraction.html#a894280122ee4f895bf1e1c47d5a424f7',1,'BGC::Audio::Spatialization::ImpulseExtraction']]],
+  ['outputsamples',['outputSamples',['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#ad72b8b06883312d65a043df89e0baf02',1,'BGC::Audio::Filters::PhaseVocoder']]],
+  ['outputscalar',['outputScalar',['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#a06ff6b5ee2ab52e2770d63f7a07dd068',1,'BGC.Audio.Filters.PhaseVocoder.outputScalar()'],['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#a6a5f264c2211ef068a23481b1914bdaf',1,'BGC.Audio.Synthesis.FrequencyDomainToneComposer.outputScalar()']]],
+  ['outputstep',['outputStep',['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#a55e2ec8511753a25659db73c9f3e112d',1,'BGC::Audio::Filters::PhaseVocoder']]],
+  ['overlap',['OVERLAP',['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#a3dc10a3d57bb0eed07a914f5a2803b04',1,'BGC.Audio.Synthesis.FrequencyDomainToneComposer.OVERLAP()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#a0df8a1ef2760e5c6b99f2dffc53152ba',1,'BGC.Audio.Filters.PhaseVocoder.overlap()']]],
+  ['overlap_5ffactor',['OVERLAP_FACTOR',['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#aa3abdebdb39b9478f002440f99afa61d',1,'BGC.Audio.Filters.PhaseVocoder.OVERLAP_FACTOR()'],['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_frequency_domain_tone_composer.html#a7244ced3ac5ce950eefc71b20c0d63b6',1,'BGC.Audio.Synthesis.FrequencyDomainToneComposer.OVERLAP_FACTOR()']]],
+  ['ownsstream',['ownsStream',['../class_b_g_c_1_1_i_o_1_1_sub_stream.html#a0c2a3f7bcd2b5b89e7b2bc5da5e22704',1,'BGC::IO::SubStream']]]
 ];

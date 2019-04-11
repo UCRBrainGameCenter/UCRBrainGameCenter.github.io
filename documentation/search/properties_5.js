@@ -1,16 +1,11 @@
 var searchData=
 [
   ['indentstring',['IndentString',['../class_light_json_1_1_serialization_1_1_json_writer.html#a0ebc79521a2773ceaddaf845068ab624',1,'LightJson::Serialization::JsonWriter']]],
-  ['isboolean',['IsBoolean',['../struct_light_json_1_1_json_value.html#af70c1fbc8844d71a081c9ae3388bfe2e',1,'LightJson::JsonValue']]],
-  ['isdatetime',['IsDateTime',['../struct_light_json_1_1_json_value.html#a968cdb3e25d987da1ae5ccc77c62f81f',1,'LightJson::JsonValue']]],
+  ['innerwriter',['InnerWriter',['../class_light_json_1_1_serialization_1_1_json_writer.html#a2e0de209f8521ff579ca7df744e3cc92',1,'LightJson::Serialization::JsonWriter']]],
+  ['instrumentname',['InstrumentName',['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a4f2cf4298cdf4d0d0a281deda93f8750',1,'BGC::Audio::Midi::MidiTrack']]],
+  ['internalstreams',['InternalStreams',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html#a5c16a79dfcb5d87c1ed9e1f593304e27',1,'BGC.Audio.AnalyticStreams.AnalyticFilter.InternalStreams()'],['../class_b_g_c_1_1_audio_1_1_envelopes_1_1_b_g_c_envelope_filter.html#a4923694e4c725bf358929692c8176d3b',1,'BGC.Audio.Envelopes.BGCEnvelopeFilter.InternalStreams()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html#a1e51c41d82df489590ffe98ed83ec55d',1,'BGC.Audio.Filters.BGCFilter.InternalStreams()'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html#ad773128ea5ebbadafe90002a9c94f360',1,'BGC.Audio.Filters.SimpleBGCFilter.InternalStreams()']]],
+  ['isdefault',['IsDefault',['../class_b_g_c_1_1_users_1_1_profile_data.html#ad08e4d5265b42293287b88b64fd85d96',1,'BGC::Users::ProfileData']]],
   ['isinteger',['IsInteger',['../struct_light_json_1_1_json_value.html#a9e68d837b609a9f90cbc5e8b3dfd0503',1,'LightJson::JsonValue']]],
-  ['isinternalnode',['IsInternalNode',['../struct_b_g_c_1_1_data_structures_1_1_generic_1_1_node.html#a37cff2c1cb645eaebe3dd773ccb8f36b',1,'BGC::DataStructures::Generic::Node']]],
-  ['isjsonarray',['IsJsonArray',['../struct_light_json_1_1_json_value.html#ab76b867f479845a414daef54f2f59243',1,'LightJson::JsonValue']]],
-  ['isjsonobject',['IsJsonObject',['../struct_light_json_1_1_json_value.html#aa470cde1e6b75b34745c2f150f671f89',1,'LightJson::JsonValue']]],
-  ['isleaf',['IsLeaf',['../struct_b_g_c_1_1_data_structures_1_1_generic_1_1_node.html#a7cfb557bbc70f7e56aee948e0ffa6a65',1,'BGC::DataStructures::Generic::Node']]],
-  ['isnull',['IsNull',['../struct_light_json_1_1_json_value.html#a4f58f7a19e3b4c7a6386bd5ed8ea6914',1,'LightJson::JsonValue']]],
-  ['isnumber',['IsNumber',['../struct_light_json_1_1_json_value.html#a40017e8fcc4a39748507a2f8f30bc4f1',1,'LightJson::JsonValue']]],
-  ['isreadonly',['IsReadOnly',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_depletable_bag.html#a87e925c94e15f2353974a6cf84012b15',1,'BGC.DataStructures.Generic.DepletableBag.IsReadOnly()'],['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_depletable_list.html#ae973206971a39e27ef2bed7981f50bf6',1,'BGC.DataStructures.Generic.DepletableList.IsReadOnly()'],['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer.html#ab03e4efe4e66bdec43107c2adc88f72e',1,'BGC.DataStructures.Generic.RingBuffer.IsReadOnly()']]],
-  ['isstring',['IsString',['../struct_light_json_1_1_json_value.html#a206b632fc4e9df5e87a42265bc1476f2',1,'LightJson::JsonValue']]],
+  ['islocked',['IsLocked',['../class_b_g_c_1_1_users_1_1_player_data.html#a59541b271ef3ebac262d667afe017359',1,'BGC::Users::PlayerData']]],
   ['items',['Items',['../class_light_json_1_1_json_array_1_1_json_array_debug_view.html#ae4013cecc4ac808ae1768ba47ee597cc',1,'LightJson::JsonArray::JsonArrayDebugView']]]
 ];

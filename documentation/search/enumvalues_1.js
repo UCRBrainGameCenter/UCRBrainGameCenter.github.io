@@ -1,4 +1,25 @@
 var searchData=
 [
-  ['boolean',['Boolean',['../namespace_light_json.html#a4c881ff1639e6c95644e020503380072a27226c864bac7454a8504f8edb15d95b',1,'LightJson']]]
+  ['a',['A',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#a97caa0e769501cf0891459d32ceb2c39a7fc56270e7a70fa81a5935b72eacbe29',1,'BGC.UI.Dialogs.ModalDialog.A()'],['../namespace_b_g_c_1_1_audio_1_1_midi_1_1_synth.html#aacbf50ea37fecd7f30bde11cd8be8118a7fc56270e7a70fa81a5935b72eacbe29',1,'BGC.Audio.Midi.Synth.A()']]],
+  ['a_5flaw',['A_Law',['../class_b_g_c_1_1_audio_1_1_wave_encoding.html#a04964f3e5743c5548c3ca18030b5e68dac3b1dbf4fec0ca5ad9ac2204df4352d6',1,'BGC::Audio::WaveEncoding']]],
+  ['abc',['ABC',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#ace19a89480c1879bc721fce388067d7fa902fbdd2b1df0c4f70b4a5d23525e932',1,'BGC::UI::Dialogs::ModalDialog']]],
+  ['accept',['Accept',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#a97caa0e769501cf0891459d32ceb2c39ac4408d335012a56ff58937d78050efad',1,'BGC.UI.Dialogs.ModalDialog.Accept()'],['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#ace19a89480c1879bc721fce388067d7fac4408d335012a56ff58937d78050efad',1,'BGC.UI.Dialogs.ModalDialog.Accept()']]],
+  ['accordion',['Accordion',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a4d5aae0b218a0bb62ff4513b66fc34d0',1,'BGC::Audio::Midi']]],
+  ['acousticbass',['AcousticBass',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a3f7410deb647af528e96bddcfc830be8',1,'BGC::Audio::Midi']]],
+  ['acousticbassdrum',['AcousticBassDrum',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a02c05c768f9f2617c10476e4a50d8d39',1,'BGC::Audio::Midi']]],
+  ['acousticgrandpiano',['AcousticGrandPiano',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a122c178a05ade736c2cfdc2a6c2e4cc8',1,'BGC::Audio::Midi']]],
+  ['acousticguitar_5fnylon',['AcousticGuitar_Nylon',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076abfe82eb85f3aab9ce0f97b28a76ba669',1,'BGC::Audio::Midi']]],
+  ['acousticguitar_5fsteel',['AcousticGuitar_Steel',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a4ed8534e87bd7e2aa86d24174654ec1b',1,'BGC::Audio::Midi']]],
+  ['acousticsnare',['AcousticSnare',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a363a54bdae2e296e0dde225f0131647f',1,'BGC::Audio::Midi']]],
+  ['activesensing',['ActiveSensing',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_system_real_time_midi_event.html#ad8eba42a792063de4c941d96df7e9333a3c7c00966421fa6a30941853ca8f2344',1,'BGC::Audio::Midi::Events::SystemRealTimeMidiEvent']]],
+  ['agogo',['Agogo',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a1bc6aa91732e863034b180743cd8f457',1,'BGC::Audio::Midi']]],
+  ['allnotesoff',['AllNotesOff',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a0e78b38d13b37daf46729e3fb1b4a355',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['allsoundoff',['AllSoundOff',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978adac9e89408c0cf90504e1a52fe734c2c',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['altosax',['AltoSax',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076ab08d61ac55aa9b7c713e9a591f64ec9d',1,'BGC::Audio::Midi']]],
+  ['any',['Any',['../class_b_g_c_1_1_state_machine_1_1_state_machine.html#a3b867dc8a86a843d24a2bf826fff6316aed36a1ef76a59ee3f15180e0441188ad',1,'BGC::StateMachine::StateMachine']]],
+  ['applause',['Applause',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076af8854f1fb9f4f57bf0d861c03528ce4c',1,'BGC::Audio::Midi']]],
+  ['array',['Array',['../namespace_light_json.html#a4c881ff1639e6c95644e020503380072a4410ec34d9e6c1a68100ca0ce033fb17',1,'LightJson']]],
+  ['asharp',['ASharp',['../namespace_b_g_c_1_1_audio_1_1_midi_1_1_synth.html#aacbf50ea37fecd7f30bde11cd8be8118a261d31397110c1544a4e161526865c43',1,'BGC::Audio::Midi::Synth']]],
+  ['attackdown',['AttackDown',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_a_d_s_r_envelope.html#a194acd9f35cfeefac4dfc9bf331773a2a5b1de6c718c8fe262a170389c65d72d9',1,'BGC.Audio.AnalyticStreams.AnalyticADSREnvelope.AttackDown()'],['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_a_d_s_r_envelope.html#a3d661f3c4ffa21a6f33fb40ff55c4a76a5b1de6c718c8fe262a170389c65d72d9',1,'BGC.Audio.Synthesis.ADSREnvelope.AttackDown()']]],
+  ['attackup',['AttackUp',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_a_d_s_r_envelope.html#a194acd9f35cfeefac4dfc9bf331773a2a5fa7f29151be9cf361c259e4eda6f349',1,'BGC.Audio.AnalyticStreams.AnalyticADSREnvelope.AttackUp()'],['../class_b_g_c_1_1_audio_1_1_synthesis_1_1_a_d_s_r_envelope.html#a3d661f3c4ffa21a6f33fb40ff55c4a76a5fa7f29151be9cf361c259e4eda6f349',1,'BGC.Audio.Synthesis.ADSREnvelope.AttackUp()']]]
 ];

@@ -1,0 +1,5 @@
+<map id="BGC.Audio.BGCStreamExtensions.Spatialize" name="BGC.Audio.BGCStreamExtensions.Spatialize">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_spatial.html#af59e0b6c9cfda4a48f915830ff9efa5e" title="BGC.Audio.Spatial.GetFilter" alt="" coords="285,13,472,39"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0791f690a8a6e56f838a5577f45009ed" title="Loads a WAV file from the filepath as a SimpleAudioClip, returns success. " alt="" coords="520,5,732,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_linear_interpolation.html#a18236684e65433e1d6bec026714e1c9b" title="BGC.Audio.LinearInterpolation.\lResample" alt="" coords="780,5,983,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BGC.Users.ProfileData" name="BGC.Users.ProfileData">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_users_1_1_default_data.html" title="Class to handle the default playerdata that is used when a player isn&#39;t logged in. " alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_users_1_1_user_data.html" title="BGC.Users.UserData" alt="" coords="193,80,344,107"/>
+</map>

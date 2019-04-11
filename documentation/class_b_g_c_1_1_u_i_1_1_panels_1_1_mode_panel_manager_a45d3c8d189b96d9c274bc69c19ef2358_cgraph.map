@@ -1,0 +1,6 @@
+<map id="BGC.UI.Panels.ModePanelManager.SpecialSetPanelActive" name="BGC.UI.Panels.ModePanelManager.SpecialSetPanelActive">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html#a0bfda2cdc21d811f7dada0594dbbca2b" title="BGC.UI.Panels.ModePanel.\lFocusAcquired" alt="" coords="289,5,476,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html#af18b495144bea79a0a816ce44fbad808" title="BGC.UI.Panels.ModePanel.\lFocusLost" alt="" coords="289,71,476,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html#a9e7f093d44e47820612d54609d5136e7" title="BGC.UI.Panels.ModePanel.\lImmediateStateSet" alt="" coords="289,136,476,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_copy_panel.html#ada8bd30cd8b767669d910a8b8cd97e45" title="BGC.UI.Panels.CopyPanel.\lTakeSnapshot" alt="" coords="290,201,475,243"/>
+</map>

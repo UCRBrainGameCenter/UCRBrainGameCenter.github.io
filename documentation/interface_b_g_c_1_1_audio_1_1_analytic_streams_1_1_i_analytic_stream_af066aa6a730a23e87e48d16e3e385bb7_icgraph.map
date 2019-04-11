@@ -1,0 +1,4 @@
+<map id="BGC.Audio.AnalyticStreams.IAnalyticStream.Read" name="BGC.Audio.AnalyticStreams.IAnalyticStream.Read">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_extensions.html#a4a83f1cea5d7be908d6d89ee959f4b55" title="Slowest Backup Alternative for calculating RMS " alt="" coords="245,5,511,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_adder.html#a5121ca6ff58675369d507ddf9d62892b" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="282,71,474,112"/>
+</map>

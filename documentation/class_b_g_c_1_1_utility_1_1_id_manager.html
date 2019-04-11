@@ -105,9 +105,17 @@ Collaboration diagram for BGC.Utility.IdManager:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:ad009af92aa4001211a6d83813e4ac22a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_utility_1_1_id_manager.html#ad009af92aa4001211a6d83813e4ac22a">IdManager</a> ()</td></tr>
+<tr class="memdesc:ad009af92aa4001211a6d83813e4ac22a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Empty construct that starts ids at 0  <a href="#ad009af92aa4001211a6d83813e4ac22a">More...</a><br /></td></tr>
+<tr class="separator:ad009af92aa4001211a6d83813e4ac22a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf3493eb99fe7d5977a04021cbe58c15"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_utility_1_1_id_manager.html#adf3493eb99fe7d5977a04021cbe58c15">IdManager</a> (bool humanFriendlyIds)</td></tr>
+<tr class="memdesc:adf3493eb99fe7d5977a04021cbe58c15"><td class="mdescLeft">&#160;</td><td class="mdescRight">Construct id manager where the ids can either start at 0 or at the lowest possible integer value  <a href="#adf3493eb99fe7d5977a04021cbe58c15">More...</a><br /></td></tr>
+<tr class="separator:adf3493eb99fe7d5977a04021cbe58c15"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae2cca89ee1a3ab42345137d97b81b949"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_utility_1_1_id_manager.html#ae2cca89ee1a3ab42345137d97b81b949">Reset</a> ()</td></tr>
+<tr class="memdesc:ae2cca89ee1a3ab42345137d97b81b949"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reset starting id to 0  <a href="#ae2cca89ee1a3ab42345137d97b81b949">More...</a><br /></td></tr>
 <tr class="separator:ae2cca89ee1a3ab42345137d97b81b949"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a51226d139bad5fb40364af52a15e8cc1"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a51226d139bad5fb40364af52a15e8cc1">GetId</a> ()</td></tr>
+<tr class="memdesc:a51226d139bad5fb40364af52a15e8cc1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get an unused id  <a href="#a51226d139bad5fb40364af52a15e8cc1">More...</a><br /></td></tr>
 <tr class="separator:a51226d139bad5fb40364af52a15e8cc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
@@ -118,7 +126,70 @@ Private Attributes</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
 <p>Definition at line <a class="el" href="_id_manager_8cs_source.html#l00003">3</a> of file <a class="el" href="_id_manager_8cs_source.html">IdManager.cs</a>.</p>
-</div><h2 class="groupheader">Member Function Documentation</h2>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a class="anchor" id="ad009af92aa4001211a6d83813e4ac22a"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">BGC.Utility.IdManager.IdManager </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Empty construct that starts ids at 0 </p>
+
+<p>Definition at line <a class="el" href="_id_manager_8cs_source.html#l00010">10</a> of file <a class="el" href="_id_manager_8cs_source.html">IdManager.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;{ }</div></div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="adf3493eb99fe7d5977a04021cbe58c15"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">BGC.Utility.IdManager.IdManager </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>humanFriendlyIds</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Construct id manager where the ids can either start at 0 or at the lowest possible integer value </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">humanFriendlyIds</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Definition at line <a class="el" href="_id_manager_8cs_source.html#l00017">17</a> of file <a class="el" href="_id_manager_8cs_source.html">IdManager.cs</a>.</p>
+<div class="fragment"><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        {</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;            <span class="keywordflow">if</span> (humanFriendlyIds == <span class="keyword">false</span>)</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;            {</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;                <a class="code" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">count</a> = <span class="keywordtype">int</span>.MinValue;</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;            }</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_id_manager_html_a23a1ecf8870027c746d7e61384f24688"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">BGC.Utility.IdManager.count</a></div><div class="ttdeci">int count</div><div class="ttdef"><b>Definition:</b> <a href="_id_manager_8cs_source.html#l00005">IdManager.cs:5</a></div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
 <a class="anchor" id="a51226d139bad5fb40364af52a15e8cc1"></a>
 <div class="memitem">
 <div class="memproto">
@@ -140,10 +211,13 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_id_manager_8cs_source.html#l00012">12</a> of file <a class="el" href="_id_manager_8cs_source.html">IdManager.cs</a>.</p>
+<p>Get an unused id </p>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
 
-<p>Referenced by <a class="el" href="_static_id_manager_8cs_source.html#l00012">BGC.Utility.StaticIdManager.GetId()</a>, and <a class="el" href="_stop_watch_8cs_source.html#l00030">BGC.Utility.StopWatch.StartTimer()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;        {</div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;            ++<a class="code" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">count</a>;</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;            <span class="keywordflow">return</span> <a class="code" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">count</a>;</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_id_manager_html_a23a1ecf8870027c746d7e61384f24688"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">BGC.Utility.IdManager.count</a></div><div class="ttdeci">int count</div><div class="ttdef"><b>Definition:</b> <a href="_id_manager_8cs_source.html#l00005">IdManager.cs:5</a></div></div>
+<p>Definition at line <a class="el" href="_id_manager_8cs_source.html#l00037">37</a> of file <a class="el" href="_id_manager_8cs_source.html">IdManager.cs</a>.</p>
+
+<p>Referenced by <a class="el" href="_static_id_manager_8cs_source.html#l00012">BGC.Utility.StaticIdManager.GetId()</a>.</p>
+<div class="fragment"><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        {</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;            ++<a class="code" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">count</a>;</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;            <span class="keywordflow">return</span> <a class="code" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">count</a>;</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_id_manager_html_a23a1ecf8870027c746d7e61384f24688"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">BGC.Utility.IdManager.count</a></div><div class="ttdeci">int count</div><div class="ttdef"><b>Definition:</b> <a href="_id_manager_8cs_source.html#l00005">IdManager.cs:5</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -151,7 +225,6 @@ Here is the caller graph for this function:</div>
 <div class="center"><img src="class_b_g_c_1_1_utility_1_1_id_manager_a51226d139bad5fb40364af52a15e8cc1_icgraph.png" border="0" usemap="#class_b_g_c_1_1_utility_1_1_id_manager_a51226d139bad5fb40364af52a15e8cc1_icgraph" alt=""/></div>
 <map name="class_b_g_c_1_1_utility_1_1_id_manager_a51226d139bad5fb40364af52a15e8cc1_icgraph" id="class_b_g_c_1_1_utility_1_1_id_manager_a51226d139bad5fb40364af52a15e8cc1_icgraph">
 <area shape="rect" id="node2" href="class_b_g_c_1_1_utility_1_1_static_id_manager.html#a3a4317e9b52278d89e870c2a50c24e0c" title="BGC.Utility.StaticIdManager.\lGetId" alt="" coords="244,5,436,47"/>
-<area shape="rect" id="node3" href="class_b_g_c_1_1_utility_1_1_stop_watch.html#a3f50d5b689caa03dadf50362ac3a5dba" title="Start a new timer " alt="" coords="245,71,435,112"/>
 </map>
 </div>
 </p>
@@ -179,10 +252,12 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="_id_manager_8cs_source.html#l00007">7</a> of file <a class="el" href="_id_manager_8cs_source.html">IdManager.cs</a>.</p>
+<p>Reset starting id to 0 </p>
+
+<p>Definition at line <a class="el" href="_id_manager_8cs_source.html#l00028">28</a> of file <a class="el" href="_id_manager_8cs_source.html">IdManager.cs</a>.</p>
 
 <p>Referenced by <a class="el" href="_static_id_manager_8cs_source.html#l00007">BGC.Utility.StaticIdManager.Reset()</a>.</p>
-<div class="fragment"><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;        {</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;            <a class="code" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">count</a> = -1;</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_id_manager_html_a23a1ecf8870027c746d7e61384f24688"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">BGC.Utility.IdManager.count</a></div><div class="ttdeci">int count</div><div class="ttdef"><b>Definition:</b> <a href="_id_manager_8cs_source.html#l00005">IdManager.cs:5</a></div></div>
+<div class="fragment"><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        {</div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;            <a class="code" href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">count</a> = -1;</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;        }</div><div class="ttc" id="class_b_g_c_1_1_utility_1_1_id_manager_html_a23a1ecf8870027c746d7e61384f24688"><div class="ttname"><a href="class_b_g_c_1_1_utility_1_1_id_manager.html#a23a1ecf8870027c746d7e61384f24688">BGC.Utility.IdManager.count</a></div><div class="ttdeci">int count</div><div class="ttdef"><b>Definition:</b> <a href="_id_manager_8cs_source.html#l00005">IdManager.cs:5</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -225,7 +300,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Oct 31 2018 13:46:34 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Thu Apr 11 2019 15:06:04 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

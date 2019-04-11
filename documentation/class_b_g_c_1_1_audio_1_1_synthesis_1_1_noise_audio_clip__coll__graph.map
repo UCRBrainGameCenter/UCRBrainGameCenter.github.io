@@ -1,0 +1,8 @@
+<map id="BGC.Audio.Synthesis.NoiseAudioClip" name="BGC.Audio.Synthesis.NoiseAudioClip">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_b_g_c_audio_clip.html" title="BGCAudioClip" alt="" coords="588,75,695,101"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream.html" title="BGCStream" alt="" coords="250,31,343,57"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node8" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="541,189,741,216"/>
+<area shape="rect" id="node9" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="209,135,384,161"/>
+<area shape="rect" id="node10" href="$class_i_formattable.html" title="IFormattable" alt="" coords="249,185,344,212"/>
+</map>

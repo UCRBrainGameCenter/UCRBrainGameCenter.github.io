@@ -1,3 +1,6 @@
 <map id="LightJson.JsonValue.operator==" name="LightJson.JsonValue.operator==">
-<area shape="rect" id="node2" href="$struct_light_json_1_1_json_value.html#abe1592e2bafd40680852ad64b995af5d" title="Returns a value indicating whether this JsonValue is equal to the given object. " alt="" coords="264,5,451,32"/>
+<area shape="rect" id="node2" href="$struct_light_json_1_1_json_value.html#abe1592e2bafd40680852ad64b995af5d" title="Returns a value indicating whether this JsonValue is equal to the given object. " alt="" coords="274,5,461,32"/>
+<area shape="rect" id="node3" href="$struct_light_json_1_1_json_value.html#a5ca2b8cdb5d80167844be60c1f5414e2" title="Returns a value indicating whether the two given JsonValues are unequal. " alt="" coords="264,56,471,83"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a4a2f0692bf9dec28417fe83924ac7380" title="LightJson.Serialization.\lJsonReader.Parse" alt="" coords="289,107,446,149"/>
+<area shape="rect" id="node5" href="$struct_light_json_1_1_json_value.html#a393b65df7ad4dc774a6eb5cdea26aecb" title="Returns a JsonValue by parsing the given string. " alt="" coords="277,173,458,200"/>
 </map>

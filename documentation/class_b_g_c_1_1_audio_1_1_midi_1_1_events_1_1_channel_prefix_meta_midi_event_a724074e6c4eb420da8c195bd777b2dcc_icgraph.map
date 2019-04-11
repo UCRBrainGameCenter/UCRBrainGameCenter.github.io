@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Midi.Events.ChannelPrefixMetaMidiEvent.ParseChannelPrefixMetaMidiEvent" name="BGC.Audio.Midi.Events.ChannelPrefixMetaMidiEvent.ParseChannelPrefixMetaMidiEvent">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_meta_midi_event.html#a341b441dca1f12d94ee02b80f41417e3" title="BGC.Audio.Midi.Events.Meta\lMidiEvent.ParseMetaEvent" alt="" coords="283,13,477,54"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html#a8c70e74743b9052a21ca7ac95597382b" title="BGC.Audio.Midi.Events.Midi\lEvent.ParseEvent" alt="" coords="525,13,715,54"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a67c25d6453c68faa36c914f7c376e232" title="BGC.Audio.Midi.MidiTrack.\lParseEvent" alt="" coords="763,13,944,54"/>
+</map>

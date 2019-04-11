@@ -1,0 +1,3 @@
+<map id="BGC.UI.Dialogs.ModalDialog.SetButtonText" name="BGC.UI.Dialogs.ModalDialog.SetButtonText">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#ad10c23a52239eb4f0fe85f90f1142802" title="Show the modal dialog in the indicated mode, and call the callback when it receives a response ..." alt="" coords="251,5,448,47"/>
+</map>

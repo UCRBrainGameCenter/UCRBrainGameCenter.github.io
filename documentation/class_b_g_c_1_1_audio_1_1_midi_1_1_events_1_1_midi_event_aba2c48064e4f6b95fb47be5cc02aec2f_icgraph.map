@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Midi.Events.MidiEvent.ExecuteEvent" name="BGC.Audio.Midi.Events.MidiEvent.ExecuteEvent">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a4e61df99acf49b9a5af62961bd2956e1" title="BGC.Audio.Midi.MidiTrack.Read" alt="" coords="243,13,455,39"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file_stream.html#ad2fc5731367335091173e645d1442a60" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="503,13,745,39"/>
+</map>

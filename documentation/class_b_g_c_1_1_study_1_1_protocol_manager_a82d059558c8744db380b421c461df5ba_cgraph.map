@@ -1,0 +1,4 @@
+<map id="BGC.Study.ProtocolManager.SerializeAll" name="BGC.Study.ProtocolManager.SerializeAll">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#a92b52d8a3ba1c8c86a9fecc895b78485" title="Returns the full path to the dataDirectory &#160;directory. " alt="" coords="248,5,455,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_file_writer.html#af5ac95f7dcfef62ec9d18b818d2ac1c0" title="BGC.IO.FileWriter.WriteJson" alt="" coords="255,71,447,98"/>
+</map>

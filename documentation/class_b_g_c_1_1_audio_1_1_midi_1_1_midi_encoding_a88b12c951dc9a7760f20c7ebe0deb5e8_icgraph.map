@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Midi.MidiEncoding.LoadFile" name="BGC.Audio.Midi.MidiEncoding.LoadFile">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aea1217f08213ee346b72a8b1d6a25afc" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiBare" alt="" coords="256,5,463,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ad306247ac46729f4f347afbb992fd897" title="BGC.Tests.MidiEncodingTests.\lTestLoadSaveMidiFull" alt="" coords="256,71,463,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aac6b9d27b63c8e50447c9d36ff25ec06" title="BGC.Tests.MidiEncodingTests.\lTestRenderMidi" alt="" coords="256,136,463,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aa208a3737c189a9e7b2d4c2971ee0bc3" title="BGC.Tests.MidiEncodingTests.\lTestRenderToccataMidi" alt="" coords="256,201,463,243"/>
+</map>

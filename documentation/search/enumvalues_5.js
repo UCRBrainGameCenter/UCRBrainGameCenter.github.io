@@ -1,4 +1,29 @@
 var searchData=
 [
-  ['max',['Max',['../class_b_g_c_1_1_state_machine_1_1_state_machine.html#a3b867dc8a86a843d24a2bf826fff6316a6a061313d22e51e0f25b7cd4dc065233',1,'BGC::StateMachine::StateMachine']]]
+  ['e',['E',['../namespace_b_g_c_1_1_audio_1_1_midi_1_1_synth.html#aacbf50ea37fecd7f30bde11cd8be8118a3a3ea00cfc35332cedf6e5e9a32e94da',1,'BGC::Audio::Midi::Synth']]],
+  ['effectcontrol_5f01_5flsb',['EffectControl_01_LSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978af3d6d191addb7f821846cf8424b575d4',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effectcontrol_5f01_5fmsb',['EffectControl_01_MSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a54684053b296ef0565708e9870e13542',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effectcontrol_5f02_5flsb',['EffectControl_02_LSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a3706f1ea82888fe082b8097ab742293e',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effectcontrol_5f02_5fmsb',['EffectControl_02_MSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a717a38b1ce5876e35c82eb8d766c0662',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effects_5f01_5fdepth',['Effects_01_Depth',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a8ef2e314cdf97522a5f34fb4766c0557',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effects_5f02_5fdepth',['Effects_02_Depth',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978aa27d0a548dd811490877639a9f149998',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effects_5f03_5fdepth',['Effects_03_Depth',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978ae2fa3a0441fbd73ba21604229eb73842',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effects_5f04_5fdepth',['Effects_04_Depth',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978ab6c1b2dfff20f2df9cc8508e66a49d19',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['effects_5f05_5fdepth',['Effects_05_Depth',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a3bfd88ff796d7c1fa7a13268a9540e53',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['electricbass_5ffinger',['ElectricBass_Finger',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a6f12b3d2892985bb905c072302ecb8e2',1,'BGC::Audio::Midi']]],
+  ['electricbass_5fpick',['ElectricBasS_Pick',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a1dd7afc6fd4003aae316bfdc6b6f2a6f',1,'BGC::Audio::Midi']]],
+  ['electricgrandpiano',['ElectricGrandPiano',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076ac5635ad07b3c720bb8e92689ee9a58f8',1,'BGC::Audio::Midi']]],
+  ['electricguitar_5fclean',['ElectricGuitar_Clean',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a12fc02c558dc2b8059463cdf1b6db4c6',1,'BGC::Audio::Midi']]],
+  ['electricguitar_5fjazz',['ElectricGuitar_Jazz',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076af87961a7fa969a53886d3fe91065bd23',1,'BGC::Audio::Midi']]],
+  ['electricguitar_5fmuted',['ElectricGuitar_Muted',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a6524f7658c59ef1af9feea9d6fe4710a',1,'BGC::Audio::Midi']]],
+  ['electricpiano1',['ElectricPiano1',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a7536419022e8c557a191352c80438762',1,'BGC::Audio::Midi']]],
+  ['electricpiano2',['ElectricPiano2',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076afa89a5a74b1fc7ba182d77f5891dd679',1,'BGC::Audio::Midi']]],
+  ['electricsnare',['ElectricSnare',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6ab926eec22138073773effacbc156a4d7',1,'BGC::Audio::Midi']]],
+  ['endofsystemexclusive',['EndOfSystemExclusive',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_system_common_midi_event.html#a31352cddec1ce3e15e528d752d035a4da875da3eb2d8bcb8ff015a5faed526eee',1,'BGC::Audio::Midi::Events::SystemCommonMidiEvent']]],
+  ['endoftrack',['EndOfTrack',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_meta_midi_event.html#af6f8db10c8bc564952932c5fffc4c3a6a93a4b528d20b72d6943541364ee98dd0',1,'BGC::Audio::Midi::Events::MetaMidiEvent']]],
+  ['englishhorn',['EnglishHorn',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a3c7a0046df6301dc164ba31b7b4223c9',1,'BGC::Audio::Midi']]],
+  ['escape',['Escape',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_sysex_midi_event.html#a9c081bc078697a30955335487a483e58a013ec032d3460d4be4431c6ab1f8f224',1,'BGC::Audio::Midi::Events::SysexMidiEvent']]],
+  ['expressioncontroller_5flsb',['ExpressionController_LSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a697db3f10fcc58047dcae344101ef5bb',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['expressioncontroller_5fmsb',['ExpressionController_MSB',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a5ebf5dd3428a8f9ba69e7610f0611df5',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['extensible',['Extensible',['../class_b_g_c_1_1_audio_1_1_wave_encoding.html#a04964f3e5743c5548c3ca18030b5e68dacb9e3624404af6e2ec52e3a39d5358a7',1,'BGC::Audio::WaveEncoding']]]
 ];

@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Synthesis.FrequencyDomainToneComposer" name="BGC.Audio.Synthesis.FrequencyDomainToneComposer">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream.html" title="BGCStream" alt="" coords="66,80,159,107"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="64,5,161,32"/>
+</map>

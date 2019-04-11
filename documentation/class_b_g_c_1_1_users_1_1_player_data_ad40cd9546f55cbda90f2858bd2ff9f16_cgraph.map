@@ -1,0 +1,4 @@
+<map id="BGC.Users.PlayerData.AddUser" name="BGC.Users.PlayerData.AddUser">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a955fbf814b5e7b00ba9d50bd621f6d7a" title="Save contents to file " alt="" coords="268,5,481,32"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_file_writer.html#af5ac95f7dcfef62ec9d18b818d2ac1c0" title="BGC.IO.FileWriter.WriteJson" alt="" coords="529,5,721,32"/>
+</map>

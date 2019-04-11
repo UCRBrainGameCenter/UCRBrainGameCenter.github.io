@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Midi.MidiTrack.ExecuteRunningEvent" name="BGC.Audio.Midi.MidiTrack.ExecuteRunningEvent">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file_stream.html#a29ad5cce4fa11e45ccff409027079008" title="BGC.Audio.Midi.MidiFileStream.\lGetChannelProgram" alt="" coords="239,5,450,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_synth_1_1_instrument_lookup.html#af5981b373c938f62bae21b15656a4099" title="BGC.Audio.Midi.Synth.Instrument\lLookup.GetNote" alt="" coords="235,71,455,112"/>
+</map>

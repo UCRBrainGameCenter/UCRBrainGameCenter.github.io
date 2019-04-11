@@ -1,6 +1,0 @@
-<map id="BGC.Utility.BgcToJson.ConvertBGCToJson" name="BGC.Utility.BgcToJson.ConvertBGCToJson">
-<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87" title="Adds a key with a null value to this collection. " alt="" coords="263,5,437,32"/>
-<area shape="rect" id="node3" href="$class_light_json_1_1_json_array.html#a4fec00492075faec359adfd0516079f6" title="Adds the given value to this collection. " alt="" coords="266,80,434,107"/>
-<area shape="rect" id="node4" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a4a2f0692bf9dec28417fe83924ac7380" title="LightJson.Serialization.\lJsonReader.Parse" alt="" coords="271,131,429,173"/>
-<area shape="rect" id="node5" href="$class_light_json_1_1_serialization_1_1_text_scanner.html#a5cb96d47ba47baf23c2202e0eb5db4b3" title="Advances the scanner to next non&#45;whitespace character. " alt="" coords="485,131,680,173"/>
-</map>

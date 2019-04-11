@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Synthesis.STMAudioClip" name="BGC.Audio.Synthesis.STMAudioClip">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_b_g_c_audio_clip.html" title="BGCAudioClip" alt="" coords="71,155,178,181"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream.html" title="BGCStream" alt="" coords="78,80,171,107"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="76,5,173,32"/>
+</map>

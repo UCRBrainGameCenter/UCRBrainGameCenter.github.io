@@ -1,0 +1,8 @@
+<map id="BGC.Study.SessionID" name="BGC.Study.SessionID">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_study_1_1_session.html" title="BGC.Study.Session" alt="" coords="989,212,1129,239"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_study_1_1_session_element.html" title="BGC.Study.SessionElement" alt="" coords="619,212,807,239"/>
+<area shape="rect" id="node8" href="$class_light_json_1_1_json_object.html" title="Represents a key&#45;value pair collection of JsonValue objects. " alt="" coords="301,200,449,227"/>
+<area shape="rect" id="node4" href="$class_i_enumerable.html" title="IEnumerable\&lt; SessionElementID \&gt;" alt="" coords="599,263,827,289"/>
+<area shape="rect" id="node9" href="$class_i_enumerable_3_01_key_value_pair_3_01string_00_01_json_value_01_4_4.html" title="IEnumerable\&lt; KeyValuePair\l\&lt; string, JsonValue \&gt;\&gt;" alt="" coords="5,178,192,219"/>
+<area shape="rect" id="node10" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="9,244,189,271"/>
+</map>

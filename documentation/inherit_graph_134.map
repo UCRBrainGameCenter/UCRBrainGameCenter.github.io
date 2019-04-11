@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_pointer_click_handler.html" title="IPointerClickHandler" alt="" coords="5,13,148,39"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_mono_utility_1_1_interaction_1_1_click_channel.html" title="BGC.MonoUtility.Interaction.\lClickChannel\&lt; T \&gt;" alt="" coords="217,5,407,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_mono_utility_1_1_interaction_1_1_click_component_channel.html" title="BGC.MonoUtility.Interaction.\lClickComponentChannel\&lt; T \&gt;" alt="" coords="499,5,698,47"/>
+<area shape="rect" id="node4" href="$class_mono_behaviour.html" title="MonoBehaviour" alt="" coords="21,355,133,382"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_b_g_c_clip_player.html" title="Ability to programmatically play BGCStreams in a Unity scene, with a callback on completion. " alt="" coords="221,71,403,98"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_mono_utility_1_1_async_init_task.html" title="BGC.MonoUtility.AsyncInitTask" alt="" coords="207,122,417,149"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_mono_utility_1_1_destroy_on_destroy.html" title="BGC.MonoUtility.DestroyOn\lDestroy" alt="" coords="218,173,406,215"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_mono_utility_1_1_interpolation_1_1_lerp_channel.html" title="Monobehavior to execute and manage animation&#45;like actions. " alt="" coords="212,239,412,280"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_mono_utility_1_1_status_panel.html" title="Used for server related tasks so we can inform the user on what is happening " alt="" coords="214,305,410,331"/>
+<area shape="rect" id="node12" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html" title="BGC.UI.Dialogs.ModalDialog" alt="" coords="215,355,409,382"/>
+<area shape="rect" id="node13" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html" title="BGC.UI.Panels.ModePanel" alt="" coords="221,406,403,433"/>
+<area shape="rect" id="node15" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_manager.html" title="BGC.UI.Panels.ModePanelManager" alt="" coords="196,457,428,483"/>
+<area shape="rect" id="node16" href="$class_b_g_c_1_1_utility_1_1_empty_monobehaviour.html" title="BGC.Utility.EmptyMonobehaviour" alt="" coords="203,507,421,534"/>
+<area shape="rect" id="node17" href="$class_b_g_c_1_1_utility_1_1_file_browser_1_1_file_browser.html" title="Script for scene that allows users to view files in a local project " alt="" coords="229,559,395,600"/>
+<area shape="rect" id="node18" href="$class_b_g_c_1_1_utility_1_1_unity_1_1_move_to_zero_zero_on_awake.html" title="BGC.Utility.Unity.MoveTo\lZeroZeroOnAwake" alt="" coords="225,624,399,665"/>
+<area shape="rect" id="node19" href="$class_b_g_c_1_1_utility_1_1_unity_1_1_screen_shot_on_button_press.html" title="BGC.Utility.Unity.Screen\lShotOnButtonPress" alt="" coords="227,689,397,731"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_spatialization_1_1_impulse_extraction.html" title="Extracts the packaged HRTF files, generously provided by Nirmal Srinivasan, Asst Professor of the Dep..." alt="" coords="511,115,686,156"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_mono_utility_1_1_interpolation_1_1_lerped_component_action_channel.html" title="Monobehavior to execute and manage animation&#45;like actions on a GameObject Component. T does not have to be a MonoBehavior. It still works if it&#39;s an interface that a monobehavior implements " alt="" coords="476,239,721,280"/>
+<area shape="rect" id="node14" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_copy_panel.html" title="Clones the appearance of a ModelPanel to show it sliding offscreen. " alt="" coords="508,406,689,433"/>
+</map>

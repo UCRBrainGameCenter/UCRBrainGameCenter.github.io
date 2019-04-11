@@ -1,0 +1,8 @@
+<map id="BGC.Audio.Envelopes.BGCEnvelopeStream" name="BGC.Audio.Envelopes.BGCEnvelopeStream">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_constant_envelope.html" title="BGC.Audio.Envelopes.Constant\lEnvelope" alt="" coords="493,5,703,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_cosine_envelope.html" title="BGC.Audio.Envelopes.Cosine\lEnvelope" alt="" coords="499,71,697,112"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_gaussian_envelope.html" title="BGC.Audio.Envelopes.Gaussian\lEnvelope" alt="" coords="492,136,704,177"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_linear_envelope.html" title="BGC.Audio.Envelopes.Linear\lEnvelope" alt="" coords="502,201,694,243"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_envelopes_1_1_sigmoid_envelope.html" title="BGC.Audio.Envelopes.Sigmoid\lEnvelope" alt="" coords="496,267,700,308"/>
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="IBGCEnvelopeStream" alt="" coords="5,143,156,170"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BGC.Audio.FrequencyDomain.GetComplexFrequencyBin" name="BGC.Audio.FrequencyDomain.GetComplexFrequencyBin">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_carlile_shuffler.html#ae4a7e5d878d41f2236fa25fedbf16fdc" title="BGC.Audio.Filters.Carlile\lShuffler._Initialize" alt="" coords="281,5,451,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_spectral_decomp.html#aa69071523e4f08a2010275a914d17475" title="BGC.Audio.Visualization.\lSpectralDecomp.SpectralDecomp" alt="" coords="256,71,476,112"/>
+</map>

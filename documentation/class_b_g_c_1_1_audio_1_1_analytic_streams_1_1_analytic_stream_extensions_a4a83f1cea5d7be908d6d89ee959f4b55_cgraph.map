@@ -1,0 +1,4 @@
+<map id="BGC.Audio.AnalyticStreams.AnalyticStreamExtensions.CalculateRMS" name="BGC.Audio.AnalyticStreams.AnalyticStreamExtensions.CalculateRMS">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html#af066aa6a730a23e87e48d16e3e385bb7" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="319,5,511,47"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html#afda1ae3e9e13747893224f7879988aab" title="Sets this internal state of this stream to the initial state " alt="" coords="319,71,511,112"/>
+</map>

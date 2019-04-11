@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.11"/>
-<title>BGC Tools: README</title>
+<title>BGC Tools: BGC Tools</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -77,22 +77,74 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- top -->
 <div class="header">
   <div class="headertitle">
-<div class="title">README </div>  </div>
+<div class="title"><a class="el" href="namespace_b_g_c.html">BGC</a> Tools </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>Tools Repo</p>
-<h2>Adding a Submodule</h2>
-<p>Ideally you will update the local directory to <code>&lt;git_root_directory&gt;/Assets/Plugins</code>.</p>
-<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;git clone https://github.com/UCRBrainGameCenter/BGC_Tools.git </div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;git submodule add https://github.com/UCRBrainGameCenter/BGC_Tools.git BGC_Tools</div></div><!-- fragment --><h2>Updating Documentation</h2>
+<div class="textblock"><p>A collection of useful Unity Tools and scripts developed at the UC Riverside Brain Game Center. Pull requests welcome.</p>
+<h2>How To Use</h2>
+<p>This project has been built largely to be imported as a managed-code plugin. Within a Unity project, navigate to <code>${project_root}/Assets/Plugins</code>, and clone this repository and set it up as a submodule:</p>
+<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;cd ${project_root}/Assets/Plugins</div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;git clone https://github.com/UCRBrainGameCenter/BGC_Tools.git </div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;git submodule add https://github.com/UCRBrainGameCenter/BGC_Tools.git BGC_Tools</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;cd ${project_root}</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;git submodule init</div></div><!-- fragment --><h2>Features</h2>
+<h3>User Management</h3>
+<ul>
+<li>Easily-integrated system for managing multiple distinct user accounts</li>
+<li>User data is serialized into JSON and readily available for inspection, debugging, reproduction</li>
+</ul>
+<h3>Audio</h3>
+<ul>
+<li>Advanced Audio synthesis library</li>
+<li>Fourier transforms, Spectrogram generation</li>
+<li>Managed code to Read and Write WAV files</li>
+<li>Midi Encoding, Decoding, and Rendering (Alpha)</li>
+</ul>
+<h3>Custom Data Structures</h3>
+<ul>
+<li><code>IDepletable</code> containers, representing sets of values that can be depleted when taken, but can also be refreshed<ul>
+<li><code>DepletableList&lt;T&gt;</code> will return values from an underlying collection in a fixed order, and can be refreshed to its original state (like a stack that can be reset)</li>
+<li><code>DepletableBag&lt;T&gt;</code> will return values in a random order from an underlying collection (like shuffle on a music player)</li>
+</ul>
+</li>
+<li>Efficient <code>RingBuffer&lt;T&gt;</code> implementation</li>
+<li>Several forms of <code>IPool</code>, for pooling objects</li>
+</ul>
+<h3>Mobile, Desktop, and Editor-Friendly File I/O</h3>
+<ul>
+<li>Streamline the process of accessing data directories and subdirectories on all platforms with <code>IO.DataManagement</code></li>
+<li>Convenient JSON reading, parsing, and writing with <code>IO.FileReader</code> and <code>IO.FileWriter</code></li>
+<li>Zip Compression/Decompression support</li>
+<li>Inclusion of <a href="https://github.com/MarcosLopezC/LightJson">LightJson</a></li>
+</ul>
+<h3>Mathematics</h3>
+<ul>
+<li>Robust implementation of Complex number support with <code>Mathematics.Complex32</code> and <code>Mathematics.Complex64</code></li>
+<li>Fast Fourier Transforms (including for sample buffers that are not a power of 2)</li>
+<li>Bezier Curves</li>
+<li>Implementation of common math functions in <code>Mathematics.GeneralMath</code></li>
+<li>Number factorization, least common multiple, and combinatorics</li>
+<li>Numeric Recipe for the Modified Bessel Function of the First Kind</li>
+</ul>
+<h3>State Machine</h3>
+<ul>
+<li>Fast, fully-programmatic state machine implementation in <code>StateMachine</code> namespace.</li>
+</ul>
+<h3>UI</h3>
+<ul>
+<li>Multi-featured, convenient Modal Dialog in <code>UI.Dialogs.ModalDialog</code></li>
+<li>ModePanels for control of UI Frame Instances in <code>UI.Panels.ModePanel</code></li>
+</ul>
+<h3>General Utilities</h3>
+<ul>
+<li>Robust Semantic Versioning struct in <code>Utility.ApplicationVersion</code></li>
+<li>Coroutine Management utility in <code>Utility.CoroutineUtility</code></li>
+<li>Local file-browser Scene and Scripts, to allow the inspection of application files on-device</li>
+</ul>
+<h2>Updating Documentation</h2>
 <h3>Ubuntu</h3>
 <h4>Installation</h4>
 <div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;sudo apt-get install doxygen</div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;npm install moxygen -g</div></div><!-- fragment --><h4>Running</h4>
-<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;./build_wiki.sh</div></div><!-- fragment --><h3>Windows</h3>
-<p>To be filled in at a later date </p>
-</div></div><!-- contents -->
+<div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;./build_wiki.sh</div></div><!-- fragment --> </div></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Oct 31 2018 13:46:34 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Thu Apr 11 2019 15:06:03 for BGC Tools by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.11
 </small></address>

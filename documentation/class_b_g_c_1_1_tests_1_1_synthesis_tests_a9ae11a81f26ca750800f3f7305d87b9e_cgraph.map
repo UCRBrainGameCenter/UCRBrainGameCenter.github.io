@@ -1,0 +1,4 @@
+<map id="BGC.Tests.SynthesisTests.SynthTestSnare" name="BGC.Tests.SynthesisTests.SynthTestSnare">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="244,5,451,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a1fbd7ac7b551b3902fdae10ed3af48e6" title="Save the samples passed in as a WAVE file with the specified filepath. Returns success. " alt="" coords="240,71,455,112"/>
+</map>

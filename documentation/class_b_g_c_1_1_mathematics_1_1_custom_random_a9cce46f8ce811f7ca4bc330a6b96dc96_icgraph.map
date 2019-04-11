@@ -1,0 +1,5 @@
+<map id="BGC.Mathematics.CustomRandom.RayleighDistribution" name="BGC.Mathematics.CustomRandom.RayleighDistribution">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_noise_audio_clip.html#a92b6e960735db8a120a9ca1c23140f5d" title="BGC.Audio.Synthesis.Noise\lAudioClip.CreateSideBands" alt="" coords="318,5,506,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_noise_stream.html#aa824ee78559dbe40a07f0916f0d02870" title="BGC.Audio.AnalyticStreams.\lAnalyticNoiseStream.CreateSideBands" alt="" coords="287,71,537,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_s_t_m_audio_clip.html#ab343f25751556e4b75fcd924399ee1fa" title="BGC.Audio.Synthesis.STMAudio\lClip.CreateSideBands" alt="" coords="305,136,519,177"/>
+</map>

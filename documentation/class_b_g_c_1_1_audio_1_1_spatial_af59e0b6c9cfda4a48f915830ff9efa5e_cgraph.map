@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Spatial.GetFilter" name="BGC.Audio.Spatial.GetFilter">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0791f690a8a6e56f838a5577f45009ed" title="Loads a WAV file from the filepath as a SimpleAudioClip, returns success. " alt="" coords="240,5,452,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_linear_interpolation.html#a18236684e65433e1d6bec026714e1c9b" title="BGC.Audio.LinearInterpolation.\lResample" alt="" coords="500,5,703,47"/>
+</map>

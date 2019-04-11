@@ -1,7 +1,3 @@
 <map id="LightJson.JsonObject.ToString" name="LightJson.JsonObject.ToString">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_logging_1_1_logger.html#ac3c823ee08460e7df8a839a8e6eddda9" title="BGC.IO.Logging.Logger.Apply\lHeaders" alt="" coords="273,5,471,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#a2686d1edadcab08cbdc22af3282671d1" title="Convert every line into a json object based on the meta data " alt="" coords="255,71,489,98"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#a7650413bedf91dbfce3f91c6c7985650" title="BGC.Web.AWSServer.GetCode\lConfig" alt="" coords="267,123,477,164"/>
-<area shape="rect" id="node5" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#ade1a5a7194d3959d16f48d9867562c41" title="BGC.Web.AWSServer.GetCondition" alt="" coords="255,189,489,215"/>
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#af4b8a4000df332cd5367a0ce8e454f4d" title="Post to aws " alt="" coords="256,239,488,266"/>
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="255,5,456,32"/>
 </map>

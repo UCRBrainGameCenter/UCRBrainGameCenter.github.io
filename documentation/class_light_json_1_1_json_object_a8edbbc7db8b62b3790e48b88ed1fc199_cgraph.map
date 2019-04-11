@@ -1,3 +1,8 @@
 <map id="LightJson.JsonObject.Rename" name="LightJson.JsonObject.Rename">
-<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#adc98c25e04ed78ace30c5eaf20f04100" title="Removes a property with the given key. " alt="" coords="255,5,456,32"/>
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a27dcb7437604de0852b649766d43632b" title="Determines whether this collection contains the given JsonValue. " alt="" coords="266,5,470,32"/>
+<area shape="rect" id="node3" href="$class_light_json_1_1_json_object.html#a5d89b8efa4d1c8671cdeccb0008597bd" title="Determines whether this collection contains an item assosiated with the given key. " alt="" coords="255,56,481,83"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_json_object.html#a4ca7bec1fea376aeedfec84d26a0dec3" title="Returns an enumerator that iterates through this collection. " alt="" coords="281,107,455,149"/>
+<area shape="rect" id="node5" href="$class_light_json_1_1_json_object.html#adc98c25e04ed78ace30c5eaf20f04100" title="Removes a property with the given key. " alt="" coords="267,173,469,200"/>
+<area shape="rect" id="node6" href="$class_light_json_1_1_serialization_1_1_json_writer.html#a372780a4ebb248a3a2f25c8c1821365b" title="Returns a string representation of the given JsonValue. " alt="" coords="289,225,447,266"/>
+<area shape="rect" id="node7" href="$class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="267,291,469,317"/>
 </map>

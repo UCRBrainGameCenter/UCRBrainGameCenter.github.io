@@ -1,0 +1,4 @@
+<map id="BGC.Audio.WaveEncoding.StreamWriter" name="BGC.Audio.WaveEncoding.StreamWriter">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html#a5f5ab3b892df80b19fe536e145348cc5" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="282,5,485,32"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html#a76d9fb4ed6efa3d1b03142d656b4c481" title="Sets this internal state of this stream to the initial state " alt="" coords="280,56,487,83"/>
+</map>

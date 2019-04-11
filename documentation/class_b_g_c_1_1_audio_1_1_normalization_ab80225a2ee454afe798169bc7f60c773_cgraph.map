@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Normalization.SPLToAdjustmentDB" name="BGC.Audio.Normalization.SPLToAdjustmentDB">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#ade5ee335c29b6c26712fcdce5a089f02" title="BGC.Mathematics.GeneralMath.\lClamp" alt="" coords="229,5,441,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a53e184e7489ad6b3954e2526d432be1d" title="BGC.Audio.Calibration.Get\lLevelOffset" alt="" coords="246,71,425,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_mathematics_1_1_general_math.html#a136676e57131c895b46b06b04d15db5a" title="Linearly interpolates between initial &#160;and final &#160;by t , clamps t &#160;to range [0,1] ..." alt="" coords="489,78,727,105"/>
+</map>

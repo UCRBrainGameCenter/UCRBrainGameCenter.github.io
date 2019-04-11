@@ -1,0 +1,7 @@
+<map id="BGC.Audio.Midi.Events.ChannelMidiEvent.ParseChannelEvent" name="BGC.Audio.Midi.Events.ChannelMidiEvent.ParseChannelEvent">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_channel_pressure_midi_event.html#ad933646022ee3b7409a18187acd0a76f" title="BGC.Audio.Midi.Events.Channel\lPressureMidiEvent.ParseChannelPressure\lMidiEvent" alt="" coords="267,5,537,61"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ac03f6d8e69c394802e5bd34f227fa031" title="BGC.Audio.Midi.Events.Controller\lMidiEvent.ParseControllerMidiEvent" alt="" coords="286,85,518,126"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_note_midi_event.html#a93eb6d7c5c5922b05957ce3a0d9d7f41" title="BGC.Audio.Midi.Events.Note\lMidiEvent.ParseNoteMidiEvent" alt="" coords="300,150,504,191"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_pitch_bend_midi_event.html#a1b0f9a6c78e93602357c56cd39056afa" title="BGC.Audio.Midi.Events.Pitch\lBendMidiEvent.ParsePitchBendMidiEvent" alt="" coords="269,215,535,257"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_program_midi_event.html#a9d10bec89cd5edffb97d87ef8cec8e5a" title="BGC.Audio.Midi.Events.Program\lMidiEvent.ParseProgramMidiEvent" alt="" coords="289,281,515,322"/>
+</map>

@@ -1,8 +1,20 @@
 var searchData=
 [
   ['bagtests',['BagTests',['../class_b_g_c_1_1_tests_1_1_bag_tests.html',1,'BGC::Tests']]],
-  ['bgctojson',['BgcToJson',['../class_b_g_c_1_1_utility_1_1_bgc_to_json.html',1,'BGC::Utility']]],
-  ['bodykeys',['BodyKeys',['../class_b_g_c_1_1_web_1_1_a_w_s_server_1_1_body_keys.html',1,'BGC::Web::AWSServer']]],
+  ['bessel',['Bessel',['../class_b_g_c_1_1_mathematics_1_1_bessel.html',1,'BGC::Mathematics']]],
+  ['besselcache',['BesselCache',['../class_b_g_c_1_1_mathematics_1_1_bessel_1_1_bessel_cache.html',1,'BGC::Mathematics::Bessel']]],
+  ['beziercurves',['BezierCurves',['../class_b_g_c_1_1_mathematics_1_1_bezier_curves.html',1,'BGC::Mathematics']]],
+  ['bgcaudioclip',['BGCAudioClip',['../class_b_g_c_1_1_audio_1_1_b_g_c_audio_clip.html',1,'BGC::Audio']]],
+  ['bgcbar',['BGCBar',['../class_b_g_c_bar.html',1,'']]],
+  ['bgcclipplayer',['BGCClipPlayer',['../class_b_g_c_1_1_audio_1_1_b_g_c_clip_player.html',1,'BGC::Audio']]],
+  ['bgcenvelopefilter',['BGCEnvelopeFilter',['../class_b_g_c_1_1_audio_1_1_envelopes_1_1_b_g_c_envelope_filter.html',1,'BGC::Audio::Envelopes']]],
+  ['bgcenvelopestream',['BGCEnvelopeStream',['../class_b_g_c_1_1_audio_1_1_envelopes_1_1_b_g_c_envelope_stream.html',1,'BGC::Audio::Envelopes']]],
+  ['bgcfilter',['BGCFilter',['../class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html',1,'BGC::Audio::Filters']]],
+  ['bgcstream',['BGCStream',['../class_b_g_c_1_1_audio_1_1_b_g_c_stream.html',1,'BGC::Audio']]],
+  ['bgcstreamconverter',['BGCStreamConverter',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_b_g_c_stream_converter.html',1,'BGC::Audio::AnalyticStreams']]],
+  ['bgcstreamextensions',['BGCStreamExtensions',['../class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html',1,'BGC::Audio']]],
+  ['binarysearchtest',['BinarySearchTest',['../class_b_g_c_1_1_tests_1_1_binary_search_test.html',1,'BGC::Tests']]],
+  ['biquadfilter',['BiQuadFilter',['../class_b_g_c_1_1_audio_1_1_filters_1_1_bi_quad_filter.html',1,'BGC::Audio::Filters']]],
   ['boolcondition',['BoolCondition',['../class_b_g_c_1_1_state_machine_1_1_bool_condition.html',1,'BGC::StateMachine']]],
-  ['bytemath',['ByteMath',['../class_b_g_c_1_1_utility_1_1_math_1_1_byte_math.html',1,'BGC::Utility::Math']]]
+  ['bytemath',['ByteMath',['../class_b_g_c_1_1_mathematics_1_1_byte_math.html',1,'BGC::Mathematics']]]
 ];

@@ -1,7 +1,0 @@
-<map id="BGC.IO.Logging.Logger.CloseFile" name="BGC.IO.Logging.Logger.CloseFile">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_web_1_1_a_w_s_server.html#abdabef1e2297954b3b3f8be1d71342eb" title="BGC.Web.AWSServer.PostBGCTo\lJSonToAWS" alt="" coords="273,5,504,47"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_i_o_1_1_utility.html#aff369145371dd43d57834c819fbf4407" title="Move file from the source path to the destination path. " alt="" coords="303,71,474,98"/>
-<area shape="rect" id="node5" href="$class_b_g_c_1_1_utility_1_1_reserved_files.html#ab9eb4428a3a153e79b3cebd7642de20a" title="UnReserve a file if found " alt="" coords="298,123,479,164"/>
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_i_o_1_1_log_directories.html#a3bc380417439d0f72cc09df1eaa2ed35" title="BGC.IO.LogDirectories.User\lErrorLogDirectory" alt="" coords="294,188,483,229"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#aa9a8a6817843a232e130deb2584aa4eb" title="Convert complete string of bgc to json " alt="" coords="552,5,761,47"/>
-</map>

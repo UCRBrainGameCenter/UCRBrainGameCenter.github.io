@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Midi.Synth.InstrumentLookup.GetPercussion" name="BGC.Audio.Midi.Synth.InstrumentLookup.GetPercussion">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a28642a69c37da11059a54266ce2d59eb" title="BGC.Tests.MidiEncodingTests.\lTestHiHat" alt="" coords="273,5,480,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a7a8f1836d221146a804132d00eaad918" title="BGC.Tests.MidiEncodingTests.\lTestSnare" alt="" coords="273,71,480,112"/>
+</map>

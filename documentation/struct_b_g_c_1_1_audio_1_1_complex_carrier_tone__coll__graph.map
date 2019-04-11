@@ -1,0 +1,5 @@
+<map id="BGC.Audio.ComplexCarrierTone" name="BGC.Audio.ComplexCarrierTone">
+<area shape="rect" id="node3" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="139,168,339,195"/>
+<area shape="rect" id="node4" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="132,5,307,32"/>
+<area shape="rect" id="node5" href="$class_i_formattable.html" title="IFormattable" alt="" coords="331,5,425,32"/>
+</map>

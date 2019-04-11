@@ -1,0 +1,12 @@
+<map id="BGC.Audio.BGCAudioClip" name="BGC.Audio.BGCAudioClip">
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_cross_fading_ref_clip.html" title="Holds a reference to a large underlying sample buffer. Loops and crossfades with itself. Used for managing extra&#45;large TENoise sample. " alt="" coords="531,5,742,32"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_interlacing_audio_clip.html" title="Stream that stores the left and right channels as separate arrays " alt="" coords="533,56,741,83"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_normalized_mono_clip.html" title="Stream that stores a mono sample buffer and scaling factors. Plays as a stereo stream. " alt="" coords="530,107,743,133"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_simple_audio_clip.html" title="Simplest implementation of a samplebuffer&#45;based stream. " alt="" coords="543,157,731,184"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_noise_audio_clip.html" title="Limited duration noise stream " alt="" coords="543,209,731,250"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_s_t_m_audio_clip.html" title="Spectrotemporally modulated noise with the specified duration. AKA Ripples. " alt="" coords="517,275,756,301"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_sweep_audio_clip.html" title="Continuous, linear tone sweep from starting to ending frequency over specified duration. " alt="" coords="539,326,734,367"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_white_noise_stream.html" title="True White&#45;Noise stream " alt="" coords="543,391,731,433"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream.html" title="BGCStream" alt="" coords="151,187,244,213"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="5,187,103,213"/>
+</map>

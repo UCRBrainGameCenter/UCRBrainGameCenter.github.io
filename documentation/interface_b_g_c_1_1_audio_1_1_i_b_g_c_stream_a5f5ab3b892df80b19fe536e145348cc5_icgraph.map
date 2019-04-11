@@ -1,0 +1,12 @@
+<map id="BGC.Audio.IBGCStream.Read" name="BGC.Audio.IBGCStream.Read">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#a92d78cb4f65849a0c1dafb7624dc1e62" title="Immediately collect all of the underlying samples and return a SimpleAudioClip that contains them all..." alt="" coords="256,5,488,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#a7ba364f2d3aa0d892a7e13bf60c76ade" title="Slowest Backup Alternative for calculating RMS " alt="" coords="256,71,488,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#a53db19115029ae7eb212e5244542e77e" title="Immediately collect all of the underlying samples and return as a Complex array " alt="" coords="256,136,488,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_b_g_c_clip_player.html#a2280a4ba3f41f6bf517d3df080d1374b" title="BGC.Audio.BGCClipPlayer.\lOnAudioFilterRead" alt="" coords="279,201,465,243"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_r_m_s_standardizer.html#a26fcce3da70692f527bfa9fd6a6ed529" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="285,267,459,308"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_concatenator.html#a72c37b58a1f45cb5c483e4f05bd8d96b" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="285,332,459,373"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_adder.html#aba155368e4fb1a33b952d42ee7902457" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="285,397,459,439"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_active_note_stream.html#a8cbe23f8e3ab004e85fd3a68a2bbaebd" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="277,463,467,504"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#a31f78ef2b9bbbb269f9fd39bc3fbcc60" title="Immediately collect all of the underlying samples and return a SimpleAudioClip that contains them all..." alt="" coords="256,528,488,569"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0c5cf4ce66ece1a886dbe2727e0c3d5d" title="BGC.Audio.WaveEncoding.Stream\lWriter" alt="" coords="259,593,485,635"/>
+</map>

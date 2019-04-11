@@ -1,0 +1,4 @@
+<map id="BGC.Audio.SynthStream" name="BGC.Audio.SynthStream">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file_stream.html" title="Renders an underlying MidiFile " alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="60,5,157,32"/>
+</map>

@@ -1,4 +1,21 @@
 var searchData=
 [
-  ['regular',['Regular',['../class_b_g_c_1_1_state_machine_1_1_state_machine.html#a3b867dc8a86a843d24a2bf826fff6316ad2203cb1237cb6460cbad94564e39345',1,'BGC::StateMachine::StateMachine']]]
+  ['hamming',['Hamming',['../class_b_g_c_1_1_audio_1_1_windowing.html#aaf5c6ccd716745f732f57863de3f43a0a718179b3bcff69a9d3f010aca0e9901a',1,'BGC::Audio::Windowing']]],
+  ['handclap',['HandClap',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6ab2e5f01fd79d6730196731bef30c2837',1,'BGC::Audio::Midi']]],
+  ['hann',['Hann',['../class_b_g_c_1_1_audio_1_1_windowing.html#aaf5c6ccd716745f732f57863de3f43a0a0218ace760f65b32ad5b254bf7a95ab5',1,'BGC::Audio::Windowing']]],
+  ['harmonica',['Harmonica',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076ae875dfd59e2910a245f6352089477fe1',1,'BGC::Audio::Midi']]],
+  ['harpsichord',['Harpsichord',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a3dedf1f5028874c14044ac996831fda5',1,'BGC::Audio::Midi']]],
+  ['helicopter',['Helicopter',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a2ab8b43468e8b92b0fc5c81e70e35a2d',1,'BGC::Audio::Midi']]],
+  ['hibongo',['HiBongo',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a1b51a8a4d1a232738d0dcc21da152c3f',1,'BGC::Audio::Midi']]],
+  ['hide',['Hide',['../namespace_b_g_c_1_1_u_i_1_1_panels.html#a8a913d4019e7165a17da4c4f12e55b11a62a5e490880a92eef74f167d9dc6dca0',1,'BGC::UI::Panels']]],
+  ['hierarchy',['Hierarchy',['../namespace_b_g_c_1_1_u_i_1_1_panels.html#acf1752fdad58dfb09059e693878a442aa0748856bca50f42e2abd5b36ca083bae',1,'BGC::UI::Panels']]],
+  ['highagogo',['HighAgogo',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a9d95544a3b242c8edabce151c9ce683e',1,'BGC::Audio::Midi']]],
+  ['highfloortom',['HighFloorTom',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a4424813c027b3844bfc80ed680c43912',1,'BGC::Audio::Midi']]],
+  ['highpass',['HighPass',['../class_b_g_c_1_1_audio_1_1_filters_1_1_continuous_filter.html#a9e79634452bc462f718ff742f5a813e5ae9456dc865a19e434997ea20bb5373f6',1,'BGC::Audio::Filters::ContinuousFilter']]],
+  ['hightimbale',['HighTimbale',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a113c292b4d4882bda7c1d3a91a13586f',1,'BGC::Audio::Midi']]],
+  ['hightom',['HighTom',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a98ad39ca2df551ea00d07255262e7a86',1,'BGC::Audio::Midi']]],
+  ['himidtom',['HiMidTom',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a4c52d086487c491946ea283325a2ac7b',1,'BGC::Audio::Midi']]],
+  ['hiwoodblock',['HiWoodBlock',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a6f57779cb162e564a3f3f59204cd99e6a2ff7ffd365fa29a22ba68a880a1ff71a',1,'BGC::Audio::Midi']]],
+  ['hold_5f02',['Hold_02',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_controller_midi_event.html#ab1f128c9169b003f92db6198deb8a978a6ce210e1009767ff4d0b660d4facf4c4',1,'BGC::Audio::Midi::Events::ControllerMidiEvent']]],
+  ['honkytonkpiano',['HonkyTonkPiano',['../namespace_b_g_c_1_1_audio_1_1_midi.html#a41c3761a20bfa05b5c658b9a76756076a1fa23e4b8f0ca1df7416a8d9ba5a3394',1,'BGC::Audio::Midi']]]
 ];

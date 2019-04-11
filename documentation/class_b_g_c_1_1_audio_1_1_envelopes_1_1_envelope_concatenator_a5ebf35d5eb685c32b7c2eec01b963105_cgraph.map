@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Envelopes.EnvelopeConcatenator.ReadNextSample" name="BGC.Audio.Envelopes.EnvelopeConcatenator.ReadNextSample">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html#a2aced9998e610c2a3232c8b95562b054" title="Returns if the BGCEnvelopeStream has more samples " alt="" coords="264,5,508,47"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html#afadd8e25bfda6c1eb47f1799cee30d51" title="Returns the next sample in the BGCEnvelopeStream " alt="" coords="264,71,508,112"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html#a0ca51c73c8eb8c0daee8184120a8429c" title="Sets this internal state of this stream to the initial state " alt="" coords="264,136,508,177"/>
+</map>

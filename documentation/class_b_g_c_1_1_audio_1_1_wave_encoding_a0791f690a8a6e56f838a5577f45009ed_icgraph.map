@@ -1,0 +1,8 @@
+<map id="BGC.Audio.WaveEncoding.LoadBGCStream" name="BGC.Audio.WaveEncoding.LoadBGCStream">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_spatial.html#af59e0b6c9cfda4a48f915830ff9efa5e" title="BGC.Audio.Spatial.GetFilter" alt="" coords="267,13,454,39"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a04ba4701623ed506bd6dee8e2ba7a258" title="BGC.Tests.SynthesisTests.\lTestAllPassFilterSpeech" alt="" coords="267,64,454,105"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a3eec3d7f075a9690dd93294a0f541a10" title="BGC.Tests.SynthesisTests.\lTestFMFilterVoice" alt="" coords="267,129,454,171"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_tests_1_1_test_overlap_add.html#ad380d204a8519d03fa6fabdb3ec080b7" title="BGC.Tests.TestOverlapAdd.\lTestNewConvolution" alt="" coords="265,195,456,236"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_tests_1_1_test_overlap_add.html#a83c1c4f6eb18ba819f67a07e35e7554c" title="BGC.Tests.TestOverlapAdd.\lTestNewSpatialization" alt="" coords="265,260,456,301"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#adeed218a9acad96cd9e6f81ee27a11cb" title="BGC.Audio.BGCStreamExtensions.\lSpatialize" alt="" coords="504,5,736,47"/>
+</map>

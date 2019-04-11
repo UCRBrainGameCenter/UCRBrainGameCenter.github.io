@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Midi.MidiEncoding.SaveFile" name="BGC.Audio.Midi.MidiEncoding.SaveFile">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ad32d11b7d6a83d686296b6d7dab51d36" title="Returns an available filepath. Appends &quot; (#)&quot; to the filename, incrementing # until it is available..." alt="" coords="256,5,464,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file.html#ac82fad06b668986f4e7d25bb4b8a943a" title="BGC.Audio.Midi.MidiFile.\lSerialize" alt="" coords="275,71,445,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a3973ebb8b4a248edebd8e618d75e1051" title="BGC.Audio.Midi.MidiTrack.\lSerialize" alt="" coords="512,71,693,112"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html#a5738369d4f5f8d6ad9abeb349670fdf2" title="BGC.Audio.Midi.Events.Midi\lEvent.Serialize" alt="" coords="741,71,931,112"/>
+</map>

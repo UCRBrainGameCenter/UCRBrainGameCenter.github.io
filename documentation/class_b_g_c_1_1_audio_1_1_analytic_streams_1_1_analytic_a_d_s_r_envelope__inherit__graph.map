@@ -1,0 +1,6 @@
+<map id="BGC.Audio.AnalyticStreams.AnalyticADSREnvelope" name="BGC.Audio.AnalyticStreams.AnalyticADSREnvelope">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_simple_analytic_filter.html" title="SimpleAnalyticFilter" alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html" title="Filters represent transformations of the AnalyticStream. " alt="" coords="25,80,124,107"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="17,5,132,32"/>
+<area shape="rect" id="node5" href="$interface_b_g_c_1_1_audio_1_1_synthesis_1_1_i_a_d_s_r.html" title="IADSR" alt="" coords="168,155,232,181"/>
+</map>

@@ -1,14 +1,14 @@
 <map id="LightJson.JsonArray.Add" name="LightJson.JsonArray.Add">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a909e4c51328a466e81144e351ce3a7c4" title="Converts any list to a json array of string values " alt="" coords="221,5,443,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_utility_1_1_bgc_to_json.html#ad46a45b7b69919d65742d0660058228d" title="Convert lines of bgc to complete json " alt="" coords="227,71,437,112"/>
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_array.html#a049982fe76e7dbc984390cc017548d95" title="Adds the given value to this collection only if the value is not null. " alt="" coords="244,5,420,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a909e4c51328a466e81144e351ce3a7c4" title="Converts any list to a json array of string values " alt="" coords="221,71,443,112"/>
 <area shape="rect" id="node4" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#aac2da4d414c032595906976dbbdece01" title="Converts any list to a Json Array of user defined values " alt="" coords="221,136,443,177"/>
 <area shape="rect" id="node5" href="$class_b_g_c_1_1_data_structures_1_1_enum_list_container.html#a0bec05aebe85c40067f37cf565c9bb6e" title="Sets the list to a deserialized JsonArray " alt="" coords="231,201,433,243"/>
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a6da5d6ee6d27ae49ad5e584e03e63a05" title="Converts a float list to a Json Array of float values " alt="" coords="221,267,443,308"/>
-<area shape="rect" id="node7" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a1198f2089fa0a8349f7251e0fe6a4a60" title="Converts an int list to a Json Array of Int Values " alt="" coords="221,332,443,373"/>
-<area shape="rect" id="node8" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#ab87c9b5084ab55da77a105f4a55970eb" title="Converts any JsonArray to List of user defined values " alt="" coords="221,397,443,439"/>
-<area shape="rect" id="node9" href="$class_light_json_1_1_serialization_1_1_json_reader.html#ab295d9a5035ee7935bdaaba08270f1bd" title="LightJson.Serialization.\lJsonReader.ReadArray" alt="" coords="253,463,411,504"/>
-<area shape="rect" id="node10" href="$class_b_g_c_1_1_data_structures_1_1_enum_list_container.html#ab0243d6461e9f4f132dce800898127ba" title="Serializes the list into a json array " alt="" coords="231,528,433,569"/>
-<area shape="rect" id="node12" href="$class_b_g_c_1_1_utility_1_1_json_utility.html#a3419f6e4f790b653839f014f464b6c93" title="Convert list of ints to json array " alt="" coords="253,593,411,635"/>
-<area shape="rect" id="node13" href="$class_b_g_c_1_1_utility_1_1_json_utility.html#aa5f937faac9d1bb34fc5434af3b5517a" title="Convert list to json array with lambda that turns elements into json values " alt="" coords="253,659,411,700"/>
-<area shape="rect" id="node11" href="$class_b_g_c_1_1_extensions_1_1_enum_list_container_extensions.html#a6b908d230d4e27ded9bed8475e41f547" title="BGC.Extensions.EnumListContainer\lExtensions.EnumListContainerListTo\lJsonArray\&lt; T \&gt;" alt="" coords="491,521,729,577"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_data_structures_1_1_int_list_container.html#aa9e308685803d0f5a7c10a7fce118618" title="Sets the list to a deserialized JsonArray " alt="" coords="241,267,423,308"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a6da5d6ee6d27ae49ad5e584e03e63a05" title="Converts a float list to a Json Array of float values " alt="" coords="221,332,443,373"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#a1198f2089fa0a8349f7251e0fe6a4a60" title="Converts an int list to a Json Array of Int Values " alt="" coords="221,397,443,439"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_extensions_1_1_json_extensions.html#ab87c9b5084ab55da77a105f4a55970eb" title="Converts any JsonArray to List of user defined values " alt="" coords="221,463,443,504"/>
+<area shape="rect" id="node10" href="$class_light_json_1_1_serialization_1_1_json_reader.html#ab295d9a5035ee7935bdaaba08270f1bd" title="LightJson.Serialization.\lJsonReader.ReadArray" alt="" coords="253,528,411,569"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a013bfbe87b6cb409cc0184489bc5dad9" title="BGC.Audio.Calibration.Serialize\lCalibration" alt="" coords="228,593,436,635"/>
+<area shape="rect" id="node12" href="$class_b_g_c_1_1_utility_1_1_json_utility.html#a3419f6e4f790b653839f014f464b6c93" title="Convert list of ints to json array " alt="" coords="253,659,411,700"/>
+<area shape="rect" id="node13" href="$class_b_g_c_1_1_utility_1_1_json_utility.html#aa5f937faac9d1bb34fc5434af3b5517a" title="Convert list to json array with lambda that turns elements into json values " alt="" coords="253,724,411,765"/>
 </map>

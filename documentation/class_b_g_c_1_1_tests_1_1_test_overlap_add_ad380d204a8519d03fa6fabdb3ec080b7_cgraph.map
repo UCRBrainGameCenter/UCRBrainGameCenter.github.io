@@ -1,0 +1,6 @@
+<map id="BGC.Tests.TestOverlapAdd.TestNewConvolution" name="BGC.Tests.TestOverlapAdd.TestNewConvolution">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0791f690a8a6e56f838a5577f45009ed" title="Loads a WAV file from the filepath as a SimpleAudioClip, returns success. " alt="" coords="245,5,457,47"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="248,71,455,112"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a1fbd7ac7b551b3902fdae10ed3af48e6" title="Save the samples passed in as a WAVE file with the specified filepath. Returns success. " alt="" coords="244,136,459,177"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_linear_interpolation.html#a18236684e65433e1d6bec026714e1c9b" title="BGC.Audio.LinearInterpolation.\lResample" alt="" coords="507,5,709,47"/>
+</map>

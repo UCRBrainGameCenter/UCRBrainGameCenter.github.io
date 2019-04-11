@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Synthesis.IADSR" name="BGC.Audio.Synthesis.IADSR">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_a_d_s_r_envelope.html" title="BGC.Audio.AnalyticStreams.\lAnalyticADSREnvelope" alt="" coords="5,80,197,121"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_a_d_s_r_envelope.html" title="An Attack&#45;Decay&#45;Sustain&#45;Release envelope with a triggerable release. " alt="" coords="222,87,469,114"/>
+</map>

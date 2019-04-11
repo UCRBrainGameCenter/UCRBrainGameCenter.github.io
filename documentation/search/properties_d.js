@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['size',['Size',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer.html#a7d8064fd74ef1f9d5fec96ff8347d2dd',1,'BGC.DataStructures.Generic.RingBuffer.Size()'],['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer_enum.html#a11f6e94683b91c2c4abbb8bf3cb40f22',1,'BGC.DataStructures.Generic.RingBufferEnum.Size()']]],
-  ['sortobjects',['SortObjects',['../class_light_json_1_1_serialization_1_1_json_writer.html#a1075266a73899c1129d09f38dd09cb44',1,'LightJson::Serialization::JsonWriter']]],
-  ['spacingstring',['SpacingString',['../class_light_json_1_1_serialization_1_1_json_writer.html#a2f6c6a88d7b854a14176ea3d835a79fc',1,'LightJson::Serialization::JsonWriter']]],
-  ['stagingdirectory',['StagingDirectory',['../class_b_g_c_1_1_i_o_1_1_log_directories.html#a52805b1a8d2c95ea312a15f9ab347134',1,'BGC::IO::LogDirectories']]],
-  ['status',['Status',['../class_b_g_c_1_1_mono_utility_1_1_status_panel.html#a661f825cd79db7ecbe6dc0d22774d1a2',1,'BGC::MonoUtility::StatusPanel']]]
+  ['rawposition',['RawPosition',['../class_b_g_c_1_1_audio_1_1_interlacing_audio_clip.html#a0622f78cc44aa5e044db1a98224d1950',1,'BGC.Audio.InterlacingAudioClip.RawPosition()'],['../class_b_g_c_1_1_audio_1_1_simple_audio_clip.html#ab94c6f86044764ddc446c22d0a38e368',1,'BGC.Audio.SimpleAudioClip.RawPosition()']]],
+  ['rootdirectory',['RootDirectory',['../class_b_g_c_1_1_i_o_1_1_data_management.html#adc8ca00bcd01e1534933cd0db7cee4cc',1,'BGC::IO::DataManagement']]],
+  ['rsamples',['RSamples',['../class_b_g_c_1_1_audio_1_1_interlacing_audio_clip.html#a3e9bb369e77a9002be587371bdc64e56',1,'BGC::Audio::InterlacingAudioClip']]]
 ];
