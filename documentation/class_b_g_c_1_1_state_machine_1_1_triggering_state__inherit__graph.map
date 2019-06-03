@@ -1,0 +1,5 @@
+<map id="BGC.StateMachine.TriggeringState&lt; TTriggerEnum &gt;" name="BGC.StateMachine.TriggeringState&lt; TTriggerEnum &gt;">
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_triggering_lambda_state.html" title="Simple State with optional lambda arguments for OnStateEnter and OnStateExit. The lambdas return stri..." alt="" coords="377,5,533,61"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_triggering_updating_lambda_state.html" title="Simple State with optional lambda arguments for OnStateEnter, OnStateExit, and Update. The lambdas return strings which, if not null, are fired off as Triggers " alt="" coords="351,85,559,141"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state.html" title="This class is implemented by states that are use din game. It comes with access to state machine rela..." alt="" coords="5,60,59,87"/>
+</map>

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['name',['name',['../class_b_g_c_1_1_state_machine_1_1_state.html#a34de49019459e335cc8d244e35d2f8a6',1,'BGC.StateMachine.State.name()'],['../class_b_g_c_1_1_study_1_1_protocol.html#a46f7375ac53a9226858ec5f387df3a3e',1,'BGC.Study.Protocol.name()'],['../class_b_g_c_1_1_state_machine_1_1_state.html#a89566d3fc27d9462bb1301f493a4c82b',1,'BGC.StateMachine.State.Name()'],['../class_b_g_c_1_1_study_1_1_protocol_keys_1_1_protocol.html#a9a2e04b79b115205a0cd864fd606fc37',1,'BGC.Study.ProtocolKeys.Protocol.Name()']]],
+  ['name',['Name',['../class_b_g_c_1_1_study_1_1_protocol_keys_1_1_protocol.html#a9a2e04b79b115205a0cd864fd606fc37',1,'BGC.Study.ProtocolKeys.Protocol.Name()'],['../class_b_g_c_1_1_study_1_1_protocol.html#a46f7375ac53a9226858ec5f387df3a3e',1,'BGC.Study.Protocol.name()']]],
   ['nan',['NaN',['../struct_b_g_c_1_1_mathematics_1_1_complex32.html#a27da3663c3c2011ecf77199bf89fc27c',1,'BGC.Mathematics.Complex32.NaN()'],['../struct_b_g_c_1_1_mathematics_1_1_complex64.html#afe383741f3a9fc1a6cfdf0174acaec88',1,'BGC.Mathematics.Complex64.NaN()']]],
   ['navigationcontent',['navigationContent',['../class_b_g_c_1_1_utility_1_1_file_browser_1_1_file_browser.html#a14008bb43a877e6499b5e03231883fd4',1,'BGC::Utility::FileBrowser::FileBrowser']]],
   ['navigationpanel',['navigationPanel',['../class_b_g_c_1_1_utility_1_1_file_browser_1_1_file_browser.html#ad52b2625541dfa1e943f882b4d4727d2',1,'BGC::Utility::FileBrowser::FileBrowser']]],

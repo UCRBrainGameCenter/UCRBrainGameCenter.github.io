@@ -1,0 +1,4 @@
+<map id="BGC.StateMachine.Transition.SetStateDataRetrievers" name="BGC.StateMachine.Transition.SetStateDataRetrievers">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a4ad2de4fd8a3be1a2006322e62d10fd5" title="Add a Transition that can occur from any state " alt="" coords="253,5,476,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a4c42604bd9d18b399eb2b4309fa1a3f0" title="Add a Standard Transition between two States " alt="" coords="253,71,476,112"/>
+</map>

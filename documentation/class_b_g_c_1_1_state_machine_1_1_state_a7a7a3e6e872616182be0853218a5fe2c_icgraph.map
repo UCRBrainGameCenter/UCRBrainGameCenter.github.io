@@ -1,0 +1,4 @@
+<map id="BGC.StateMachine.State.OnEnter" name="BGC.StateMachine.State.OnEnter">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a499cf3b3f5019de6b27b6619630421e0" title="Run transitions as long as we have a valid one to perform next. Blocks immediate transitions from occ..." alt="" coords="244,5,467,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#aa7b7c3ac5808f13b817535320d5d2357" title="Call update function on the currently active state. " alt="" coords="244,71,467,112"/>
+</map>

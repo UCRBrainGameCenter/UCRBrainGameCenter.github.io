@@ -1,0 +1,4 @@
+<map id="BGC.Study.ProtocolManager.RemoveRedundancies" name="BGC.Study.ProtocolManager.RemoveRedundancies">
+<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#adc98c25e04ed78ace30c5eaf20f04100" title="Removes a property with the given key. " alt="" coords="248,5,449,32"/>
+<area shape="rect" id="node3" href="$class_light_json_1_1_json_object.html#a6fb02c496d1126ea498b0061c0ec2ace" title="Returns a JSON string representing the state of the object. " alt="" coords="248,56,449,83"/>
+</map>

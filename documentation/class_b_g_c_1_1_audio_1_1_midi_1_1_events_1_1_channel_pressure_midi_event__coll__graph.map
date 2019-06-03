@@ -1,4 +1,4 @@
 <map id="BGC.Audio.Midi.Events.ChannelPressureMidiEvent" name="BGC.Audio.Midi.Events.ChannelPressureMidiEvent">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_channel_midi_event.html" title="ChannelMidiEvent" alt="" coords="245,287,373,313"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html" title="MidiEvent" alt="" coords="269,183,349,209"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_channel_midi_event.html" title="ChannelMidiEvent" alt="" coords="238,287,366,313"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html" title="MidiEvent" alt="" coords="262,183,342,209"/>
 </map>

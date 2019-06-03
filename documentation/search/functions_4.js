@@ -6,7 +6,7 @@ var searchData=
   ['dataresampler_3c_20t_20_3e',['DataResampler&lt; T &gt;',['../class_b_g_c_1_1_audio_1_1_wave_encoding.html#a983d236cd66393d358357aa2032defe1',1,'BGC::Audio::WaveEncoding']]],
   ['datastring',['DataString',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_system_common_midi_event.html#a6fdf5aa22c0ac9f601399e90dbbbde65',1,'BGC::Audio::Midi::Events::SystemCommonMidiEvent']]],
   ['datawriter_3c_20t_20_3e',['DataWriter&lt; T &gt;',['../class_b_g_c_1_1_audio_1_1_wave_encoding.html#ab3efad2cc3d9316f81049d1e96c1ba7b',1,'BGC::Audio::WaveEncoding']]],
-  ['deactivatetrigger',['DeActivateTrigger',['../class_b_g_c_1_1_state_machine_1_1_state_data.html#a7e5ef8cff9aa07c3a225fe33334f917a',1,'BGC::StateMachine::StateData']]],
+  ['deactivatetrigger',['DeActivateTrigger',['../class_b_g_c_1_1_state_machine_1_1_state_data.html#a681747da70e08df43488260b8cea7acb',1,'BGC::StateMachine::StateData']]],
   ['decode',['Decode',['../class_b_g_c_1_1_extensions_1_1_string_extensions.html#a1f5c9f625110f28c9c6f14385f9f822b',1,'BGC::Extensions::StringExtensions']]],
   ['decompose',['Decompose',['../class_b_g_c_1_1_audio_1_1_visualization_1_1_spectrogram.html#a24ee2b54b25a375963cc3ef81306c5c9',1,'BGC::Audio::Visualization::Spectrogram']]],
   ['decompressfile',['DecompressFile',['../class_b_g_c_1_1_i_o_1_1_compression_1_1_zip.html#a1d70bcbb8e90dbc74e9f8c2eddafd8fe',1,'BGC::IO::Compression::Zip']]],

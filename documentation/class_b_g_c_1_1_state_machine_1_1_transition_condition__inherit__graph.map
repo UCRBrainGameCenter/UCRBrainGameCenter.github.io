@@ -1,5 +1,5 @@
-<map id="BGC.StateMachine.TransitionCondition" name="BGC.StateMachine.TransitionCondition">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_bool_condition.html" title="BGC.StateMachine.BoolCondition" alt="" coords="251,5,471,32"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_or_conjunction.html" title="BGC.StateMachine.OrConjunction" alt="" coords="249,56,472,83"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_trigger_condition.html" title="BGC.StateMachine.Trigger\lCondition" alt="" coords="271,107,450,149"/>
+<map id="BGC.StateMachine.TransitionCondition&lt; TBoolEnum, TTriggerEnum &gt;" name="BGC.StateMachine.TransitionCondition&lt; TBoolEnum, TTriggerEnum &gt;">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_bool_condition.html" title="A bool condition checks for booleans, similar to the trigger condition, but will not consume the bool..." alt="" coords="319,5,506,61"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_or_conjunction.html" title="An or conjunction is a set of transitions conditions where they are tested together with the logical ..." alt="" coords="318,85,507,141"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_trigger_condition.html" title="A trigger condition, similar to the bool condition, will transition while a trigger is active..." alt="" coords="312,165,513,221"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="BGC.StateMachine.IStateDataBool.SetBool" name="BGC.StateMachine.IStateDataBool.SetBool">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a499cf3b3f5019de6b27b6619630421e0" title="Run transitions as long as we have a valid one to perform next. Blocks immediate transitions from occ..." alt="" coords="256,5,479,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_coordinating_state.html#aa17cbea2eaafc39e84fbf189921992ea" title="Receive state machine related functions that give states required behaviour " alt="" coords="260,71,475,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a425605eb38c6a5817afa771b27ae2e07" title="Add a coordinating state to the state machine " alt="" coords="527,71,749,112"/>
+</map>

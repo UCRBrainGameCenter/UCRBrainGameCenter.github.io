@@ -12,8 +12,10 @@ var searchData=
   ['impulseextraction_2ecs',['ImpulseExtraction.cs',['../_impulse_extraction_8cs.html',1,'']]],
   ['instrumentlookup_2ecs',['InstrumentLookup.cs',['../_instrument_lookup_8cs.html',1,'']]],
   ['interlacingaudioclip_2ecs',['InterlacingAudioClip.cs',['../_interlacing_audio_clip_8cs.html',1,'']]],
-  ['intlistcontainer_2ecs',['IntListContainer.cs',['../_data_structures_2_generic_2_int_list_container_8cs.html',1,'']]],
-  ['intlistcontainer_2ecs',['IntListContainer.cs',['../_extensions_2_int_list_container_8cs.html',1,'']]],
+  ['intlistcontainer_2ecs',['IntListContainer.cs',['../_data_structures_2_generic_2_int_list_container_8cs.html',1,'(Global Namespace)'],['../_extensions_2_int_list_container_8cs.html',1,'(Global Namespace)']]],
   ['intlistcontainertests_2ecs',['IntListContainerTests.cs',['../_int_list_container_tests_8cs.html',1,'']]],
-  ['ipool_2ecs',['IPool.cs',['../_i_pool_8cs.html',1,'']]]
+  ['ipool_2ecs',['IPool.cs',['../_i_pool_8cs.html',1,'']]],
+  ['istatebool_2ecs',['IStateBool.cs',['../_i_state_bool_8cs.html',1,'']]],
+  ['istatetrigger_2ecs',['IStateTrigger.cs',['../_i_state_trigger_8cs.html',1,'']]],
+  ['itransitiondataretriever_2ecs',['ITransitionDataRetriever.cs',['../_i_transition_data_retriever_8cs.html',1,'']]]
 ];

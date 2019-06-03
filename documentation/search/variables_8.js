@@ -1,6 +1,7 @@
 var searchData=
 [
   ['halffftsamples',['halfFFTSamples',['../class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#aa5f58f74595c68ea51aa86ace1fd8f0f',1,'BGC::Audio::Filters::PhaseVocoder']]],
+  ['halfframesize',['halfFrameSize',['../class_b_g_c_1_1_audio_1_1_filters_1_1_framed_phase_reencoder.html#adca6351eb76f6d8cfdea32cdf2a60780',1,'BGC::Audio::Filters::FramedPhaseReencoder']]],
   ['head',['Head',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer.html#a9c93999d36444a7baff408453bc97321',1,'BGC::DataStructures::Generic::RingBuffer']]],
   ['header_5fchunk_5fname',['HEADER_CHUNK_NAME',['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file.html#a851f9164b91dae47891888ecc53d1f68',1,'BGC::Audio::Midi::MidiFile']]],
   ['headerinfo',['headerInfo',['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_file.html#a44a610b97bc23e06b255879013f0d520',1,'BGC.Audio.Midi.MidiFile.headerInfo()'],['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#abe2c301436dafb6386f27269fe38422c',1,'BGC.Audio.Midi.MidiTrack.headerInfo()']]],

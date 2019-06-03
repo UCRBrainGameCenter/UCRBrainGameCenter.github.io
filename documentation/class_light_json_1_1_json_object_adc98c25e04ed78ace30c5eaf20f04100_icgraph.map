@@ -1,5 +1,6 @@
 <map id="LightJson.JsonObject.Remove" name="LightJson.JsonObject.Remove">
 <area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a4443427d93525920d18d67f3754a495e" title="Adds a value associated with a key to this collection only if the value is not null. " alt="" coords="268,5,443,47"/>
 <area shape="rect" id="node3" href="$class_b_g_c_1_1_users_1_1_profile_data.html#af222ecfb6e7485ca2b60233b02fbda75" title="Get value associated with indicated key &#160;" alt="" coords="263,71,447,112"/>
-<area shape="rect" id="node4" href="$class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="255,137,456,163"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#ab2be2648d41dba943dd8d0959e0f2a49" title="BGC.Study.ProtocolManager.\lRemoveRedundancies" alt="" coords="258,136,453,177"/>
+<area shape="rect" id="node5" href="$class_light_json_1_1_json_object.html#a8edbbc7db8b62b3790e48b88ed1fc199" title="Changes the key of one of the items in the collection. " alt="" coords="255,202,456,229"/>
 </map>

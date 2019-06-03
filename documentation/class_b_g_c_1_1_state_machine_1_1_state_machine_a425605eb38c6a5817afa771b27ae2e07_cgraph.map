@@ -1,0 +1,7 @@
+<map id="BGC.StateMachine.StateMachine.AddState" name="BGC.StateMachine.StateMachine.AddState">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_coordinating_state.html#aa17cbea2eaafc39e84fbf189921992ea" title="Receive state machine related functions that give states required behaviour " alt="" coords="276,71,491,112"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_state_machine_1_1_state.html#a4f5b40c742a48f1d6c5cfe220eaafc4f" title="Set whether the state machine is verbose or not " alt="" coords="286,136,481,177"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_trigger.html#a98cc497215ddef986ab80b6466c6ba47" title="BGC.StateMachine.IStateTrigger.\lActivateTrigger" alt="" coords="539,5,757,47"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html#aa1dd98b6b96d6ea930c4e96da78c8273" title="BGC.StateMachine.IStateData\lBool.GetBool" alt="" coords="547,71,749,112"/>
+<area shape="rect" id="node5" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html#a1627c208d2aebb06753b4c6f23e479bc" title="BGC.StateMachine.IStateData\lBool.SetBool" alt="" coords="547,136,749,177"/>
+</map>

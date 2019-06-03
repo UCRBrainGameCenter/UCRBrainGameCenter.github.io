@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['magnitude',['Magnitude',['../struct_b_g_c_1_1_mathematics_1_1_complex32.html#acc44575c6fcffed30642b5e585779d90',1,'BGC.Mathematics.Complex32.Magnitude()'],['../struct_b_g_c_1_1_mathematics_1_1_complex64.html#a44d5cd990437bd15c9faab28b7157f3f',1,'BGC.Mathematics.Complex64.Magnitude()']]],
-  ['majorkey',['MajorKey',['../class_b_g_c_1_1_audio_1_1_midi_1_1_midi_track.html#a6ccb34228dc26a00803f8a3421d9b232',1,'BGC::Audio::Midi::MidiTrack']]],
-  ['messageclass',['MessageClass',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_midi_event.html#a0226eb8267c1a1a1f7d38c3f7449f3ae',1,'BGC::Audio::Midi::Events::MidiEvent']]],
-  ['mono',['Mono',['../class_b_g_c_1_1_utility_1_1_coroutine_utility.html#a719017913d77d4884844813496859d5f',1,'BGC::Utility::CoroutineUtility']]]
+  ['name',['Name',['../class_b_g_c_1_1_state_machine_1_1_state.html#a89566d3fc27d9462bb1301f493a4c82b',1,'BGC::StateMachine::State']]],
+  ['newitem',['NewItem',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_constructing_pool.html#adb09d14a26bffe738ccc79e3178a3380',1,'BGC::DataStructures::Generic::ConstructingPool']]],
+  ['newlinestring',['NewLineString',['../class_light_json_1_1_serialization_1_1_json_writer.html#af0dbec57a4630d0d5b75ab8ffb41c56e',1,'LightJson::Serialization::JsonWriter']]]
 ];

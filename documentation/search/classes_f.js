@@ -13,8 +13,7 @@ var searchData=
   ['profiledata',['ProfileData',['../class_b_g_c_1_1_users_1_1_profile_data.html',1,'BGC::Users']]],
   ['programmidievent',['ProgramMidiEvent',['../class_b_g_c_1_1_audio_1_1_midi_1_1_events_1_1_program_midi_event.html',1,'BGC::Audio::Midi::Events']]],
   ['propertyattribute',['PropertyAttribute',['../class_property_attribute.html',1,'']]],
-  ['protocol',['Protocol',['../class_b_g_c_1_1_study_1_1_protocol.html',1,'BGC::Study']]],
-  ['protocol',['Protocol',['../class_b_g_c_1_1_study_1_1_protocol_keys_1_1_protocol.html',1,'BGC::Study::ProtocolKeys']]],
+  ['protocol',['Protocol',['../class_b_g_c_1_1_study_1_1_protocol.html',1,'BGC.Study.Protocol'],['../class_b_g_c_1_1_study_1_1_protocol_keys_1_1_protocol.html',1,'BGC.Study.ProtocolKeys.Protocol']]],
   ['protocolid',['ProtocolID',['../struct_b_g_c_1_1_study_1_1_protocol_i_d.html',1,'BGC::Study']]],
   ['protocolkeys',['ProtocolKeys',['../class_b_g_c_1_1_study_1_1_protocol_keys.html',1,'BGC::Study']]],
   ['protocolmanager',['ProtocolManager',['../class_b_g_c_1_1_study_1_1_protocol_manager.html',1,'BGC::Study']]]

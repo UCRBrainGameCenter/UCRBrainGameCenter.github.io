@@ -1,3 +1,3 @@
-<map id="BGC.StateMachine.BoolCondition" name="BGC.StateMachine.BoolCondition">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html" title="TransitionCondition" alt="" coords="82,109,217,136"/>
+<map id="BGC.StateMachine.BoolCondition&lt; TBoolEnum, TTriggerEnum &gt;" name="BGC.StateMachine.BoolCondition&lt; TBoolEnum, TTriggerEnum &gt;">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html" title="Defines a class that must be implemented which is for defining when transitions should occur..." alt="" coords="5,109,209,151"/>
 </map>

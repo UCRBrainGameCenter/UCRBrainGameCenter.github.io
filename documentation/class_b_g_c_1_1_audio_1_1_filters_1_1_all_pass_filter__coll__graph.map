@@ -4,8 +4,8 @@
 <area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="5,5,103,32"/>
 <area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="213,81,380,108"/>
 <area shape="rect" id="node8" href="$class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer.html" title="BGC.DataStructures.Generic.\lRingBuffer\&lt; float \&gt;" alt="" coords="543,233,739,274"/>
-<area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="541,299,741,325"/>
-<area shape="rect" id="node10" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="209,225,384,252"/>
-<area shape="rect" id="node11" href="$class_i_formattable.html" title="IFormattable" alt="" coords="249,276,344,303"/>
-<area shape="rect" id="node15" href="$class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer.html" title="BGC.DataStructures.Generic.\lRingBuffer\&lt; Complex64 \&gt;" alt="" coords="543,469,739,510"/>
+<area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="541,300,741,327"/>
+<area shape="rect" id="node10" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="209,227,384,253"/>
+<area shape="rect" id="node11" href="$class_i_formattable.html" title="IFormattable" alt="" coords="249,277,344,304"/>
+<area shape="rect" id="node15" href="$class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer.html" title="BGC.DataStructures.Generic.\lRingBuffer\&lt; Complex64 \&gt;" alt="" coords="543,470,739,511"/>
 </map>

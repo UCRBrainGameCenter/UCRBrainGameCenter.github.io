@@ -1,7 +1,7 @@
 <map id="BGC.Audio.Filters.NormalizerFilter" name="BGC.Audio.Filters.NormalizerFilter">
 <area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="206,266,326,293"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="56,95,136,121"/>
-<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="92,5,190,32"/>
-<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="159,95,326,121"/>
-<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_calibration.html" title="Manages calibration values and processes " alt="" coords="840,266,994,293"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="54,95,134,121"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="90,5,188,32"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="158,95,325,121"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_audio_1_1_calibration.html" title="Manages calibration values and processes " alt="" coords="754,266,908,293"/>
 </map>

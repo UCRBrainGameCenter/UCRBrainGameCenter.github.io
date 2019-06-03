@@ -1,3 +1,4 @@
 <map id="BGC.Study.ProtocolManager.SerializeSessions" name="BGC.Study.ProtocolManager.SerializeSessions">
-<area shape="rect" id="node2" href="$class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87" title="Adds a key with a null value to this collection. " alt="" coords="248,13,423,39"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_study_1_1_session.html#addb139e9077e0a4ed77ead6b7181df53" title="BGC.Study.Session.Serialize\lSession" alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$class_light_json_1_1_json_object.html#a6e1c73338d5bc119f44b49b15bbedd87" title="Adds a key with a null value to this collection. " alt="" coords="491,13,665,39"/>
 </map>

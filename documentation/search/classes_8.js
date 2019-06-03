@@ -20,13 +20,15 @@ var searchData=
   ['impulseextraction',['ImpulseExtraction',['../class_b_g_c_1_1_audio_1_1_spatialization_1_1_impulse_extraction.html',1,'BGC::Audio::Spatialization']]],
   ['instrumentlookup',['InstrumentLookup',['../class_b_g_c_1_1_audio_1_1_midi_1_1_synth_1_1_instrument_lookup.html',1,'BGC::Audio::Midi::Synth']]],
   ['interlacingaudioclip',['InterlacingAudioClip',['../class_b_g_c_1_1_audio_1_1_interlacing_audio_clip.html',1,'BGC::Audio']]],
-  ['internalstreamfork',['InternalStreamFork',['../class_b_g_c_1_1_audio_1_1_filters_1_1_stream_fork_1_1_internal_stream_fork.html',1,'BGC::Audio::Filters::StreamFork']]],
-  ['internalstreamfork',['InternalStreamFork',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_fork_1_1_internal_stream_fork.html',1,'BGC::Audio::AnalyticStreams::AnalyticStreamFork']]],
+  ['internalstreamfork',['InternalStreamFork',['../class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_stream_fork_1_1_internal_stream_fork.html',1,'BGC.Audio.AnalyticStreams.AnalyticStreamFork.InternalStreamFork'],['../class_b_g_c_1_1_audio_1_1_filters_1_1_stream_fork_1_1_internal_stream_fork.html',1,'BGC.Audio.Filters.StreamFork.InternalStreamFork']]],
   ['internalstreamsplit',['InternalStreamSplit',['../class_b_g_c_1_1_audio_1_1_filters_1_1_stream_channel_splitter_1_1_internal_stream_split.html',1,'BGC::Audio::Filters::StreamChannelSplitter']]],
   ['intlistcontainer',['IntListContainer',['../class_b_g_c_1_1_data_structures_1_1_int_list_container.html',1,'BGC::DataStructures']]],
   ['intlistcontainerextensions',['IntListContainerExtensions',['../class_b_g_c_1_1_extensions_1_1_int_list_container_extensions.html',1,'BGC::Extensions']]],
   ['intlistcontainertests',['IntListContainerTests',['../class_b_g_c_1_1_tests_1_1_int_list_container_tests.html',1,'BGC::Tests']]],
   ['ipointerclickhandler',['IPointerClickHandler',['../class_i_pointer_click_handler.html',1,'']]],
   ['ipool',['IPool',['../interface_b_g_c_1_1_data_structures_1_1_generic_1_1_i_pool.html',1,'BGC::DataStructures::Generic']]],
-  ['ipoolrelease',['IPoolRelease',['../interface_b_g_c_1_1_data_structures_1_1_generic_1_1_i_pool_release.html',1,'BGC::DataStructures::Generic']]]
+  ['ipoolrelease',['IPoolRelease',['../interface_b_g_c_1_1_data_structures_1_1_generic_1_1_i_pool_release.html',1,'BGC::DataStructures::Generic']]],
+  ['istatedatabool',['IStateDataBool',['../interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html',1,'BGC::StateMachine']]],
+  ['istatetrigger',['IStateTrigger',['../interface_b_g_c_1_1_state_machine_1_1_i_state_trigger.html',1,'BGC::StateMachine']]],
+  ['itransitiondataretriever',['ITransitionDataRetriever',['../interface_b_g_c_1_1_state_machine_1_1_i_transition_data_retriever.html',1,'BGC::StateMachine']]]
 ];

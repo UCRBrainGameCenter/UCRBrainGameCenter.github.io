@@ -1,6 +1,6 @@
 <map id="BGC.Audio.AnalyticStreams.AnalyticStreamWindower" name="BGC.Audio.AnalyticStreams.AnalyticStreamWindower">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_simple_analytic_filter.html" title="SimpleAnalyticFilter" alt="" coords="576,133,715,159"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html" title="Filters represent transformations of the AnalyticStream. " alt="" coords="279,91,378,118"/>
-<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="5,91,120,118"/>
-<area shape="rect" id="node8" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="BGC.Audio.AnalyticStreams.\lIAnalyticStream" alt="" coords="233,25,425,67"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_simple_analytic_filter.html" title="SimpleAnalyticFilter" alt="" coords="576,136,715,163"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_analytic_streams_1_1_analytic_filter.html" title="Filters represent transformations of the AnalyticStream. " alt="" coords="279,95,378,122"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="5,95,120,122"/>
+<area shape="rect" id="node8" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="BGC.Audio.AnalyticStreams.\lIAnalyticStream" alt="" coords="233,29,425,70"/>
 </map>

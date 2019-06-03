@@ -1,0 +1,5 @@
+<map id="BGC.StateMachine.CoordinatingState.SetStateMachineFunctions" name="BGC.StateMachine.CoordinatingState.SetStateMachineFunctions">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_trigger.html#a98cc497215ddef986ab80b6466c6ba47" title="BGC.StateMachine.IStateTrigger.\lActivateTrigger" alt="" coords="268,5,487,47"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html#aa1dd98b6b96d6ea930c4e96da78c8273" title="BGC.StateMachine.IStateData\lBool.GetBool" alt="" coords="276,71,479,112"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html#a1627c208d2aebb06753b4c6f23e479bc" title="BGC.StateMachine.IStateData\lBool.SetBool" alt="" coords="276,136,479,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BGC.UI.Dialogs.ModalDialog.ShowDropdownInputModal" name="BGC.UI.Dialogs.ModalDialog.ShowDropdownInputModal">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#a5cb98ed7a279c6af2217fc1cc1af4aec" title="BGC.UI.Dialogs.ModalDialog.\lSetBodyText" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#ab6326af6fe78c0c24954829b89c643fd" title="BGC.UI.Dialogs.ModalDialog.\lSetHeaderText" alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#a70234615d17a1164fb570299002f090d" title="BGC.UI.Dialogs.ModalDialog.\lSetMode" alt="" coords="251,136,448,177"/>
+</map>

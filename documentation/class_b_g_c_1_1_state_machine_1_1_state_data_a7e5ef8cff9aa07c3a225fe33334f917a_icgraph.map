@@ -1,4 +1,0 @@
-<map id="BGC.StateMachine.StateData.DeActivateTrigger" name="BGC.StateMachine.StateData.DeActivateTrigger">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a9f43be3a028c05eba4da4ee0e61d6a77" title="Add a transition that can occur on any state " alt="" coords="256,5,479,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a8f682e55fc245cd73cd4608e7500fe56" title="Add a transition to a state " alt="" coords="256,71,479,112"/>
-</map>

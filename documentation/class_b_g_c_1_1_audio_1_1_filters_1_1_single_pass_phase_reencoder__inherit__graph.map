@@ -1,0 +1,5 @@
+<map id="BGC.Audio.Filters.SinglePassPhaseReencoder" name="BGC.Audio.Filters.SinglePassPhaseReencoder">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="29,155,149,181"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="49,80,129,107"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="41,5,138,32"/>
+</map>

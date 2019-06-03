@@ -1,0 +1,7 @@
+<map id="BGC.StateMachine.IStateTrigger.ActivateTrigger" name="BGC.StateMachine.IStateTrigger.ActivateTrigger">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a499cf3b3f5019de6b27b6619630421e0" title="Run transitions as long as we have a valid one to perform next. Blocks immediate transitions from occ..." alt="" coords="272,5,495,47"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_triggering_state.html#a4449c9e5868529ca16fa8eb3a720c261" title="Receive state machine related functions that give states required behaviour " alt="" coords="276,71,491,112"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_state_machine_1_1_coordinating_state.html#aa17cbea2eaafc39e84fbf189921992ea" title="Receive state machine related functions that give states required behaviour " alt="" coords="276,136,491,177"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#aa08d5db632ab1212e30bf2e72c0674c7" title="BGC.StateMachine.StateMachine.\lAddState" alt="" coords="543,71,765,112"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#a425605eb38c6a5817afa771b27ae2e07" title="Add a coordinating state to the state machine " alt="" coords="543,136,765,177"/>
+</map>

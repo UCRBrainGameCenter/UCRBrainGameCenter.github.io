@@ -1,6 +1,6 @@
 <map id="LightJson.JsonValue" name="LightJson.JsonValue">
 <area shape="rect" id="node2" href="$class_light_json_1_1_json_array.html" title="Represents an ordered collection of JsonValues. " alt="" coords="315,7,456,33"/>
-<area shape="rect" id="node3" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="9,184,189,211"/>
+<area shape="rect" id="node3" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="9,189,189,216"/>
 <area shape="rect" id="node10" href="$class_light_json_1_1_json_object.html" title="Represents a key&#45;value pair collection of JsonValue objects. " alt="" coords="311,327,459,353"/>
-<area shape="rect" id="node11" href="$class_i_enumerable_3_01_key_value_pair_3_01string_00_01_json_value_01_4_4.html" title="IEnumerable\&lt; KeyValuePair\l\&lt; string, JsonValue \&gt;\&gt;" alt="" coords="6,286,193,327"/>
+<area shape="rect" id="node11" href="$class_i_enumerable_3_01_key_value_pair_3_01string_00_01_json_value_01_4_4.html" title="IEnumerable\&lt; KeyValuePair\l\&lt; string, JsonValue \&gt;\&gt;" alt="" coords="6,302,193,343"/>
 </map>

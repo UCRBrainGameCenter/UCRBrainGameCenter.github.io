@@ -1,6 +1,6 @@
 <map id="BGC.Audio.AnalyticStreams.AnalyticNoiseStream" name="BGC.Audio.AnalyticStreams.AnalyticNoiseStream">
 <area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_analytic_streams_1_1_i_analytic_stream.html" title="IAnalyticStream" alt="" coords="380,5,495,32"/>
 <area shape="rect" id="node4" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="337,231,537,257"/>
-<area shape="rect" id="node5" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="5,249,180,276"/>
-<area shape="rect" id="node6" href="$class_i_formattable.html" title="IFormattable" alt="" coords="45,300,140,327"/>
+<area shape="rect" id="node5" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="5,245,180,272"/>
+<area shape="rect" id="node6" href="$class_i_formattable.html" title="IFormattable" alt="" coords="45,296,140,323"/>
 </map>

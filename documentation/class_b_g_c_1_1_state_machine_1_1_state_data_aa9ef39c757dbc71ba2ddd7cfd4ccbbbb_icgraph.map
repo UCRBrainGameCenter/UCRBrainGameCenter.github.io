@@ -1,3 +1,0 @@
-<map id="BGC.StateMachine.StateData.GetBoolean" name="BGC.StateMachine.StateData.GetBoolean">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_machine.html#ab3066c107b1d76766bbe3b3261c3633b" title="Get a boolean that can affect transitions Warning: Should only be called from State! ..." alt="" coords="256,5,479,47"/>
-</map>

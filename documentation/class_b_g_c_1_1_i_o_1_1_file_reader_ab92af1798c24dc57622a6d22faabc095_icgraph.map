@@ -1,7 +1,7 @@
 <map id="BGC.IO.FileReader.ReadJsonFile" name="BGC.IO.FileReader.ReadJsonFile">
 <area shape="rect" id="node2" href="$class_b_g_c_1_1_users_1_1_profile_data.html#a241c688506fc42eba9d65d3c65bdb524" title="Load user contents from file " alt="" coords="273,97,501,124"/>
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a9168ece461f39346cb82e1d0360761b7" title="BGC.Audio.Calibration.Initialize" alt="" coords="284,1044,491,1071"/>
-<area shape="rect" id="node35" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a1898ce3d18d4e73d3cb907b16e59b576" title="BGC.Study.ProtocolManager.\lLoadProtocolSet" alt="" coords="290,1095,485,1137"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a9168ece461f39346cb82e1d0360761b7" title="BGC.Audio.Calibration.Initialize" alt="" coords="284,1175,491,1201"/>
+<area shape="rect" id="node39" href="$class_b_g_c_1_1_study_1_1_protocol_manager.html#a1898ce3d18d4e73d3cb907b16e59b576" title="BGC.Study.ProtocolManager.\lLoadProtocolSet" alt="" coords="290,1226,485,1267"/>
 <area shape="rect" id="node3" href="$class_b_g_c_1_1_users_1_1_player_data.html#a27616abe9d4495a749be831097299489" title="Attempts to log in with userName " alt="" coords="555,5,750,32"/>
 <area shape="rect" id="node4" href="$class_b_g_c_1_1_users_1_1_player_data.html#aa3bf36b74ec8daea291777ff9efb4201" title="Deserialize, delete, and remove a user " alt="" coords="552,57,753,98"/>
 <area shape="rect" id="node5" href="$class_b_g_c_1_1_users_1_1_player_data.html#a5f6273ddb5bd493315693d761a184ad4" title="Get the migration preferences of all profiles. " alt="" coords="561,122,745,163"/>
@@ -19,18 +19,22 @@
 <area shape="rect" id="node18" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ad1a5b2c9e2c1684e8fb51f626abd3b5b" title="BGC.Tests.SynthesisTests.\lTestCarrierModifiedFakeVoices" alt="" coords="550,906,755,947"/>
 <area shape="rect" id="node19" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a59f83fecef4776d009ae93b99b560400" title="BGC.Tests.MidiEncodingTests.\lTestContinuousFilter" alt="" coords="549,971,756,1013"/>
 <area shape="rect" id="node20" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a846bfb5192f3b39f23541633d8c9aa6c" title="BGC.Tests.SynthesisTests.\lTestFakeVoice" alt="" coords="559,1037,746,1078"/>
-<area shape="rect" id="node21" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ab52b2d8da332278f3f2e3295b89dc19b" title="BGC.Tests.MidiEncodingTests.\lTestFlute" alt="" coords="549,1102,756,1143"/>
-<area shape="rect" id="node22" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a821df2f60b45bcacfc9842b8ecd21e12" title="BGC.Tests.SynthesisTests.\lTestFMFilterSynth" alt="" coords="559,1167,746,1209"/>
-<area shape="rect" id="node23" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a3eec3d7f075a9690dd93294a0f541a10" title="BGC.Tests.SynthesisTests.\lTestFMFilterVoice" alt="" coords="559,1233,746,1274"/>
-<area shape="rect" id="node24" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a80bae7887e4ecf9b3579b5077e9484ad" title="BGC.Tests.SynthesisTests.\lTestFrequencyShifter" alt="" coords="559,1298,746,1339"/>
-<area shape="rect" id="node25" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#af983e4b1ccdbaba1ce5f58002c3ad35f" title="BGC.Tests.SynthesisTests.\lTestFunFakeVoice" alt="" coords="559,1363,746,1405"/>
-<area shape="rect" id="node26" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a30475137c28aa041cb22070835c99716" title="BGC.Tests.MidiEncodingTests.\lTestGuitar" alt="" coords="549,1429,756,1470"/>
-<area shape="rect" id="node27" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a9ed6e6d8011d4f5b19c09d5ca43faf7d" title="BGC.Tests.MidiEncodingTests.\lTestOrgan" alt="" coords="549,1494,756,1535"/>
-<area shape="rect" id="node28" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a465333b5ca632fe596f8473217f73779" title="BGC.Tests.MidiEncodingTests.\lTestPulses" alt="" coords="549,1559,756,1601"/>
-<area shape="rect" id="node29" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aac6b9d27b63c8e50447c9d36ff25ec06" title="BGC.Tests.MidiEncodingTests.\lTestRenderMidi" alt="" coords="549,1625,756,1666"/>
-<area shape="rect" id="node30" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aa208a3737c189a9e7b2d4c2971ee0bc3" title="BGC.Tests.MidiEncodingTests.\lTestRenderToccataMidi" alt="" coords="549,1690,756,1731"/>
-<area shape="rect" id="node31" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a3f937ad7b59d7fd2f5c6e78149d9ee3f" title="BGC.Tests.SynthesisTests.\lTestSawtoothWave" alt="" coords="559,1755,746,1797"/>
-<area shape="rect" id="node32" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ad959616ceeda6cf53fa9fec48179309f" title="BGC.Tests.SynthesisTests.\lTestSineWave" alt="" coords="559,1821,746,1862"/>
-<area shape="rect" id="node33" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a8a4e4776055e81e441d3b800801e4ff8" title="BGC.Tests.SynthesisTests.\lTestSquareWave" alt="" coords="559,1886,746,1927"/>
-<area shape="rect" id="node34" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a1786ef03c0b3dd4e62a259754149e02b" title="BGC.Tests.SynthesisTests.\lTestTriangleWave" alt="" coords="559,1951,746,1993"/>
+<area shape="rect" id="node21" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a780f834b3e31bb50f8679fc1a9ea6f36" title="BGC.Tests.SynthesisTests.\lTestFDComposer" alt="" coords="559,1102,746,1143"/>
+<area shape="rect" id="node22" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#af2bd4443a97460b8fcc736698de3c95f" title="BGC.Tests.SynthesisTests.\lTestFDComposerPure" alt="" coords="559,1167,746,1209"/>
+<area shape="rect" id="node23" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#ab52b2d8da332278f3f2e3295b89dc19b" title="BGC.Tests.MidiEncodingTests.\lTestFlute" alt="" coords="549,1233,756,1274"/>
+<area shape="rect" id="node24" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a821df2f60b45bcacfc9842b8ecd21e12" title="BGC.Tests.SynthesisTests.\lTestFMFilterSynth" alt="" coords="559,1298,746,1339"/>
+<area shape="rect" id="node25" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a3eec3d7f075a9690dd93294a0f541a10" title="BGC.Tests.SynthesisTests.\lTestFMFilterVoice" alt="" coords="559,1363,746,1405"/>
+<area shape="rect" id="node26" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a80bae7887e4ecf9b3579b5077e9484ad" title="BGC.Tests.SynthesisTests.\lTestFrequencyShifter" alt="" coords="559,1429,746,1470"/>
+<area shape="rect" id="node27" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#af983e4b1ccdbaba1ce5f58002c3ad35f" title="BGC.Tests.SynthesisTests.\lTestFunFakeVoice" alt="" coords="559,1494,746,1535"/>
+<area shape="rect" id="node28" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a30475137c28aa041cb22070835c99716" title="BGC.Tests.MidiEncodingTests.\lTestGuitar" alt="" coords="549,1559,756,1601"/>
+<area shape="rect" id="node29" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a9ed6e6d8011d4f5b19c09d5ca43faf7d" title="BGC.Tests.MidiEncodingTests.\lTestOrgan" alt="" coords="549,1625,756,1666"/>
+<area shape="rect" id="node30" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a77fc03efbfdaeeb2651020c9c37f0f8c" title="BGC.Tests.SynthesisTests.\lTestPhaseReEncoder" alt="" coords="559,1690,746,1731"/>
+<area shape="rect" id="node31" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#a465333b5ca632fe596f8473217f73779" title="BGC.Tests.MidiEncodingTests.\lTestPulses" alt="" coords="549,1755,756,1797"/>
+<area shape="rect" id="node32" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aac6b9d27b63c8e50447c9d36ff25ec06" title="BGC.Tests.MidiEncodingTests.\lTestRenderMidi" alt="" coords="549,1821,756,1862"/>
+<area shape="rect" id="node33" href="$class_b_g_c_1_1_tests_1_1_midi_encoding_tests.html#aa208a3737c189a9e7b2d4c2971ee0bc3" title="BGC.Tests.MidiEncodingTests.\lTestRenderToccataMidi" alt="" coords="549,1886,756,1927"/>
+<area shape="rect" id="node34" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a3f937ad7b59d7fd2f5c6e78149d9ee3f" title="BGC.Tests.SynthesisTests.\lTestSawtoothWave" alt="" coords="559,1951,746,1993"/>
+<area shape="rect" id="node35" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#ad959616ceeda6cf53fa9fec48179309f" title="BGC.Tests.SynthesisTests.\lTestSineWave" alt="" coords="559,2017,746,2058"/>
+<area shape="rect" id="node36" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a8a4e4776055e81e441d3b800801e4ff8" title="BGC.Tests.SynthesisTests.\lTestSquareWave" alt="" coords="559,2082,746,2123"/>
+<area shape="rect" id="node37" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a781816acefb35b03a58beac5103cc6f7" title="BGC.Tests.SynthesisTests.\lTestSTM" alt="" coords="559,2147,746,2189"/>
+<area shape="rect" id="node38" href="$class_b_g_c_1_1_tests_1_1_synthesis_tests.html#a1786ef03c0b3dd4e62a259754149e02b" title="BGC.Tests.SynthesisTests.\lTestTriangleWave" alt="" coords="559,2213,746,2254"/>
 </map>

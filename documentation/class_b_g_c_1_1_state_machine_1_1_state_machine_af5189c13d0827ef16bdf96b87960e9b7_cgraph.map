@@ -1,4 +1,0 @@
-<map id="BGC.StateMachine.StateMachine.AddState" name="BGC.StateMachine.StateMachine.AddState">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state.html#a0b043816bfb0bf2e87f1c2af98068035" title="Receive state machine related functions that give states required behaviour " alt="" coords="276,5,471,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_state.html#a4f5b40c742a48f1d6c5cfe220eaafc4f" title="Set whether the state machine is verbose or not " alt="" coords="276,71,471,112"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="BGC.StateMachine.StateMachine.AddTransition" name="BGC.StateMachine.StateMachine.AddTransition">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state_data.html#a7e5ef8cff9aa07c3a225fe33334f917a" title="BGC.StateMachine.StateData.\lDeActivateTrigger" alt="" coords="276,5,479,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_transition.html#ac5aea9a3b8b433a4bbd411b8b41d73f6" title="Add state machine data which is required for checking info " alt="" coords="277,71,477,112"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html#a825c0bc4fa638215dc05305a9592c17c" title="BGC.StateMachine.Transition\lCondition.SetStateMachineFunctions" alt="" coords="527,71,765,112"/>
-</map>

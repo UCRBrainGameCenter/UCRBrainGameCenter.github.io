@@ -1,0 +1,4 @@
+<map id="BGC.Audio.Filters.FramedPhaseReencoder.Seek" name="BGC.Audio.Filters.FramedPhaseReencoder.Seek">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html#ad99ce79bbab59f7cc0f5d442adabf2b4" title="The RMS amplitude of each channel " alt="" coords="234,5,426,47"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html#a2bd86a85021f76618927bc676fc49aec" title="Seek to the indicated position in the stream " alt="" coords="229,71,431,98"/>
+</map>

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['randomvaluetests_2ecs',['RandomValueTests.cs',['../_random_value_tests_8cs.html',1,'']]],
-  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'(Global Namespace)'],['../_state_machine_2_r_e_a_d_m_e_8md.html',1,'(Global Namespace)']]],
   ['readonly_2ecs',['ReadOnly.cs',['../_read_only_8cs.html',1,'']]],
   ['recttransformextensions_2ecs',['RectTransformExtensions.cs',['../_rect_transform_extensions_8cs.html',1,'']]],
   ['reservedchannels_2ecs',['ReservedChannels.cs',['../_reserved_channels_8cs.html',1,'']]],

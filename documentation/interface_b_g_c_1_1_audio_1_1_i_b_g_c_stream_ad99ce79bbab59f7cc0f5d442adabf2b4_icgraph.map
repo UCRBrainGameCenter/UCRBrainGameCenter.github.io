@@ -1,7 +1,10 @@
 <map id="BGC.Audio.IBGCStream.GetChannelRMS" name="BGC.Audio.IBGCStream.GetChannelRMS">
 <area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_r_m_s_standardizer.html#ad3aa36d27dd290f6390ce4b74aef4b5b" title="BGC.Audio.Filters.Stream\lRMSStandardizer._Initialize" alt="" coords="255,5,439,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_concatenator.html#ac7ed50ccaf92bc7a45cd72401fb314ee" title="The RMS amplitude of each channel " alt="" coords="245,71,448,112"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_normalization.html#a4196e67c8ee9db25c3b264abe6645491" title="BGC.Audio.Normalization.\lGetRMSScalingFactors" alt="" coords="259,136,435,177"/>
-<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_filter.html#af1c076fff7d9ede4c2fddd41c14a3487" title="BGC.Audio.Filters.Normalizer\lFilter._Initialize" alt="" coords="496,103,691,144"/>
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_mono_filter.html#a3af90ca42ad4316bcca0e0b8caff17a5" title="BGC.Audio.Filters.Normalizer\lMonoFilter._Initialize" alt="" coords="496,168,691,209"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_mono_filter.html#a0323f9512c9f6143d22b8917d9250bc2" title="The RMS amplitude of each channel " alt="" coords="249,71,444,112"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_filter.html#a7989ba3cd101dbfb11faaf234357df14" title="The RMS amplitude of each channel " alt="" coords="249,136,444,177"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_concatenator.html#ac7ed50ccaf92bc7a45cd72401fb314ee" title="The RMS amplitude of each channel " alt="" coords="245,201,448,243"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_normalization.html#a4196e67c8ee9db25c3b264abe6645491" title="BGC.Audio.Normalization.\lGetRMSScalingFactors" alt="" coords="259,267,435,308"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_framed_phase_reencoder.html#a2a7ec94fa6b88354fdf8d0c862691549" title="Seek to the indicated position in the stream " alt="" coords="259,332,435,373"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_filter.html#af1c076fff7d9ede4c2fddd41c14a3487" title="BGC.Audio.Filters.Normalizer\lFilter._Initialize" alt="" coords="496,235,691,276"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_normalizer_mono_filter.html#a3af90ca42ad4316bcca0e0b8caff17a5" title="BGC.Audio.Filters.Normalizer\lMonoFilter._Initialize" alt="" coords="496,300,691,341"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="BGC.Tests.SynthesisTests.TestAllPassFilterSpeech" name="BGC.Tests.SynthesisTests.TestAllPassFilterSpeech">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a9168ece461f39346cb82e1d0360761b7" title="BGC.Audio.Calibration.Initialize" alt="" coords="243,66,449,93"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_calibration.html#a9168ece461f39346cb82e1d0360761b7" title="BGC.Audio.Calibration.Initialize" alt="" coords="243,70,449,97"/>
 <area shape="rect" id="node3" href="$class_b_g_c_1_1_i_o_1_1_data_management.html#ae73b7be57491497f96351b0637d7e374" title="Returns the full path for specified datafile in a data directory " alt="" coords="507,5,713,47"/>
-<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0791f690a8a6e56f838a5577f45009ed" title="Loads a WAV file from the filepath as a SimpleAudioClip, returns success. " alt="" coords="240,119,452,160"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0791f690a8a6e56f838a5577f45009ed" title="Loads a WAV file from the filepath as a SimpleAudioClip, returns success. " alt="" coords="240,121,452,163"/>
 <area shape="rect" id="node4" href="$class_b_g_c_1_1_i_o_1_1_file_reader.html#ab92af1798c24dc57622a6d22faabc095" title="Offers two error callbacks for when a file is not found and for when a file failed to parse correctly..." alt="" coords="500,71,720,98"/>
 <area shape="rect" id="node5" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a95a87d70bbe7763caab326c72317cfb5" title="Creates a JsonValue by reading the given file. " alt="" coords="768,64,925,105"/>
 <area shape="rect" id="node6" href="$class_light_json_1_1_serialization_1_1_json_reader.html#a4a2f0692bf9dec28417fe83924ac7380" title="LightJson.Serialization.\lJsonReader.Parse" alt="" coords="973,64,1131,105"/>

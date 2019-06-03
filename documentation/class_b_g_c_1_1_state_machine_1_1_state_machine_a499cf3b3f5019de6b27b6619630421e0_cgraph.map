@@ -1,0 +1,11 @@
+<map id="BGC.StateMachine.StateMachine.ExecuteTransitions" name="BGC.StateMachine.StateMachine.ExecuteTransitions">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_trigger.html#a98cc497215ddef986ab80b6466c6ba47" title="BGC.StateMachine.IStateTrigger.\lActivateTrigger" alt="" coords="276,5,495,47"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_state_machine_1_1_i_transition_data_retriever.html#aa024b95b8acd3c8ee4c7003f892cd74e" title="BGC.StateMachine.ITransition\lDataRetriever.ConsumeTrigger" alt="" coords="284,71,487,112"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html#aa1dd98b6b96d6ea930c4e96da78c8273" title="BGC.StateMachine.IStateData\lBool.GetBool" alt="" coords="284,136,487,177"/>
+<area shape="rect" id="node5" href="$interface_b_g_c_1_1_state_machine_1_1_i_transition_data_retriever.html#abcf1d4f7ded2f77bb85d2a32f84f4288" title="BGC.StateMachine.ITransition\lDataRetriever.GetBool" alt="" coords="285,201,485,243"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_trigger.html#ac9ce7210f93ec9b77ab2d512bb30a133" title="BGC.StateMachine.IStateTrigger.\lGetTrigger" alt="" coords="276,267,495,308"/>
+<area shape="rect" id="node7" href="$interface_b_g_c_1_1_state_machine_1_1_i_transition_data_retriever.html#a9f4c56028b8ddc66c78fa0ecff510bdb" title="BGC.StateMachine.ITransition\lDataRetriever.GetTrigger" alt="" coords="285,332,485,373"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_state_machine_1_1_state.html#a7a7a3e6e872616182be0853218a5fe2c" title="Called when the state is entered " alt="" coords="290,397,481,439"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_state_machine_1_1_transition.html#a03f1b8fda09379b7d6b23813d54bdf24" title="Right before a transition this function is called so the transition and clean anything it has done up..." alt="" coords="285,463,485,504"/>
+<area shape="rect" id="node10" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html#a1627c208d2aebb06753b4c6f23e479bc" title="BGC.StateMachine.IStateData\lBool.SetBool" alt="" coords="284,528,487,569"/>
+</map>

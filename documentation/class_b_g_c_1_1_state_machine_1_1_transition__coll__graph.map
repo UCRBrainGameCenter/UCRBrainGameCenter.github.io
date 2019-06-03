@@ -1,4 +1,3 @@
-<map id="BGC.StateMachine.Transition" name="BGC.StateMachine.Transition">
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_state_machine_1_1_state.html" title="BGC.StateMachine.State" alt="" coords="310,195,481,221"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html" title="BGC.StateMachine.Transition\lCondition" alt="" coords="297,338,493,379"/>
+<map id="BGC.StateMachine.Transition&lt; TBoolEnum, TTriggerEnum &gt;" name="BGC.StateMachine.Transition&lt; TBoolEnum, TTriggerEnum &gt;">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_state.html" title="This class is implemented by states that are use din game. It comes with access to state machine rela..." alt="" coords="212,31,383,57"/>
 </map>

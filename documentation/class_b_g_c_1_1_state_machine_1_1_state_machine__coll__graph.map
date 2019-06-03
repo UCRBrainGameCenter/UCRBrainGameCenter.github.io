@@ -1,3 +1,6 @@
-<map id="BGC.StateMachine.StateMachine" name="BGC.StateMachine.StateMachine">
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_state_data.html" title="BGC.StateMachine.StateData" alt="" coords="269,56,468,83"/>
+<map id="BGC.StateMachine.StateMachine&lt; TBoolEnum, TTriggerEnum &gt;" name="BGC.StateMachine.StateMachine&lt; TBoolEnum, TTriggerEnum &gt;">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html" title="IStateDataBool\&lt; TBoolEnum \&gt;" alt="" coords="205,5,407,32"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_trigger.html" title="IStateTrigger\&lt; TTriggerEnum \&gt;" alt="" coords="205,56,407,83"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_state_machine_1_1_i_transition_data_retriever.html" title="ITransitionDataRetriever\l\&lt; TBoolEnum, TTriggerEnum \&gt;" alt="" coords="204,107,408,149"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_state_machine_1_1_state.html" title="This class is implemented by states that are use din game. It comes with access to state machine rela..." alt="" coords="221,333,391,360"/>
 </map>

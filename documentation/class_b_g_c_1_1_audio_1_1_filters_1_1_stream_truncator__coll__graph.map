@@ -1,0 +1,6 @@
+<map id="BGC.Audio.Filters.StreamTruncator" name="BGC.Audio.Filters.StreamTruncator">
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="105,184,225,211"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="285,95,365,121"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="277,5,374,32"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="23,95,190,121"/>
+</map>

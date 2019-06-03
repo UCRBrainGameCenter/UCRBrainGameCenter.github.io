@@ -4,7 +4,8 @@
 <area shape="rect" id="node4" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#a53db19115029ae7eb212e5244542e77e" title="Immediately collect all of the underlying samples and return as a Complex array " alt="" coords="260,136,492,177"/>
 <area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_b_g_c_clip_player.html#a2691c72facf0dd8c5181eecc125bf76e" title="BGC.Audio.BGCClipPlayer.Play" alt="" coords="271,202,481,229"/>
 <area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_synthesis_1_1_active_note_stream.html#a8a1332116a2fd0a52aaccf541a4572ba" title="Sets this internal state of this stream to the initial state " alt="" coords="281,253,471,295"/>
-<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#a31f78ef2b9bbbb269f9fd39bc3fbcc60" title="Immediately collect all of the underlying samples and return a SimpleAudioClip that contains them all..." alt="" coords="260,319,492,360"/>
-<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_concatenator.html#a9ca2f337a5189249a59f16ba1544709c" title="Seek to the indicated position in the stream " alt="" coords="289,384,463,425"/>
-<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0c5cf4ce66ece1a886dbe2727e0c3d5d" title="BGC.Audio.WaveEncoding.Stream\lWriter" alt="" coords="263,449,489,491"/>
+<area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_framed_phase_reencoder.html#a7ae4795c526728f29b94343b981fef03" title="Sets this internal state of this stream to the initial state " alt="" coords="288,319,464,360"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream_extensions.html#a31f78ef2b9bbbb269f9fd39bc3fbcc60" title="Immediately collect all of the underlying samples and return a SimpleAudioClip that contains them all..." alt="" coords="260,384,492,425"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_stream_concatenator.html#a9ca2f337a5189249a59f16ba1544709c" title="Seek to the indicated position in the stream " alt="" coords="289,449,463,491"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_audio_1_1_wave_encoding.html#a0c5cf4ce66ece1a886dbe2727e0c3d5d" title="BGC.Audio.WaveEncoding.Stream\lWriter" alt="" coords="263,515,489,556"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="BGC.Study.SessionElement" name="BGC.Study.SessionElement">
-<area shape="rect" id="node4" href="$class_light_json_1_1_json_object.html" title="Represents a key&#45;value pair collection of JsonValue objects. " alt="" coords="301,75,449,101"/>
-<area shape="rect" id="node5" href="$class_i_enumerable_3_01_key_value_pair_3_01string_00_01_json_value_01_4_4.html" title="IEnumerable\&lt; KeyValuePair\l\&lt; string, JsonValue \&gt;\&gt;" alt="" coords="5,62,192,103"/>
-<area shape="rect" id="node6" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="9,128,189,155"/>
+<area shape="rect" id="node4" href="$class_light_json_1_1_json_object.html" title="Represents a key&#45;value pair collection of JsonValue objects. " alt="" coords="301,79,449,105"/>
+<area shape="rect" id="node5" href="$class_i_enumerable_3_01_key_value_pair_3_01string_00_01_json_value_01_4_4.html" title="IEnumerable\&lt; KeyValuePair\l\&lt; string, JsonValue \&gt;\&gt;" alt="" coords="5,66,192,107"/>
+<area shape="rect" id="node6" href="$class_i_enumerable.html" title="IEnumerable\&lt; JsonValue \&gt;" alt="" coords="9,132,189,159"/>
 </map>

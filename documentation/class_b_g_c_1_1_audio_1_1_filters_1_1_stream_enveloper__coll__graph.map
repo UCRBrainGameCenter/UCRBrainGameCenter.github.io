@@ -1,7 +1,7 @@
 <map id="BGC.Audio.Filters.StreamEnveloper" name="BGC.Audio.Filters.StreamEnveloper">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="583,92,703,119"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="253,85,333,112"/>
-<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="5,85,103,112"/>
-<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="209,35,376,61"/>
-<area shape="rect" id="node8" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="BGC.Audio.Envelopes.IBGCEnvelope\lStream" alt="" coords="521,219,765,261"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="583,87,703,113"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="253,83,333,109"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="5,83,103,109"/>
+<area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="209,32,376,59"/>
+<area shape="rect" id="node8" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="BGC.Audio.Envelopes.IBGCEnvelope\lStream" alt="" coords="521,217,765,258"/>
 </map>

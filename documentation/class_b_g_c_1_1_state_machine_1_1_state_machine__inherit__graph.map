@@ -1,0 +1,5 @@
+<map id="BGC.StateMachine.StateMachine&lt; TBoolEnum, TTriggerEnum &gt;" name="BGC.StateMachine.StateMachine&lt; TBoolEnum, TTriggerEnum &gt;">
+<area shape="rect" id="node2" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_data_bool.html" title="IStateDataBool\&lt; TBoolEnum \&gt;" alt="" coords="6,5,209,32"/>
+<area shape="rect" id="node3" href="$interface_b_g_c_1_1_state_machine_1_1_i_state_trigger.html" title="IStateTrigger\&lt; TTriggerEnum \&gt;" alt="" coords="6,56,209,83"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_state_machine_1_1_i_transition_data_retriever.html" title="ITransitionDataRetriever\l\&lt; TBoolEnum, TTriggerEnum \&gt;" alt="" coords="5,107,209,149"/>
+</map>

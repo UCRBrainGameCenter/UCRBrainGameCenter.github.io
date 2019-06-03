@@ -9,9 +9,7 @@ var searchData=
   ['dialogs',['Dialogs',['../namespace_b_g_c_1_1_u_i_1_1_dialogs.html',1,'BGC::UI']]],
   ['envelopes',['Envelopes',['../namespace_b_g_c_1_1_audio_1_1_envelopes.html',1,'BGC::Audio']]],
   ['events',['Events',['../namespace_b_g_c_1_1_audio_1_1_midi_1_1_events.html',1,'BGC::Audio::Midi']]],
-  ['extensions',['Extensions',['../namespace_b_g_c_1_1_extensions.html',1,'BGC']]],
-  ['extensions',['Extensions',['../namespace_b_g_c_1_1_audio_1_1_extensions.html',1,'BGC::Audio']]],
-  ['extensions',['Extensions',['../namespace_b_g_c_1_1_i_o_1_1_extensions.html',1,'BGC::IO']]],
+  ['extensions',['Extensions',['../namespace_b_g_c_1_1_audio_1_1_extensions.html',1,'BGC.Audio.Extensions'],['../namespace_b_g_c_1_1_extensions.html',1,'BGC.Extensions'],['../namespace_b_g_c_1_1_i_o_1_1_extensions.html',1,'BGC.IO.Extensions']]],
   ['filebrowser',['FileBrowser',['../namespace_b_g_c_1_1_utility_1_1_file_browser.html',1,'BGC::Utility']]],
   ['filters',['Filters',['../namespace_b_g_c_1_1_audio_1_1_filters.html',1,'BGC::Audio']]],
   ['generic',['Generic',['../namespace_b_g_c_1_1_data_structures_1_1_generic.html',1,'BGC::DataStructures']]],
@@ -34,8 +32,7 @@ var searchData=
   ['ui',['UI',['../namespace_b_g_c_1_1_u_i.html',1,'BGC']]],
   ['unity',['Unity',['../namespace_b_g_c_1_1_utility_1_1_unity.html',1,'BGC::Utility']]],
   ['users',['Users',['../namespace_b_g_c_1_1_users.html',1,'BGC']]],
-  ['utility',['Utility',['../namespace_b_g_c_1_1_web_1_1_utility.html',1,'BGC::Web']]],
-  ['utility',['Utility',['../namespace_b_g_c_1_1_utility.html',1,'BGC']]],
+  ['utility',['Utility',['../namespace_b_g_c_1_1_utility.html',1,'BGC.Utility'],['../namespace_b_g_c_1_1_web_1_1_utility.html',1,'BGC.Web.Utility']]],
   ['visualization',['Visualization',['../namespace_b_g_c_1_1_audio_1_1_visualization.html',1,'BGC::Audio']]],
   ['web',['Web',['../namespace_b_g_c_1_1_web.html',1,'BGC']]]
 ];

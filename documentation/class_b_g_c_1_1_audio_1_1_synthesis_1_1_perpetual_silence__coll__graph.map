@@ -1,5 +1,5 @@
 <map id="BGC.Audio.Synthesis.PerpetualSilence" name="BGC.Audio.Synthesis.PerpetualSilence">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream.html" title="BGCStream" alt="" coords="55,95,149,121"/>
+<area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_b_g_c_stream.html" title="BGCStream" alt="" coords="91,95,185,121"/>
 <area shape="rect" id="node3" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="5,5,103,32"/>
-<area shape="rect" id="node5" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="IBGCEnvelopeStream" alt="" coords="173,95,324,121"/>
+<area shape="rect" id="node5" href="$interface_b_g_c_1_1_audio_1_1_envelopes_1_1_i_b_g_c_envelope_stream.html" title="IBGCEnvelopeStream" alt="" coords="209,95,360,121"/>
 </map>

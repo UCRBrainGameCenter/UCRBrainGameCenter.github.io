@@ -19,6 +19,7 @@ var searchData=
   ['modalbuttoncallback',['ModalButtonCallback',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#a834b64f19f27772d335278f9a42864bc',1,'BGC::UI::Dialogs::ModalDialog']]],
   ['modaldialog',['ModalDialog',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#af31e4e5fc1d3cca86f359c79178e7804',1,'BGC::UI::Dialogs::ModalDialog']]],
   ['modaldoubleinputcallback',['ModalDoubleInputCallback',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#af3a9a186fc84728b5f65db123c1c2c14',1,'BGC::UI::Dialogs::ModalDialog']]],
+  ['modaldropdowninputcallback',['ModalDropdownInputCallback',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#ad956159a86891078ae77981d079a3667',1,'BGC::UI::Dialogs::ModalDialog']]],
   ['modalinputcallback',['ModalInputCallback',['../class_b_g_c_1_1_u_i_1_1_dialogs_1_1_modal_dialog.html#aae4c82acf9d61465db1e0c29630dda6c',1,'BGC::UI::Dialogs::ModalDialog']]],
   ['modepaneltranslator',['ModePanelTranslator',['../class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_translator.html#a6d28e0f24c94b556de8828ecaf30023b',1,'BGC::UI::Panels::ModePanelTranslator']]],
   ['movenext',['MoveNext',['../class_b_g_c_1_1_data_structures_1_1_generic_1_1_ring_buffer_enum.html#a3010ce95836593eb2e46ae096c58a01b',1,'BGC::DataStructures::Generic::RingBufferEnum']]],

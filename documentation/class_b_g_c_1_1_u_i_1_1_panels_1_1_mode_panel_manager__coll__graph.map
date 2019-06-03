@@ -1,8 +1,8 @@
 <map id="BGC.UI.Panels.ModePanelManager" name="BGC.UI.Panels.ModePanelManager">
-<area shape="rect" id="node2" href="$class_mono_behaviour.html" title="MonoBehaviour" alt="" coords="323,51,435,77"/>
-<area shape="rect" id="node4" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html" title="ModePanel" alt="" coords="711,405,797,432"/>
-<area shape="rect" id="node15" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html" title="BGC.UI.Panels.ModePanel" alt="" coords="663,51,845,77"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_copy_panel.html" title="Clones the appearance of a ModelPanel to show it sliding offscreen. " alt="" coords="975,207,1157,233"/>
-<area shape="rect" id="node5" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_lerped_action_channel.html" title="BGC.UI.Panels.ModePanelLerped\lActionChannel" alt="" coords="268,162,489,203"/>
-<area shape="rect" id="node6" href="$class_b_g_c_1_1_mono_utility_1_1_interpolation_1_1_lerped_component_action_channel.html" title="LerpedComponentActionChannel\l\&lt; ModePanel \&gt;" alt="" coords="5,162,219,203"/>
+<area shape="rect" id="node2" href="$class_mono_behaviour.html" title="MonoBehaviour" alt="" coords="323,48,435,74"/>
+<area shape="rect" id="node4" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html" title="ModePanel" alt="" coords="711,402,797,429"/>
+<area shape="rect" id="node15" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel.html" title="BGC.UI.Panels.ModePanel" alt="" coords="663,48,845,74"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_copy_panel.html" title="Clones the appearance of a ModelPanel to show it sliding offscreen. " alt="" coords="975,204,1157,230"/>
+<area shape="rect" id="node5" href="$class_b_g_c_1_1_u_i_1_1_panels_1_1_mode_panel_lerped_action_channel.html" title="BGC.UI.Panels.ModePanelLerped\lActionChannel" alt="" coords="268,159,489,200"/>
+<area shape="rect" id="node6" href="$class_b_g_c_1_1_mono_utility_1_1_interpolation_1_1_lerped_component_action_channel.html" title="LerpedComponentActionChannel\l\&lt; ModePanel \&gt;" alt="" coords="5,159,219,200"/>
 </map>

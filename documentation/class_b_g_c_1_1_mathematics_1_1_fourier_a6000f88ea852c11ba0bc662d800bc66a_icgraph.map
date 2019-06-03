@@ -5,6 +5,8 @@
 <area shape="rect" id="node5" href="$class_b_g_c_1_1_audio_1_1_visualization_1_1_spectrogram.html#a24ee2b54b25a375963cc3ef81306c5c9" title="BGC.Audio.Visualization.\lSpectrogram.Decompose" alt="" coords="273,201,443,243"/>
 <area shape="rect" id="node6" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_phase_vocoder.html#afd96259457e9ebe2b851e5177f6345fd" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="232,267,484,294"/>
 <area shape="rect" id="node7" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_convolution_filter.html#ac7ed00ad00a31fc8d803da06cd247d75" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="257,319,459,360"/>
-<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_multi_convolution_filter.html#a421d5f704b762548591537f4e9869e95" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="243,384,473,425"/>
-<area shape="rect" id="node9" href="$class_b_g_c_1_1_tests_1_1_test_overlap_add.html#ab7eeef81564d6ef7d22af3bcdd38e989" title="BGC.Tests.TestOverlapAdd.\lTestNewFFTs" alt="" coords="263,449,453,491"/>
+<area shape="rect" id="node8" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_framed_phase_reencoder.html#a65c044575b63654261f36e6d12480516" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="270,384,446,425"/>
+<area shape="rect" id="node9" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_multi_convolution_filter.html#a421d5f704b762548591537f4e9869e95" title="Copy count samples into the Data buffer, starting at offset. " alt="" coords="243,449,473,491"/>
+<area shape="rect" id="node10" href="$class_b_g_c_1_1_tests_1_1_test_overlap_add.html#ab7eeef81564d6ef7d22af3bcdd38e989" title="BGC.Tests.TestOverlapAdd.\lTestNewFFTs" alt="" coords="263,515,453,556"/>
+<area shape="rect" id="node11" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_single_pass_phase_reencoder.html#ad85c6281ba0ec77db75bcda9ac0211c8" title="BGC.Audio.Filters.Single\lPassPhaseReencoder.TimeShift" alt="" coords="252,580,464,621"/>
 </map>

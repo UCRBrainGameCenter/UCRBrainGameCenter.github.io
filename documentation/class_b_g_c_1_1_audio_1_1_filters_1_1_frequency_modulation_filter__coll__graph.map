@@ -1,9 +1,9 @@
 <map id="BGC.Audio.Filters.FrequencyModulationFilter" name="BGC.Audio.Filters.FrequencyModulationFilter">
 <area shape="rect" id="node2" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_simple_b_g_c_filter.html" title="SimpleBGCFilter" alt="" coords="187,266,307,293"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="195,95,275,121"/>
-<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="139,5,236,32"/>
+<area shape="rect" id="node3" href="$class_b_g_c_1_1_audio_1_1_filters_1_1_b_g_c_filter.html" title="Filters represent transformations of the BGCAudioStreams. Like Spatialization, windowing, and Carlile&#45;Filtering " alt="" coords="197,95,277,121"/>
+<area shape="rect" id="node4" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="IBGCStream" alt="" coords="140,5,237,32"/>
 <area shape="rect" id="node6" href="$interface_b_g_c_1_1_audio_1_1_i_b_g_c_stream.html" title="BGC.Audio.IBGCStream" alt="" coords="5,95,172,121"/>
 <area shape="rect" id="node9" href="$struct_b_g_c_1_1_mathematics_1_1_complex64.html" title="Represents a complex number with double&#45;precision floating point components " alt="" coords="505,266,705,293"/>
-<area shape="rect" id="node10" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="723,95,897,121"/>
-<area shape="rect" id="node11" href="$class_i_formattable.html" title="IFormattable" alt="" coords="525,95,620,121"/>
+<area shape="rect" id="node10" href="$class_i_equatable.html" title="IEquatable\&lt; Complex64 \&gt;" alt="" coords="727,95,901,121"/>
+<area shape="rect" id="node11" href="$class_i_formattable.html" title="IFormattable" alt="" coords="529,95,624,121"/>
 </map>

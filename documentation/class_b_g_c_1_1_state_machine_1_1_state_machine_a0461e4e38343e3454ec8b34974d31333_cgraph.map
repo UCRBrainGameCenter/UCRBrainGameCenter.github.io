@@ -1,4 +1,0 @@
-<map id="BGC.StateMachine.StateMachine.Transition" name="BGC.StateMachine.StateMachine.Transition">
-<area shape="rect" id="node2" href="$class_b_g_c_1_1_state_machine_1_1_transition.html#a189cc99440837db4c89285ce4873e2cc" title="Right before a transition this function is called so the transition and clean anything it has done up..." alt="" coords="276,5,476,47"/>
-<area shape="rect" id="node3" href="$class_b_g_c_1_1_state_machine_1_1_transition_condition.html#a251a119a54ded01b4c811c45dc902455" title="Called before the transition for anything useful to be done such as consumeing triggers ..." alt="" coords="524,5,720,47"/>
-</map>
